@@ -44,14 +44,17 @@ def create_app(cfg: ApiConfig | None = None) -> FastAPI:
         description="Phase 9 API — threads, RAG messages, health (phases 5–8).",
     )
 
-    if cfg.cors_origins:
-        app.add_middleware(
-            CORSMiddleware,
-            allow_origins=cfg.cors_origins,
-            allow_credentials=True,
-            allow_methods=["*"],
-            allow_headers=["*"],
-        )
+    if cfg.cors_origins or cfg.cors_origin_regex:
+        cors_kwargs: dict = {
+            "allow_credentials": True,
+            "allow_methods": ["*"],
+            "allow_headers": ["*"],
+        }
+        if cfg.cors_origins:
+            cors_kwargs["allow_origins"] = cfg.cors_origins
+        if cfg.cors_origin_regex:
+            cors_kwargs["allow_origin_regex"] = cfg.cors_origin_regex
+        app.add_middleware(CORSMiddleware, **cors_kwargs)
 
     @app.get("/")
     def root() -> dict:
