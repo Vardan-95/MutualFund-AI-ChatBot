@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import os
 import time
+from contextlib import asynccontextmanager
 from pathlib import Path
 
 from fastapi import FastAPI, Header, HTTPException
@@ -13,6 +14,7 @@ from phases.common.paths import PROJECT_ROOT
 from pipeline.rag.config import load_rag_config
 from runtime.phase_8_threads.service import thread_service
 from runtime.phase_9_api.config import ApiConfig, load_api_config
+from runtime.phase_9_api.warmup import ensure_warmup_started, get_warmup_state, start_warmup_background
 from runtime.phase_9_api.schemas import (
     AssistantMessage,
     CreateThreadRequest,
@@ -36,12 +38,19 @@ os.environ.setdefault("TRANSFORMERS_NO_FLAX", "1")
 os.environ.setdefault("TRANSFORMERS_NO_JAX", "1")
 
 
+@asynccontextmanager
+async def _lifespan(_app: FastAPI):
+    start_warmup_background()
+    yield
+
+
 def create_app(cfg: ApiConfig | None = None) -> FastAPI:
     cfg = cfg or load_api_config()
     app = FastAPI(
         title="Mutual Fund FAQ API",
         version="0.4.0",
         description="Phase 9 API — threads, RAG messages, health (phases 5–8).",
+        lifespan=_lifespan,
     )
 
     if cfg.cors_origins or cfg.cors_origin_regex:
@@ -84,17 +93,21 @@ def create_app(cfg: ApiConfig | None = None) -> FastAPI:
 
     @app.get("/health")
     def health() -> dict:
+        ensure_warmup_started()
         rag_cfg = load_rag_config()
         version = None
         if rag_cfg.manifest_path.exists():
             version = json.loads(
                 rag_cfg.manifest_path.read_text(encoding="utf-8")
             ).get("corpus_version")
+        warmup = get_warmup_state()
         return {
             "status": "ok",
             "corpus_version": version,
             "rag": "phase_7",
             "api": "phase_9",
+            "rag_ready": warmup.get("status") == "ready",
+            "warmup": warmup,
         }
 
     @app.post("/threads", response_model=CreateThreadResponse)
@@ -150,6 +163,17 @@ def create_app(cfg: ApiConfig | None = None) -> FastAPI:
     def post_message(thread_id: str, body: PostMessageRequest) -> PostMessageResponse:
         if not thread_service.store.get_thread(thread_id):
             raise HTTPException(status_code=404, detail="Thread not found")
+        warmup = get_warmup_state()
+        if warmup.get("status") == "loading":
+            raise HTTPException(
+                status_code=503,
+                detail="RAG models are still loading. Retry in 30–60 seconds.",
+            )
+        if warmup.get("status") == "failed":
+            raise HTTPException(
+                status_code=503,
+                detail=f"RAG warmup failed: {warmup.get('error', 'unknown')}",
+            )
         started = time.perf_counter()
         try:
             result, updated = thread_service.post_user_message(

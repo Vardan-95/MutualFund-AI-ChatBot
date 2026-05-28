@@ -26,6 +26,12 @@ def _get_retriever() -> HybridRetriever:
     return _retriever
 
 
+def warmup_rag_stack() -> None:
+    """Load BM25, Chroma client, and local embedding model before first user message."""
+    retriever = _get_retriever()
+    retriever._embedder.embed_batch(["warmup query"])
+
+
 @lru_cache(maxsize=1)
 def _corpus_version(manifest_path: str) -> int | None:
     from pathlib import Path

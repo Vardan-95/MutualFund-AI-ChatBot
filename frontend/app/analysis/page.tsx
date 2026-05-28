@@ -4,12 +4,14 @@ import { FormEvent, useEffect, useMemo, useRef, useState } from "react";
 import {
   createThread,
   deleteThread,
+  fetchHealth,
   getMessages,
   listThreads,
   postMessage,
   updateThread,
+  waitForRagReady,
   type MessageItem,
-  type ThreadSummary
+  type ThreadSummary,
 } from "@/lib/api";
 import { QuestionGuideModal } from "@/components/QuestionGuideModal";
 import { clearUserProfile, loadUserProfile, type UserProfile } from "@/lib/userProfile";
@@ -65,6 +67,7 @@ export default function AnalysisPage() {
   const suggestAnimTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const [suggestionsInteractable, setSuggestionsInteractable] = useState(false);
   const [apiError, setApiError] = useState<string | null>(null);
+  const [warmStatus, setWarmStatus] = useState<"idle" | "warming" | "ready" | "failed">("idle");
   const bootstrappedRef = useRef(false);
 
   function clearSuggestAnimTimer() {
@@ -108,6 +111,25 @@ export default function AnalysisPage() {
     }
     if (isLikelyMisconfiguredApiBase()) {
       setApiError(apiReachabilityHint());
+    } else {
+      setWarmStatus("warming");
+      void fetchHealth()
+        .then((h) => {
+          if (h.rag_ready) {
+            setWarmStatus("ready");
+            return;
+          }
+          return waitForRagReady();
+        })
+        .then(() => {
+          setWarmStatus("ready");
+          setApiError(null);
+        })
+        .catch((err) => {
+          setWarmStatus("failed");
+          const msg = err instanceof Error ? err.message : "Could not warm up the API.";
+          setApiError(msg);
+        });
     }
     void bootstrapWorkspace();
   }, []);
@@ -434,6 +456,11 @@ export default function AnalysisPage() {
           <div className="api-error-banner" role="alert">
             {apiError}
           </div>
+        ) : warmStatus === "warming" ? (
+          <div className="api-info-banner" role="status">
+            Waking up AI on the server — first load can take 1–2 minutes on the free tier. You can
+            browse suggested questions while this finishes.
+          </div>
         ) : null}
         <div className="analysis-chat-panel">
           <div className="analysis-chat-bg" aria-hidden="true" />
@@ -497,7 +524,7 @@ export default function AnalysisPage() {
               placeholder="Ask about funds, holdings, NAV, SIP..."
             />
             <button className="primary-btn small" disabled={busy} type="submit">
-              {busy ? "Sending..." : "Send"}
+              {busy ? (warmStatus === "warming" ? "Warming up…" : "Analyzing…") : "Send"}
             </button>
           </form>
         </div>

@@ -454,6 +454,17 @@ a {
   line-height: 1.45;
 }
 
+.api-info-banner {
+  margin: 0 18px 8px;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: #eef6ff;
+  border: 1px solid #b6d4fe;
+  color: #084298;
+  font-size: 13px;
+  line-height: 1.45;
+}
+
 .analysis-title {
   display: inline-flex;
   align-items: center;

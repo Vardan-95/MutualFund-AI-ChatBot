@@ -11,6 +11,10 @@ services:
         value: .
       - key: API_HOST
         value: 0.0.0.0
+      - key: API_CORS_ALLOW_VERCEL_PREVIEWS
+        value: "1"
+      - key: API_CORS_ORIGINS
+        value: https://mutual-fund-ai-chat-bot.vercel.app,http://localhost:3000
       - key: CHROMA_API_KEY
         sync: false
       - key: CHROMA_TENANT

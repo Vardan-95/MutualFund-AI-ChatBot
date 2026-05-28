@@ -35,7 +35,9 @@ def load_api_config() -> ApiConfig:
     ).strip()
     origins = [o.strip() for o in cors_raw.split(",") if o.strip()]
     cors_regex: str | None = None
-    if _truthy("API_CORS_ALLOW_VERCEL_PREVIEWS"):
+    # On Render, allow all Vercel production + preview URLs unless explicitly disabled.
+    allow_vercel = _truthy("API_CORS_ALLOW_VERCEL_PREVIEWS", "true" if os.environ.get("RENDER") else "false")
+    if allow_vercel:
         cors_regex = r"https://.*\.vercel\.app"
     secret = os.environ.get("ADMIN_REINDEX_SECRET", "").strip() or None
     return ApiConfig(
