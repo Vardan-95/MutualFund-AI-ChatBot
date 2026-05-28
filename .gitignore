@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.local
+*.egg-info/
+dist/
+build/
+data/threads/*.db
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+data/index/chroma/
+data/index/chroma_test/
+data/index/embed_cache/

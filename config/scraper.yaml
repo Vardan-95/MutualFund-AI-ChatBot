@@ -1,0 +1,13 @@
+allowed_domains:
+  - groww.in
+request_delay_seconds: 1.5
+max_concurrent: 2
+timeout_connect_seconds: 10
+timeout_read_seconds: 30
+max_retries: 3
+retry_backoff_seconds: 2
+raw_html_archive: true
+raw_html_path: data/raw
+user_agent: "MutualFundFAQBot/1.0 (+https://github.com; facts-only corpus refresh)"
+corpus_path: data/corpus
+manifest_path: data/index/ingestion_manifest.json

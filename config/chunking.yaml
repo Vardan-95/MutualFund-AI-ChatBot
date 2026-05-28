@@ -1,0 +1,19 @@
+token_encoding: cl100k_base
+min_chunk_tokens: 80
+target_chunk_tokens: 300
+max_section_tokens: 450
+hard_max_tokens: 512
+sentence_overlap_tokens: 50
+merge_short_sections: true
+dense_fact_chunk_enabled: true
+canonical_sections:
+  - fund_overview
+  - investment_limits
+  - fees_and_loads
+  - risk_and_benchmark
+  - returns_and_nav
+  - fund_details
+  - holdings_and_portfolio
+  - tax_and_lock_in
+  - key_fund_metrics
+  - other

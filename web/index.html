@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mutual Fund FAQ - Test UI</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1>Mutual Fund FAQ - Test UI</h1>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar">
+      <div class="sidebar-head">
+        <h2>Threads</h2>
+        <button id="newThreadBtn" type="button">New</button>
+      </div>
+      <div id="threadList" class="thread-list"></div>
+      <details class="settings">
+        <summary>Settings</summary>
+        <div class="api-box">
+          <label for="apiUrl">API URL</label>
+          <input id="apiUrl" type="text" value="http://127.0.0.1:8080" />
+          <button id="saveApiBtn" type="button">Save</button>
+        </div>
+      </details>
+      <p class="muted">Please ask only mutual fund–related and factual questions.</p>
+    </aside>
+
+    <section class="chat">
+      <div id="status" class="status">Connecting...</div>
+      <div id="messages" class="messages"></div>
+      <form id="chatForm" class="composer">
+        <textarea id="messageInput" rows="3" placeholder="Ask a question about one of the five HDFC schemes..." required></textarea>
+        <div class="composer-row">
+          <button id="sendBtn" type="submit">Send</button>
+        </div>
+      </form>
+    </section>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>

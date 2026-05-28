@@ -1,0 +1,9 @@
+{
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "embedding_provider": "local",
+  "embedding_dimensions": 384,
+  "vector_store": "chroma_cloud",
+  "collection_name": "mutual_fund_chunks",
+  "chunk_count": 47,
+  "corpus_version": 9
+}

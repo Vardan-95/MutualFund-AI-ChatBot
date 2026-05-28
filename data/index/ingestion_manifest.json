@@ -1,0 +1,80 @@
+{
+  "schemes": {
+    "hdfc_large_cap_direct_growth": {
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "status": "success",
+      "content_hash": "59391c6d357859f922c8ac80b7e779faf5b507d3f178c5edc481d40a1f4e9cd5",
+      "hash_changed": true,
+      "facts_hash": "138755b7238e3838d10f28de6ab1d8df20859f6cd9a590fab94f55798edcbca4",
+      "facts_hash_changed": true,
+      "facts_status": "complete",
+      "corpus_file": "data/corpus/hdfc-large-cap-fund-direct-growth.md",
+      "error": null,
+      "updated_at": "2026-05-27T17:52:18.623482+05:30"
+    },
+    "hdfc_mid_cap_direct_growth": {
+      "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+      "status": "success",
+      "content_hash": "bc2b83bbe4cb83c42644684da2e579848b08c06e298aaf1dfd4efc911337c701",
+      "hash_changed": true,
+      "facts_hash": "66e9039b4443562d93530c1f5d7217872b86e771d2ab50838a5f6ca7860f1779",
+      "facts_hash_changed": true,
+      "facts_status": "complete",
+      "corpus_file": "data/corpus/hdfc-mid-cap-fund-direct-growth.md",
+      "error": null,
+      "updated_at": "2026-05-27T17:52:18.623408+05:30"
+    },
+    "hdfc_equity_direct_growth": {
+      "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+      "status": "success",
+      "content_hash": "59759ffecc638de1f0a1cab153f07c3eca192f9f16d05104c7baa5839348b48a",
+      "hash_changed": true,
+      "facts_hash": "88ef69ff41065fe4dee74b458d2d91771a733eeb51257c564c1087c390ad5fc2",
+      "facts_hash_changed": true,
+      "facts_status": "complete",
+      "corpus_file": "data/corpus/hdfc-equity-fund-direct-growth.md",
+      "error": null,
+      "updated_at": "2026-05-27T17:52:18.623450+05:30"
+    },
+    "hdfc_focused_direct_growth": {
+      "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
+      "status": "success",
+      "content_hash": "eb9151ee29dc0f108a556a955ba0cb928d7d457c0b5307d13512c931ad6737dc",
+      "hash_changed": true,
+      "facts_hash": "f2057ab08bd7a9e79a33445b589665ebc030c6aabf45b6f31b475e35445e9797",
+      "facts_hash_changed": true,
+      "facts_status": "complete",
+      "corpus_file": "data/corpus/hdfc-focused-fund-direct-growth.md",
+      "error": null,
+      "updated_at": "2026-05-27T17:52:18.623462+05:30"
+    },
+    "hdfc_elss_direct_growth": {
+      "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+      "status": "success",
+      "content_hash": "898f6003704dd7db663ba18e8a969dd0dc31899355c79a3a19a5a6e0ddf07142",
+      "hash_changed": true,
+      "facts_hash": "08ec28fee202f3f04c4a9fb7ca6e06ca43664c4e1f5d0c7b82cd5583396f125a",
+      "facts_hash_changed": true,
+      "facts_status": "complete",
+      "corpus_file": "data/corpus/hdfc-elss-tax-saver-fund-direct-plan-growth.md",
+      "error": null,
+      "updated_at": "2026-05-27T17:52:18.623472+05:30"
+    }
+  },
+  "corpus_version": 9,
+  "last_scrape_run": {
+    "scrape_run_id": "b439d413-1180-4195-8487-904620d5723c",
+    "content_captured_at": "2026-05-27",
+    "completed_at": "2026-05-27T17:52:18.623493+05:30",
+    "corpus_changed": true,
+    "success_count": 5,
+    "failed_count": 0,
+    "skipped_reindex": false
+  },
+  "last_ingest_run": {
+    "completed_at": "2026-05-27T17:54:25.325960+05:30",
+    "chunk_count": 47,
+    "embedding_model": "BAAI/bge-small-en-v1.5",
+    "skipped_embed_cache": 0
+  }
+}

@@ -1,0 +1,9 @@
+corpus_dir: data/corpus
+index_dir: data/index
+manifest_path: data/index/ingestion_manifest.json
+chunks_path: data/index/chunks.jsonl
+bm25_dir: data/index/bm25
+embeddings_manifest_path: data/index/embeddings_manifest.json
+require_all_schemes: true
+keep_last_good_index: true
+snapshot_dir: data/index/snapshots

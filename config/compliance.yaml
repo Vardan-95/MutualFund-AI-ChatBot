@@ -1,0 +1,79 @@
+education_url: https://www.amfiindia.com/investor/knowledge-center-info?zoneName=IntroductionToMF
+
+# Embedding similarity to refusal exemplars (BGE); disabled if below 0 or no embedder
+advisory_similarity_threshold: 0.78
+comparison_similarity_threshold: 0.76
+
+refusal_exemplars:
+  advisory:
+    - Should I invest in HDFC Mid Cap Fund?
+    - Is this a good fund to buy now?
+    - Which fund would you recommend for retirement?
+    - Tell me if I should put money in ELSS
+    - Is HDFC Large Cap worth investing in?
+  comparison:
+    - Which is better HDFC Mid Cap or Large Cap?
+    - Compare ELSS and focused fund for me
+    - Should I choose equity or mid cap fund?
+
+patterns:
+  advisory:
+    - should i invest
+    - should i buy
+    - worth investing
+    - good fund to buy
+    - recommend a fund
+    - which fund is better for me
+    - where should i put my money
+    - is it a good time to invest
+    - buy or sell
+    - pick a fund for me
+    - financial advice
+  comparison:
+    - compare .+ and
+    - compare .+ vs
+    - versus
+    - vs\.
+    - which is better
+    - better than
+    - difference between .+ and
+    - outperfor
+  performance:
+    - \breturns?\b
+    - \bcagr\b
+    - historic returns
+    - last year return
+    - 1 year return
+    - 3 year return
+    - 5 year return
+    - how much did it return
+    - annual return
+  process:
+    - how to download
+    - how do i download
+    - capital gains report
+    - account statement
+    - how to redeem
+    - how to switch
+
+out_of_scope_amc_keywords:
+  - sbi mutual
+  - icici prudential
+  - nippon india
+  - axis mutual
+  - parag parikh
+  - uti mutual
+
+guardrails:
+  max_sentences: 3
+  block_performance_synthesis: true
+  redact_pii: true
+  forbidden_output_patterns:
+    - invest in
+    - you should
+    - better than
+    - outperfor
+    - guarantee
+    - best fund
+    - recommend
+    - which is better

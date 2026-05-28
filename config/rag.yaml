@@ -1,0 +1,35 @@
+retrieval:
+  dense_top_k: 20
+  sparse_top_k: 20
+  rerank_top_k: 5
+  similarity_threshold: 0.72
+  rrf_k: 60
+  dense_weight: 0.7
+  sparse_weight: 0.3
+  scheme_filter_min_confidence: 0.85
+  merge_by_source_url: true
+  use_cross_encoder: false
+  cross_encoder_model: cross-encoder/ms-marco-MiniLM-L-6-v2
+  cross_encoder_top_n: 20
+  detect_numeric_conflicts: true
+
+generation:
+  provider: groq   # groq | openai
+  model: llama-3.3-70b-versatile
+  max_sentences: 3
+  temperature: 0.1
+  max_tokens: 180
+  # Footer date policy: cited_source = date on selected citation chunk only
+  footer_policy: cited_source
+  # groq_base_url: https://api.groq.com/openai/v1
+
+refusal:
+  default_education_url: https://www.amfiindia.com/investor/knowledge-center-info?zoneName=IntroductionToMF
+
+guardrails:
+  allowed_citation_domains:
+    - groww.in
+
+disclaimer: >
+  Facts-only assistant. Not investment advice. Data from Groww scheme pages;
+  verify on the cited source before acting.
