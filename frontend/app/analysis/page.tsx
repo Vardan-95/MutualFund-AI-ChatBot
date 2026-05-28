@@ -14,7 +14,7 @@ import {
 import { QuestionGuideModal } from "@/components/QuestionGuideModal";
 import { clearUserProfile, loadUserProfile, type UserProfile } from "@/lib/userProfile";
 import { QUESTION_GUIDE_HINT } from "@/lib/questionGuide";
-import { setApiSessionKey } from "@/lib/api";
+import { apiReachabilityHint, isLikelyMisconfiguredApiBase, setApiSessionKey } from "@/lib/api";
 
 const SUGGESTED_QUESTIONS = [
   "What is the latest NAV of HDFC Mid Cap Fund Direct Growth?",
@@ -64,7 +64,7 @@ export default function AnalysisPage() {
   const [popupPhase, setPopupPhase] = useState<SuggestPopupPhase>("hidden");
   const suggestAnimTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const [suggestionsInteractable, setSuggestionsInteractable] = useState(false);
-  const userHasInteractedRef = useRef(false);
+  const [apiError, setApiError] = useState<string | null>(null);
   const bootstrappedRef = useRef(false);
 
   function clearSuggestAnimTimer() {
@@ -96,20 +96,6 @@ export default function AnalysisPage() {
   useEffect(() => () => clearSuggestAnimTimer(), []);
 
   useEffect(() => {
-    const markInteracted = () => {
-      userHasInteractedRef.current = true;
-    };
-    window.addEventListener("pointerdown", markInteracted, { capture: true });
-    window.addEventListener("keydown", markInteracted, { capture: true });
-    window.addEventListener("touchstart", markInteracted, { capture: true });
-    return () => {
-      window.removeEventListener("pointerdown", markInteracted, { capture: true });
-      window.removeEventListener("keydown", markInteracted, { capture: true });
-      window.removeEventListener("touchstart", markInteracted, { capture: true });
-    };
-  }, []);
-
-  useEffect(() => {
     const p = loadUserProfile();
     setProfile(p);
     setApiSessionKey(p?.email || null);
@@ -120,6 +106,10 @@ export default function AnalysisPage() {
     } catch {
       setArchivedIds([]);
     }
+    if (isLikelyMisconfiguredApiBase()) {
+      setApiError(apiReachabilityHint());
+    }
+    void bootstrapWorkspace();
   }, []);
 
   useEffect(() => {
@@ -142,17 +132,19 @@ export default function AnalysisPage() {
     if (bootstrappedRef.current) return;
     bootstrappedRef.current = true;
     armSuggestionsAfterDelay();
-    const list = await refreshThreads();
-    if (list.length > 0) return;
-    const created = await createThread();
-    setThreads([created.thread]);
-    setActiveId(created.thread.thread_id);
-    setMessages([]);
+    try {
+      const list = await refreshThreads();
+      if (list.length > 0) return;
+      const created = await createThread();
+      setThreads([created.thread]);
+      setActiveId(created.thread.thread_id);
+      setMessages([]);
+      setApiError(null);
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : "Could not connect to the API.";
+      setApiError(msg);
+    }
   }
-
-  useEffect(() => {
-    bootstrapWorkspace().catch(console.error);
-  }, []);
 
   useEffect(() => {
     if (!activeId) {
@@ -171,8 +163,11 @@ export default function AnalysisPage() {
         if (suggestionsInteractable) show();
         else window.setTimeout(show, 650);
       })
-      .catch(console.error);
-  }, [activeId]);
+      .catch((err) => {
+        const msg = err instanceof Error ? err.message : "Could not load messages.";
+        setApiError(msg);
+      });
+  }, [activeId, suggestionsInteractable]);
 
   const sortedThreads = useMemo(() => [...threads], [threads]);
   const pinnedThreads = sortedThreads.filter((t) => !!t.pinned && !archivedIds.includes(t.thread_id));
@@ -180,12 +175,18 @@ export default function AnalysisPage() {
   const archivedThreads = sortedThreads.filter((t) => archivedIds.includes(t.thread_id));
 
   async function onNewThread() {
-    const created = await createThread();
-    setThreads((p) => [created.thread, ...p]);
-    setActiveId(created.thread.thread_id);
-    setMessages([]);
-    armSuggestionsAfterDelay();
-    presentSuggestions();
+    try {
+      const created = await createThread();
+      setThreads((p) => [created.thread, ...p]);
+      setActiveId(created.thread.thread_id);
+      setMessages([]);
+      setApiError(null);
+      armSuggestionsAfterDelay();
+      presentSuggestions();
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : "Could not create a new chat.";
+      setApiError(msg);
+    }
   }
 
   async function sendQuestion(content: string) {
@@ -193,31 +194,42 @@ export default function AnalysisPage() {
     dismissSuggestions();
     setBusy(true);
 
-    let threadId = activeId;
-    if (!threadId) {
-      const created = await createThread();
-      threadId = created.thread.thread_id;
-      setActiveId(threadId);
-      setThreads((p) => [created.thread, ...p]);
-    }
-
-    setTitles((prev) => (prev[threadId!] ? prev : { ...prev, [threadId!]: shortTitleFromQuestion(content) }));
-    setMessages((prev) => [...prev, { role: "user", content, timestamp: new Date().toISOString() }]);
-
     try {
-      const res = await postMessage(threadId!, content);
+      let threadId = activeId;
+      if (!threadId) {
+        const created = await createThread();
+        threadId = created.thread.thread_id;
+        setActiveId(threadId);
+        setThreads((p) => [created.thread, ...p]);
+      }
+
+      setTitles((prev) =>
+        prev[threadId!] ? prev : { ...prev, [threadId!]: shortTitleFromQuestion(content) },
+      );
       setMessages((prev) => [
         ...prev,
-        { role: "assistant", content: res.assistant_message.content || "", timestamp: new Date().toISOString() }
+        { role: "user", content, timestamp: new Date().toISOString() },
       ]);
-      await refreshThreads();
-    } catch (err) {
-      const msg = err instanceof Error ? err.message : "Something went wrong while fetching response.";
+
+      const res = await postMessage(threadId!, content);
       setMessages((prev) => [
         ...prev,
         {
           role: "assistant",
-          content: `I hit an API error while answering this question: ${msg}`,
+          content: res.assistant_message.content || "",
+          timestamp: new Date().toISOString(),
+        },
+      ]);
+      setApiError(null);
+      await refreshThreads();
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : "Something went wrong while fetching response.";
+      setApiError(msg);
+      setMessages((prev) => [
+        ...prev,
+        {
+          role: "assistant",
+          content: `I could not complete that request: ${msg}`,
           timestamp: new Date().toISOString(),
         },
       ]);
@@ -246,7 +258,7 @@ export default function AnalysisPage() {
   }
 
   function onSuggestedQuestion(question: string) {
-    if (busy || !suggestionsInteractable || !userHasInteractedRef.current) return;
+    if (busy || !suggestionsInteractable) return;
     void sendQuestion(question);
   }
 
@@ -418,6 +430,11 @@ export default function AnalysisPage() {
             </span>
           </div>
         </header>
+        {apiError ? (
+          <div className="api-error-banner" role="alert">
+            {apiError}
+          </div>
+        ) : null}
         <div className="analysis-chat-panel">
           <div className="analysis-chat-bg" aria-hidden="true" />
           <div className="analysis-chat">

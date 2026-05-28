@@ -443,6 +443,17 @@ a {
   margin: 0;
 }
 
+.api-error-banner {
+  margin: 0 18px 8px;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: #fff4f4;
+  border: 1px solid #f5c2c7;
+  color: #9b1c1c;
+  font-size: 13px;
+  line-height: 1.45;
+}
+
 .analysis-title {
   display: inline-flex;
   align-items: center;
