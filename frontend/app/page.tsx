@@ -82,7 +82,7 @@ export default function HomePage() {
 
         <div className="hero-right">
           <div className="hero-graphic">
-            <img src="/api/hero-image" alt="Growth chart illustration" />
+            <img src="/hero-growth-chart.png" alt="Growth chart illustration" />
           </div>
           <div className="insight-card">
             <p>Live Insights</p>
