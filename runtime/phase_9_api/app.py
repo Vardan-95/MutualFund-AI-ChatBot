@@ -266,9 +266,6 @@ def _latest_assistant_debug_id(thread_id: str) -> str | None:
 def _register_internal_routes(app: FastAPI) -> None:
     from pydantic import BaseModel
 
-    from phases.p0_scrape import run_scrape
-    from pipeline.ingest import run_ingest
-
     class ScrapeResponse(BaseModel):
         scrape_run_id: str
         corpus_changed: bool
@@ -282,6 +279,8 @@ def _register_internal_routes(app: FastAPI) -> None:
 
     @app.post("/internal/scrape", response_model=ScrapeResponse)
     def scrape_all() -> ScrapeResponse:
+        from phases.p0_scrape import run_scrape
+
         run = run_scrape()
         if run.failed_count > 0 and run.success_count == 0:
             raise HTTPException(status_code=500, detail="All schemes failed to scrape")
@@ -306,6 +305,8 @@ def _register_internal_routes(app: FastAPI) -> None:
 
     @app.post("/internal/ingest", response_model=IngestResponse)
     def ingest_all(force: bool = False, force_reembed: bool = False) -> IngestResponse:
+        from pipeline.ingest import run_ingest
+
         result = run_ingest(force=force, force_reembed=force_reembed)
         return IngestResponse(
             skipped=result.skipped,
