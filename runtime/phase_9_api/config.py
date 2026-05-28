@@ -17,6 +17,16 @@ def _truthy(name: str, default: str = "false") -> bool:
     return os.environ.get(name, default).strip().lower() in ("1", "true", "yes", "on")
 
 
+def _default_api_host() -> str:
+    """Local dev binds loopback; PaaS (Render/Heroku) sets PORT and requires 0.0.0.0."""
+    explicit = os.environ.get("API_HOST", "").strip()
+    if explicit:
+        return explicit
+    if os.environ.get("PORT"):
+        return "0.0.0.0"
+    return "127.0.0.1"
+
+
 def load_api_config() -> ApiConfig:
     cors_raw = os.environ.get(
         "API_CORS_ORIGINS",
@@ -25,7 +35,7 @@ def load_api_config() -> ApiConfig:
     origins = [o.strip() for o in cors_raw.split(",") if o.strip()]
     secret = os.environ.get("ADMIN_REINDEX_SECRET", "").strip() or None
     return ApiConfig(
-        host=os.environ.get("API_HOST", "127.0.0.1"),
+        host=_default_api_host(),
         port=int(os.environ.get("PORT", "8080")),
         debug_responses=_truthy("RUNTIME_API_DEBUG"),
         admin_reindex_secret=secret,

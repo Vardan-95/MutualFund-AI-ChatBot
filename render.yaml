@@ -1,0 +1,21 @@
+# Optional Render Blueprint — import when creating the service, or mirror these in the dashboard.
+services:
+  - type: web
+    name: mutualfund-ai-chatbot
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements-api.txt
+    startCommand: python -m runtime.phase_9_api
+    envVars:
+      - key: PYTHONPATH
+        value: .
+      - key: API_HOST
+        value: 0.0.0.0
+      - key: CHROMA_API_KEY
+        sync: false
+      - key: CHROMA_TENANT
+        sync: false
+      - key: CHROMA_DATABASE
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false
