@@ -1,4 +1,5 @@
-# Daily pipeline (9:15 AM IST): scrape → chunk → embed (Chroma Cloud) → BM25
+# Daily pipeline (9:15 AM IST): scrape → chunk → embed (Chroma Cloud) → BM25 → push to main
+# Push to main triggers Render auto-deploy (enable Auto-Deploy on Render for branch main).
 # See Docs/RAG_Architecture.md §4.8 and phases/p0b_scheduler/README.md
 
 name: Daily corpus refresh
@@ -24,7 +25,7 @@ concurrency:
 
 jobs:
   scrape:
-    name: "1/2 Scrape latest Groww pages"
+    name: "1/3 Scrape latest Groww pages"
     runs-on: ubuntu-latest
     outputs:
       corpus_changed: ${{ steps.scrape.outputs.corpus_changed }}
@@ -67,19 +68,11 @@ jobs:
           if-no-files-found: warn
           retention-days: 30
 
-      - name: Upload ingestion manifest
-        uses: actions/upload-artifact@v4
-        with:
-          name: ingestion-manifest
-          path: data/index/ingestion_manifest.json
-          if-no-files-found: warn
-          retention-days: 90
-
   chunk-and-embed:
-    name: "2/2 Chunk, embed, update Chroma Cloud"
+    name: "2/3 Chunk, embed, update Chroma Cloud"
     needs: scrape
-  # Scheduled run (9:15 AM IST): always re-chunk + re-embed to Chroma after scrape.
-  # Manual run: only if corpus_changed or force_reindex.
+    # Scheduled run (9:15 AM IST): always re-chunk + re-embed after scrape.
+    # Manual run: only if corpus_changed or force_reindex.
     if: |
       needs.scrape.result == 'success' &&
       needs.scrape.outputs.success_count != '0' &&
@@ -171,34 +164,80 @@ jobs:
           echo "## Ingest skipped" >> "$GITHUB_STEP_SUMMARY"
           echo "Manual run: scrape reported no content hash change. Enable **force_reindex** to chunk and update Chroma anyway." >> "$GITHUB_STEP_SUMMARY"
 
-  publish:
-    name: Publish index bundle
+  push-to-main:
+    name: "3/3 Push data to main (Render auto-deploy)"
     needs: [scrape, chunk-and-embed]
-    if: always() && needs.chunk-and-embed.result == 'success'
+    if: |
+      needs.scrape.result == 'success' &&
+      needs.chunk-and-embed.result == 'success' &&
+      needs.scrape.outputs.success_count != '0'
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: corpus-md
+          path: data/corpus
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: scheme-facts
+          path: data/facts
+
       - uses: actions/download-artifact@v4
         with:
           name: index-bundle
           path: data/index
 
-      - name: Publish summary
+      - name: Commit and push refreshed corpus + index
+        env:
+          SCRAPE_RUN_ID: ${{ needs.scrape.outputs.scrape_run_id }}
         run: |
-          echo "## Index published" >> "$GITHUB_STEP_SUMMARY"
-          echo "corpus_version: $(jq -r .corpus_version data/index/ingestion_manifest.json)" >> "$GITHUB_STEP_SUMMARY"
-          echo "chunks: $(wc -l < data/index/chunks.jsonl)" >> "$GITHUB_STEP_SUMMARY"
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
+          git add data/corpus data/facts
+          git add data/index/chunks.jsonl data/index/bm25 data/index/ingestion_manifest.json data/index/embeddings_manifest.json
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+            echo "## No git changes" >> "$GITHUB_STEP_SUMMARY"
+            echo "Scrape/ingest produced identical hashes; Render deploy not required." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          VERSION="$(jq -r .corpus_version data/index/ingestion_manifest.json 2>/dev/null || echo unknown)"
+          git commit -m "chore(data): daily corpus refresh (v${VERSION}, scrape ${SCRAPE_RUN_ID})"
+          git push origin main
 
-      - name: Upload published bundle
-        uses: actions/upload-artifact@v4
-        with:
-          name: index-bundle-published
-          path: data/index/
-          retention-days: 90
+      - name: Trigger Render deploy hook (optional)
+        env:
+          RENDER_DEPLOY_HOOK: ${{ secrets.RENDER_DEPLOY_HOOK }}
+        run: |
+          if [ -n "$RENDER_DEPLOY_HOOK" ]; then
+            echo "Calling Render deploy hook..."
+            curl -fsSL -X POST "$RENDER_DEPLOY_HOOK"
+            echo "Render deploy hook accepted."
+          else
+            echo "RENDER_DEPLOY_HOOK not set; relying on Render GitHub auto-deploy."
+          fi
+
+      - name: Push summary
+        run: |
+          echo "## Pushed to main" >> "$GITHUB_STEP_SUMMARY"
+          echo "Render will deploy from this commit if **Auto-Deploy** is enabled for branch \`main\` (~10–20 min on free tier)." >> "$GITHUB_STEP_SUMMARY"
+          echo "corpus_version: $(jq -r .corpus_version data/index/ingestion_manifest.json)" >> "$GITHUB_STEP_SUMMARY"
 
   notify-failure:
     name: Notify on failure
-    needs: [scrape, chunk-and-embed, publish]
+    needs: [scrape, chunk-and-embed, push-to-main]
     if: failure()
     runs-on: ubuntu-latest
     steps:
-      - run: echo "::error::Daily corpus refresh failed. Check scrape, ingest (Chroma secrets), or publish."
+      - run: echo "::error::Daily corpus refresh failed. Check scrape, ingest (Chroma secrets), push-to-main, or Render deploy."

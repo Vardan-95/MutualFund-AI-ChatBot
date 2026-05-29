@@ -93,8 +93,9 @@ Outputs:
 Workflow: `.github/workflows/daily-corpus-refresh.yml`
 
 - **Schedule**: 9:15 AM IST daily (`45 3 * * *` UTC)
-- **Pipeline**: scrape → chunk → embed to **Chroma Cloud** → BM25 (ingest always runs on schedule)
-- **Secrets** (repo settings): `CHROMA_API_KEY`, `CHROMA_TENANT`, `CHROMA_DATABASE` (+ optional `CHROMA_HOST`)
+- **Pipeline**: scrape → chunk → embed to **Chroma Cloud** → BM25 → **commit & push to `main`** (ingest always runs on schedule)
+- **Production**: push to `main` triggers **Render auto-deploy** with fresh `data/corpus` + `data/index/bm25` (enable Auto-Deploy on Render for `main`)
+- **Secrets** (repo settings): `CHROMA_API_KEY`, `CHROMA_TENANT`, `CHROMA_DATABASE` (+ optional `CHROMA_HOST`, `RENDER_DEPLOY_HOOK`)
 - **Manual**: Actions → Daily corpus refresh → enable **force_reindex** to re-run ingest without new scrape data
 
 ## Disclaimer

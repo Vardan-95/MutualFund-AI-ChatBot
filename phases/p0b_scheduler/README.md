@@ -28,6 +28,17 @@ On the **daily schedule**, ingest **always** runs after a successful scrape (eve
 
 On **manual** `workflow_dispatch`, ingest runs only if the scrape changed content or you check **force_reindex**.
 
+## 3. Push to `main` → Render auto-deploy
+
+After ingest, job **`push-to-main`** commits:
+
+- `data/corpus/`, `data/facts/`
+- `data/index/chunks.jsonl`, `data/index/bm25/`, manifests
+
+and pushes to **`main`**. If your Render service has **Auto-Deploy** enabled for `main`, Render rebuilds with the new BM25/corpus (production chat uses sparse/BM25 on the free tier).
+
+Optional: set GitHub secret **`RENDER_DEPLOY_HOOK`** (from Render → Service → Deploy Hook) to force a deploy even when Git auto-deploy is slow.
+
 ## Required GitHub secrets
 
 | Secret | Purpose |
@@ -36,6 +47,17 @@ On **manual** `workflow_dispatch`, ingest runs only if the scrape changed conten
 | `CHROMA_TENANT` | Tenant ID |
 | `CHROMA_DATABASE` | Database name |
 | `CHROMA_HOST` | Optional (non-default region) |
+| `RENDER_DEPLOY_HOOK` | Optional Render deploy URL after push |
+
+## GitHub repo settings (one-time)
+
+- **Settings → Actions → General → Workflow permissions**: **Read and write**
+- If `main` is branch-protected: allow **github-actions[bot]** to push, or use a PAT in a custom secret
+
+## Render settings (one-time)
+
+- Service linked to this repo, branch **`main`**
+- **Auto-Deploy**: **On**
 
 ## Manual run
 
