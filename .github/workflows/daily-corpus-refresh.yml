@@ -181,6 +181,12 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Sync with latest main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
+
       - uses: actions/download-artifact@v4
         with:
           name: corpus-md
@@ -201,9 +207,6 @@ jobs:
           SCRAPE_RUN_ID: ${{ needs.scrape.outputs.scrape_run_id }}
         run: |
           set -e
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
           git add data/corpus data/facts
           git add data/index/chunks.jsonl data/index/bm25 data/index/ingestion_manifest.json data/index/embeddings_manifest.json
           if git diff --staged --quiet; then
