@@ -21,6 +21,10 @@ def classify_by_exemplars(
 ) -> tuple[str | None, float]:
     """Return (INTENT_ADVISORY|INTENT_COMPARISON, score) if similar to exemplars."""
     try:
+        from phases.common.runtime_mode import api_sparse_only
+
+        if api_sparse_only():
+            return None, 0.0
         from pipeline.config import load_embedding_config
         from pipeline.embedder import EmbeddingService
 

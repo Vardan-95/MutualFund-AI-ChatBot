@@ -4,10 +4,9 @@ import re
 from dataclasses import dataclass
 from functools import lru_cache
 
+from phases.common.runtime_mode import api_sparse_only
 from pipeline.bm25_index import load_bm25_index, search_bm25
-from pipeline.chroma_client import get_chroma_client
 from pipeline.config import load_embedding_config
-from pipeline.embedder import EmbeddingService
 from pipeline.rag.chunk_index import ChunkIndex
 from runtime.phase_5_retrieval.models import RetrievedChunk
 from runtime.phase_5_retrieval.config import RetrievalConfig, load_retrieval_config
@@ -32,12 +31,19 @@ class RetrievalResult:
 class HybridRetriever:
     def __init__(self, cfg: RetrievalConfig | None = None) -> None:
         self.cfg = cfg or load_retrieval_config()
+        self.sparse_only = api_sparse_only()
         self.embed_cfg = load_embedding_config()
         self.chunk_index = ChunkIndex(self.cfg.chunks_path)
         self.bm25, self.bm25_chunk_ids = load_bm25_index(self.cfg.bm25_dir)
-        self._embedder = EmbeddingService(self.embed_cfg)
-        self._chroma = get_chroma_client(self.embed_cfg)
-        self._collection = self._chroma.get_collection(self.cfg.collection_name)
+        self._embedder = None
+        self._collection = None
+        if not self.sparse_only:
+            from pipeline.chroma_client import get_chroma_client
+            from pipeline.embedder import EmbeddingService
+
+            self._embedder = EmbeddingService(self.embed_cfg)
+            self._chroma = get_chroma_client(self.embed_cfg)
+            self._collection = self._chroma.get_collection(self.cfg.collection_name)
 
     def retrieve(
         self,
@@ -168,6 +174,8 @@ class HybridRetriever:
         query: str,
         scheme_id: str | None,
     ) -> list[tuple[str, float, int]]:
+        if self.sparse_only or self._embedder is None or self._collection is None:
+            return []
         vector = self._embedder.embed_batch([query])[0]
         kwargs: dict = {
             "query_embeddings": [vector],

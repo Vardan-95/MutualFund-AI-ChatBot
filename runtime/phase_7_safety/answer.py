@@ -27,9 +27,10 @@ def _get_retriever() -> HybridRetriever:
 
 
 def warmup_rag_stack() -> None:
-    """Load BM25, Chroma client, and local embedding model before first user message."""
+    """Load indexes (and embedding model when not in sparse-only API mode)."""
     retriever = _get_retriever()
-    retriever._embedder.embed_batch(["warmup query"])
+    if not retriever.sparse_only and retriever._embedder is not None:
+        retriever._embedder.embed_batch(["warmup query"])
 
 
 @lru_cache(maxsize=1)

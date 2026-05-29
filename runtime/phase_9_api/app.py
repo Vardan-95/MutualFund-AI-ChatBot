@@ -11,6 +11,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from phases.common.env import load_project_env
 from phases.common.paths import PROJECT_ROOT
+from phases.common.runtime_mode import api_sparse_only
 from pipeline.rag.config import load_rag_config
 from runtime.phase_8_threads.service import thread_service
 from runtime.phase_9_api.config import ApiConfig, load_api_config
@@ -106,6 +107,7 @@ def create_app(cfg: ApiConfig | None = None) -> FastAPI:
             "corpus_version": version,
             "rag": "phase_7",
             "api": "phase_9",
+            "retrieval_mode": "sparse" if api_sparse_only() else "hybrid",
             "rag_ready": warmup.get("status") == "ready",
             "warmup": warmup,
         }

@@ -15,6 +15,9 @@ services:
         value: "1"
       - key: API_CORS_ORIGINS
         value: https://mutual-fund-ai-chat-bot.vercel.app,http://localhost:3000
+      # Free tier has ~512MB RAM — skip PyTorch embedding model on the API (BM25 still works).
+      - key: API_SPARSE_ONLY
+        value: "1"
       - key: CHROMA_API_KEY
         sync: false
       - key: CHROMA_TENANT
