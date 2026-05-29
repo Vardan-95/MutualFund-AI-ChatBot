@@ -60,6 +60,7 @@ def _run_warmup() -> None:
 
 
 def start_warmup_background() -> None:
+    global _status, _started_at
     with _lock:
         if _status in ("loading", "ready"):
             return
@@ -67,7 +68,6 @@ def start_warmup_background() -> None:
             _status = "ready"
             return
         _status = "loading"
-        global _started_at
         _started_at = time.perf_counter()
 
     thread = threading.Thread(target=_run_warmup, name="rag-warmup", daemon=True)
