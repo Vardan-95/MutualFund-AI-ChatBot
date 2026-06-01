@@ -5,8 +5,8 @@
       "scheme_id": "hdfc_large_cap_direct_growth",
       "scheme_name": "HDFC Large Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "content_captured_at": "2026-05-31",
-      "scrape_run_id": "26706656591",
+      "content_captured_at": "2026-06-01",
+      "scrape_run_id": "26745551750",
       "nav": {
         "display": "₹1,175.10",
         "amount_inr": 1175.1,
@@ -37,8 +37,8 @@
       "scheme_id": "hdfc_mid_cap_direct_growth",
       "scheme_name": "HDFC Mid Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "content_captured_at": "2026-05-31",
-      "scrape_run_id": "26706656591",
+      "content_captured_at": "2026-06-01",
+      "scrape_run_id": "26745551750",
       "nav": {
         "display": "₹221.32",
         "amount_inr": 221.32,
@@ -69,8 +69,8 @@
       "scheme_id": "hdfc_equity_direct_growth",
       "scheme_name": "HDFC Equity Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-      "content_captured_at": "2026-05-31",
-      "scrape_run_id": "26706656591",
+      "content_captured_at": "2026-06-01",
+      "scrape_run_id": "26745551750",
       "nav": {
         "display": "₹2,132.09",
         "amount_inr": 2132.09,
@@ -101,8 +101,8 @@
       "scheme_id": "hdfc_focused_direct_growth",
       "scheme_name": "HDFC Focused Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-      "content_captured_at": "2026-05-31",
-      "scrape_run_id": "26706656591",
+      "content_captured_at": "2026-06-01",
+      "scrape_run_id": "26745551750",
       "nav": {
         "display": "₹252.20",
         "amount_inr": 252.2,
@@ -133,8 +133,8 @@
       "scheme_id": "hdfc_elss_direct_growth",
       "scheme_name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-      "content_captured_at": "2026-05-31",
-      "scrape_run_id": "26706656591",
+      "content_captured_at": "2026-06-01",
+      "scrape_run_id": "26745551750",
       "nav": {
         "display": "₹1,433.27",
         "amount_inr": 1433.27,
@@ -162,7 +162,7 @@
       "facts_hash": "3fd429f5f0be3f0aaba104cf7541832992cb6b7fb3aa4daab5ae4f69fab05e43"
     }
   },
-  "scrape_run_id": "26706656591",
-  "content_captured_at": "2026-05-31",
-  "updated_at": "2026-05-31T07:35:20.890466+00:00"
+  "scrape_run_id": "26745551750",
+  "content_captured_at": "2026-06-01",
+  "updated_at": "2026-06-01T09:05:40.561776+00:00"
 }
