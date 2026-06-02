@@ -1,20 +1,20 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-06-01'
-content_hash: ab5614290c7217daa7ae8422dec9d592299417182a65357f92891eb021be6863
+content_captured_at: '2026-06-02'
+content_hash: b527177ea597898f1c3c35fa3022f790f6135cd024276afdb2a214e871a22531
 document_type: groww_scheme_page
 expense_ratio_display: 1.11%
 facts_extraction_status: complete
-facts_hash: 3fd429f5f0be3f0aaba104cf7541832992cb6b7fb3aa4daab5ae4f69fab05e43
+facts_hash: 20d854dbfea40b7982906d3f167a8e964c99dc6eb23aa124122a5173d13bba47
 fund_size_aum_display: ₹15,559.49 Cr
 minimum_sip_display: ₹500
-nav_as_of: 29 May '26
-nav_display: ₹1,433.27
+nav_as_of: 01 Jun '26
+nav_display: ₹1,421.37
 rating_display: '5'
 scheme_category: elss
 scheme_id: hdfc_elss_direct_growth
 scheme_name: HDFC ELSS Tax Saver Fund Direct Plan Growth
-scrape_run_id: '26745551750'
+scrape_run_id: '26807370238'
 source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
 ---
 
@@ -22,7 +22,7 @@ source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-g
 
 | Metric | Value |
 |--------|-------|
-| NAV (as of 29 May '26) | ₹1,433.27 |
+| NAV (as of 01 Jun '26) | ₹1,421.37 |
 | Minimum SIP | ₹500 |
 | Fund size (AUM) | ₹15,559.49 Cr |
 | Expense ratio | 1.11% |
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹57,142 |  | -4.76% |
-| 3 years | ₹1,80,000 | ₹1,96,005 |  | +8.89% |
-| 5 years | ₹3,00,000 | ₹4,11,245 |  | +37.08% |
-| 10 years | ₹6,00,000 | ₹12,65,889 |  | +110.98% |
+| 1 year | ₹60,000 | ₹56,452 |  | -5.91% |
+| 3 years | ₹1,80,000 | ₹1,92,353 |  | +6.86% |
+| 5 years | ₹3,00,000 | ₹4,05,751 |  | +35.25% |
+| 10 years | ₹6,00,000 | ₹12,54,331 |  | +109.06% |
 
 ## Holdings (56)
 
@@ -134,7 +134,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +16.6% | +16.9% | +14.3% | +14.0% |
+| Fund returns | +16.3% | +16.7% | +14.2% | +13.9% |
 | Category average (Equity ELSS) | +16.4% | +16.5% | +14.0% | -- |
 | Rank (Equity ELSS) | 12 | 4 | 13 | -- |
 
@@ -167,11 +167,11 @@ from July 1st 2020
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | [Motilal Oswal ELSS Tax Saver Fund Direct GrowthMotilal Oswal ELSS Tax Saver Fund Direct Growth](/mutual-funds/motilal-oswal-most-focused-long-term-fund-direct-growth) | +4.47% | +24.02% | 4,658.52 |
-|  | [SBI ELSS Tax Saver Fund Direct GrowthSBI ELSS Tax Saver Fund Direct Growth](/mutual-funds/sbi-elss-tax-saver-fund-direct-growth) | -1.37% | +19.69% | 31,093.90 |
-|  | [WhiteOak Capital ELSS Tax Saver Fund Direct GrowthWhiteOak Capital ELSS Tax Saver Fund Direct Growth](/mutual-funds/whiteoak-capital-elss-tax-saver-fund-direct-growth) | +0.21% | +18.59% | 450.45 |
-|  | [HDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan Growth](/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth) | -4.06% | +16.56% | 15,559.49 |
-|  | [Parag Parikh ELSS Tax Saver Fund Direct GrowthParag Parikh ELSS Tax Saver Fund Direct Growth](/mutual-funds/parag-parikh-elss-tax-saver-fund-direct-growth) | -6.55% | +12.22% | 5,617.03 |
+|  | [Motilal Oswal ELSS Tax Saver Fund Direct GrowthMotilal Oswal ELSS Tax Saver Fund Direct Growth](/mutual-funds/motilal-oswal-most-focused-long-term-fund-direct-growth) | +3.70% | +23.69% | 4,658.52 |
+|  | [SBI ELSS Tax Saver Fund Direct GrowthSBI ELSS Tax Saver Fund Direct Growth](/mutual-funds/sbi-elss-tax-saver-fund-direct-growth) | -2.06% | +19.27% | 31,093.90 |
+|  | [WhiteOak Capital ELSS Tax Saver Fund Direct GrowthWhiteOak Capital ELSS Tax Saver Fund Direct Growth](/mutual-funds/whiteoak-capital-elss-tax-saver-fund-direct-growth) | -0.61% | +18.26% | 450.45 |
+|  | [HDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan Growth](/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth) | -4.83% | +16.27% | 15,559.49 |
+|  | [Parag Parikh ELSS Tax Saver Fund Direct GrowthParag Parikh ELSS Tax Saver Fund Direct Growth](/mutual-funds/parag-parikh-elss-tax-saver-fund-direct-growth) | -6.75% | +12.29% | 5,617.03 |
 | [Compare](/mutual-funds/compare/hdfc-elss-tax-saver-fund-direct-plan-growth) | | | | |
 | --- | --- | --- | --- | --- |
 
