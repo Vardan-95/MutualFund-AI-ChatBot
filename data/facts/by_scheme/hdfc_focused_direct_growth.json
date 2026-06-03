@@ -2,13 +2,13 @@
   "scheme_id": "hdfc_focused_direct_growth",
   "scheme_name": "HDFC Focused Fund Direct Growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-  "content_captured_at": "2026-06-02",
-  "scrape_run_id": "26807370238",
+  "content_captured_at": "2026-06-03",
+  "scrape_run_id": "26873371579",
   "nav": {
-    "display": "₹250.21",
-    "amount_inr": 250.21,
-    "as_of_display": "01 Jun '26",
-    "as_of_iso": "01 Jun '26"
+    "display": "₹250.63",
+    "amount_inr": 250.63,
+    "as_of_display": "02 Jun '26",
+    "as_of_iso": "02 Jun '26"
   },
   "minimum_sip": {
     "display": "₹100",
@@ -28,5 +28,5 @@
   },
   "extraction_status": "complete",
   "missing_fields": [],
-  "facts_hash": "dbc88b07523ea304157ecd1e35da0bf352d1bb57f8e5f4d825c1d177332b376a"
+  "facts_hash": "e3e7ab9f9259525d255de16463bd29fe85418d7cf2381bbcbfbde9d5e8da6b16"
 }
