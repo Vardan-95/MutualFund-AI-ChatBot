@@ -1,20 +1,20 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-06-04'
-content_hash: f143f894e2942d9b4af6b3f96f4f6f810c9f30f33af5b77b30384949fc8ce2e6
+content_captured_at: '2026-06-06'
+content_hash: 77b427351042d19f76a82d43a957301c016b1ef2ca842e028f2a979b24cc476b
 document_type: groww_scheme_page
 expense_ratio_display: 0.72%
 facts_extraction_status: complete
-facts_hash: 8d5f0d2a52d2fa6ea3786a32797036628e8310b7d14f47f855d1ac0741f3963b
+facts_hash: c0feb1198cc83e6bfc60963a51ad896513e39995aae2f91e6997eab2e58cde23
 fund_size_aum_display: ₹26,182.15 Cr
 minimum_sip_display: ₹100
-nav_as_of: 03 Jun '26
-nav_display: ₹250.68
+nav_as_of: 05 Jun '26
+nav_display: ₹251.10
 rating_display: '5'
 scheme_category: focused
 scheme_id: hdfc_focused_direct_growth
 scheme_name: HDFC Focused Fund Direct Growth
-scrape_run_id: '26939332021'
+scrape_run_id: '27055310014'
 source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 ---
 
@@ -22,7 +22,7 @@ source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 
 | Metric | Value |
 |--------|-------|
-| NAV (as of 03 Jun '26) | ₹250.68 |
+| NAV (as of 05 Jun '26) | ₹251.10 |
 | Minimum SIP | ₹100 |
 | Fund size (AUM) | ₹26,182.15 Cr |
 | Expense ratio | 0.72% |
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹57,500 |  | -4.17% |
-| 3 years | ₹1,80,000 | ₹1,99,917 |  | +11.06% |
-| 5 years | ₹3,00,000 | ₹4,31,029 |  | +43.68% |
-| 10 years | ₹6,00,000 | ₹14,06,976 |  | +134.50% |
+| 1 year | ₹60,000 | ₹57,625 |  | -3.96% |
+| 3 years | ₹1,80,000 | ₹2,00,176 |  | +11.21% |
+| 5 years | ₹3,00,000 | ₹4,31,427 |  | +43.81% |
+| 10 years | ₹6,00,000 | ₹14,08,175 |  | +134.70% |
 
 ## Holdings (31)
 
@@ -109,7 +109,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.5% | +19.2% | +15.1% | +14.6% |
+| Fund returns | +17.3% | +19.2% | +15.1% | +14.6% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
 | Rank (Equity Flexi Cap) | 14 | 2 | 8 | -- |
 
@@ -141,11 +141,11 @@ from July 1st 2020
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | [ITI Flexi Cap Fund Direct GrowthITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +6.23% | +20.02% | 1,290.33 |
-|  | [HSBC Flexi Cap Fund Direct GrowthHSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | +4.22% | +18.07% | 5,405.12 |
-|  | [HDFC Flexi Cap Direct Plan GrowthHDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +0.14% | +17.75% | 1,00,479.23 |
-|  | [Parag Parikh Flexi Cap Fund Direct GrowthParag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth) | -0.15% | +15.28% | 1,40,949.13 |
-|  | [Franklin India Flexi Cap Fund Direct GrowthFranklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -4.08% | +14.93% | 19,049.25 |
+|  | [ITI Flexi Cap Fund Direct GrowthITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +5.63% | +19.99% | 1,290.33 |
+|  | [HSBC Flexi Cap Fund Direct GrowthHSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | +2.60% | +18.01% | 5,405.12 |
+|  | [HDFC Flexi Cap Direct Plan GrowthHDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | -0.14% | +17.56% | 1,00,479.23 |
+|  | [Parag Parikh Flexi Cap Fund Direct GrowthParag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth) | -0.26% | +15.41% | 1,40,949.13 |
+|  | [Franklin India Flexi Cap Fund Direct GrowthFranklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -5.14% | +14.69% | 19,049.25 |
 | [Compare](/mutual-funds/compare/hdfc-focused-fund-direct-growth) | | | | |
 | --- | --- | --- | --- | --- |
 
