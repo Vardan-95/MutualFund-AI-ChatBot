@@ -1,20 +1,20 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-06-08'
-content_hash: d69bef8a2e3b915cd42aa12b0d4b284e6d89f64af769f33e0b50c819e6234910
+content_captured_at: '2026-06-09'
+content_hash: aa7ac90052d115cb153f8227a01a6ff6b44680db7d1b07ce183f82d000332d4c
 document_type: groww_scheme_page
 expense_ratio_display: 0.72%
 facts_extraction_status: complete
-facts_hash: c0feb1198cc83e6bfc60963a51ad896513e39995aae2f91e6997eab2e58cde23
+facts_hash: 82983b2375141b45669434aed997d5ccd23fd2534e6414409ed75021768f1278
 fund_size_aum_display: ₹26,182.15 Cr
 minimum_sip_display: ₹100
-nav_as_of: 05 Jun '26
-nav_display: ₹251.10
+nav_as_of: 08 Jun '26
+nav_display: ₹249.30
 rating_display: '5'
 scheme_category: focused
 scheme_id: hdfc_focused_direct_growth
 scheme_name: HDFC Focused Fund Direct Growth
-scrape_run_id: '27125445513'
+scrape_run_id: '27189702762'
 source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 ---
 
@@ -22,7 +22,7 @@ source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 
 | Metric | Value |
 |--------|-------|
-| NAV (as of 05 Jun '26) | ₹251.10 |
+| NAV (as of 08 Jun '26) | ₹249.30 |
 | Minimum SIP | ₹100 |
 | Fund size (AUM) | ₹26,182.15 Cr |
 | Expense ratio | 0.72% |
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹57,625 |  | -3.96% |
-| 3 years | ₹1,80,000 | ₹2,00,176 |  | +11.21% |
-| 5 years | ₹3,00,000 | ₹4,31,427 |  | +43.81% |
-| 10 years | ₹6,00,000 | ₹14,08,175 |  | +134.70% |
+| 1 year | ₹60,000 | ₹57,265 |  | -4.56% |
+| 3 years | ₹1,80,000 | ₹1,98,636 |  | +10.35% |
+| 5 years | ₹3,00,000 | ₹4,27,856 |  | +42.62% |
+| 10 years | ₹6,00,000 | ₹13,96,327 |  | +132.72% |
 
 ## Holdings (31)
 
@@ -109,9 +109,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.3% | +19.2% | +15.1% | +14.6% |
+| Fund returns | +16.8% | +18.8% | +14.9% | +14.5% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
-| Rank (Equity Flexi Cap) | 16 | 2 | 10 | -- |
+| Rank (Equity Flexi Cap) | 16 | 2 | 8 | -- |
 
 ## Understand terms
 
@@ -141,11 +141,11 @@ from July 1st 2020
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | [ITI Flexi Cap Fund Direct GrowthITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +5.63% | +19.99% | 1,290.33 |
-|  | [HSBC Flexi Cap Fund Direct GrowthHSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | +2.60% | +18.01% | 5,405.12 |
-|  | [HDFC Flexi Cap Direct Plan GrowthHDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | -0.14% | +17.56% | 1,00,479.23 |
-|  | [Parag Parikh Flexi Cap Fund Direct GrowthParag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth) | -1.19% | +15.12% | 1,40,949.13 |
-|  | [Franklin India Flexi Cap Fund Direct GrowthFranklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -5.14% | +14.69% | 19,049.25 |
+|  | [ITI Flexi Cap Fund Direct GrowthITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +3.29% | +19.12% | 1,290.33 |
+|  | [HSBC Flexi Cap Fund Direct GrowthHSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | -0.05% | +17.10% | 5,405.12 |
+|  | [HDFC Flexi Cap Direct Plan GrowthHDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | -1.83% | +17.04% | 1,00,479.23 |
+|  | [Parag Parikh Flexi Cap Fund Direct GrowthParag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth) | -3.02% | +15.10% | 1,40,949.13 |
+|  | [Franklin India Flexi Cap Fund Direct GrowthFranklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -6.94% | +14.09% | 19,049.25 |
 | [Compare](/mutual-funds/compare/hdfc-focused-fund-direct-growth) | | | | |
 | --- | --- | --- | --- | --- |
 
