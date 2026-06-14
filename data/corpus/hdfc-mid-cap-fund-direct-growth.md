@@ -1,6 +1,6 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-06-13'
+content_captured_at: '2026-06-14'
 content_hash: 20298a5e90e61c9c1d19dd4b80cd406617bb0cdd9c03bb80f50f5c3cfa45559b
 document_type: groww_scheme_page
 expense_ratio_display: 0.76%
@@ -14,7 +14,7 @@ rating_display: '5'
 scheme_category: mid_cap
 scheme_id: hdfc_mid_cap_direct_growth
 scheme_name: HDFC Mid Cap Fund Direct Growth
-scrape_run_id: '27460533349'
+scrape_run_id: '27492721193'
 source_url: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
 ---
 
