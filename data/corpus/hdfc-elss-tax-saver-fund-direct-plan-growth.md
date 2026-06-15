@@ -1,7 +1,7 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-06-14'
-content_hash: a8e5e953c03260bd4a279712f21d2076218abe479e7ef9ef9e2005ac54ee71ca
+content_captured_at: '2026-06-15'
+content_hash: 83774370621c2473d6afa8f9dd7911e25a97906aa05336f6857fa87fa857a6d3
 document_type: groww_scheme_page
 expense_ratio_display: 1.17%
 facts_extraction_status: complete
@@ -14,7 +14,7 @@ rating_display: '5'
 scheme_category: elss
 scheme_id: hdfc_elss_direct_growth
 scheme_name: HDFC ELSS Tax Saver Fund Direct Plan Growth
-scrape_run_id: '27492721193'
+scrape_run_id: '27537904688'
 source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
 ---
 
@@ -53,68 +53,69 @@ Monthly SIPOne timeMonthly investment₹5,000
 | 5 years | ₹3,00,000 | ₹4,11,324 |  | +37.11% |
 | 10 years | ₹6,00,000 | ₹12,71,013 |  | +111.84% |
 
-## Holdings (58)
+## Holdings (59)
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| [ICICI Bank Ltd](/stocks/icici-bank-ltd) | Financial | Equity | 8.93% |
-| [HDFC Bank Ltd](/stocks/hdfc-bank-ltd) | Financial | Equity | 8.23% |
-| [Axis Bank Ltd](/stocks/axis-bank-ltd) | Financial | Equity | 7.22% |
-| [State Bank of India](/stocks/state-bank-of-india) | Financial | Equity | 4.81% |
-| [Maruti Suzuki India Ltd](/stocks/maruti-suzuki-india-ltd) | Consumer Discretionary | Equity | 4.71% |
-| [Bharti Airtel Ltd](/stocks/bharti-airtel-ltd) | Technology | Equity | 4.59% |
-| [Kotak Mahindra Bank Ltd](/stocks/kotak-mahindra-bank-ltd) | Financial | Equity | 4.31% |
-| [SBI Life Insurance Company Ltd](/stocks/sbi-life-insurance-company-ltd) | Financial | Equity | 3.51% |
-| Repo | Unspecified | Repo | 3.12% |
-| [Reliance Industries Ltd](/stocks/reliance-industries-ltd) | Energy & Utilities | Equity | 3.06% |
-| [HCL Technologies Ltd](/stocks/hcl-technologies-ltd) | Technology | Equity | 2.76% |
-| [Hyundai Motor India Ltd.](/stocks/hyundai-motor-india-ltd) | Consumer Discretionary | Equity | 2.34% |
-| [Power Grid Corporation of India Ltd](/stocks/power-grid-corporation-of-india-ltd) | Energy & Utilities | Equity | 2.25% |
-| [Tata Steel Ltd](/stocks/tata-steel-ltd) | Materials | Equity | 2.04% |
-| [Infosys Ltd](/stocks/infosys-ltd) | Technology | Equity | 2.02% |
-| [Bajaj Auto Ltd](/stocks/bajaj-auto-ltd) | Consumer Discretionary | Equity | 1.93% |
-| [Britannia Industries Ltd](/stocks/britannia-industries-ltd) | Consumer Staples | Equity | 1.84% |
-| [Zomato Ltd](/stocks/zomato-ltd) | Technology | Equity | 1.79% |
-| [JSW Steel Ltd](/stocks/jsw-steel-ltd) | Materials | Equity | 1.63% |
-| [Larsen & Toubro Ltd](/stocks/larsen-toubro-ltd) | Industrials | Equity | 1.63% |
-| [Apollo Hospitals Enterprise Ltd](/stocks/apollo-hospitals-enterprise-ltd) | Healthcare | Equity | 1.35% |
-| [Jubilant FoodWorks Ltd](/stocks/jubilant-foodworks-ltd) | Consumer Discretionary | Equity | 1.22% |
-| [Bosch Ltd](/stocks/bosch-ltd) | Consumer Discretionary | Equity | 1.16% |
+| [ICICI Bank Ltd](/stocks/icici-bank-ltd) | Financial | Equity | 8.99% |
+| [HDFC Bank Ltd](/stocks/hdfc-bank-ltd) | Financial | Equity | 8.04% |
+| [Axis Bank Ltd](/stocks/axis-bank-ltd) | Financial | Equity | 7.42% |
+| [Maruti Suzuki India Ltd](/stocks/maruti-suzuki-india-ltd) | Consumer Discretionary | Equity | 4.70% |
+| [Bharti Airtel Ltd](/stocks/bharti-airtel-ltd) | Technology | Equity | 4.51% |
+| [State Bank of India](/stocks/state-bank-of-india) | Financial | Equity | 4.39% |
+| [Kotak Mahindra Bank Ltd](/stocks/kotak-mahindra-bank-ltd) | Financial | Equity | 4.38% |
+| [SBI Life Insurance Company Ltd](/stocks/sbi-life-insurance-company-ltd) | Financial | Equity | 3.57% |
+| [Reliance Industries Ltd](/stocks/reliance-industries-ltd) | Energy & Utilities | Equity | 2.86% |
+| [HCL Technologies Ltd](/stocks/hcl-technologies-ltd) | Technology | Equity | 2.75% |
+| [Hyundai Motor India Ltd.](/stocks/hyundai-motor-india-ltd) | Consumer Discretionary | Equity | 2.50% |
+| Repo | Unspecified | Repo | 2.47% |
+| [Power Grid Corporation of India Ltd](/stocks/power-grid-corporation-of-india-ltd) | Energy & Utilities | Equity | 2.08% |
+| [Bajaj Auto Ltd](/stocks/bajaj-auto-ltd) | Consumer Discretionary | Equity | 2.04% |
+| [Tata Steel Ltd](/stocks/tata-steel-ltd) | Materials | Equity | 2.03% |
+| [Infosys Ltd](/stocks/infosys-ltd) | Technology | Equity | 2.01% |
+| [Zomato Ltd](/stocks/zomato-ltd) | Technology | Equity | 1.83% |
+| [Britannia Industries Ltd](/stocks/britannia-industries-ltd) | Consumer Staples | Equity | 1.69% |
+| [Larsen & Toubro Ltd](/stocks/larsen-toubro-ltd) | Industrials | Equity | 1.67% |
+| [JSW Steel Ltd](/stocks/jsw-steel-ltd) | Materials | Equity | 1.66% |
+| [Apollo Hospitals Enterprise Ltd](/stocks/apollo-hospitals-enterprise-ltd) | Healthcare | Equity | 1.46% |
+| [Bosch Ltd](/stocks/bosch-ltd) | Consumer Discretionary | Equity | 1.19% |
+| [Dr. Lal Pathlabs Ltd](/stocks/dr-lal-pathlabs-ltd) | Healthcare | Equity | 1.19% |
+| [Metropolis Healthcare Ltd](/stocks/metropolis-healthcare-ltd) | Healthcare | Equity | 1.16% |
+| [ICICI Lombard General Insurance Company Ltd](/stocks/icici-lombard-general-insurance-co-ltd) | Financial | Equity | 1.15% |
+| [Interglobe Aviation Ltd](/stocks/interglobe-aviation-ltd) | Industrials | Equity | 1.15% |
 | [Karur Vysya Bank Ltd](/stocks/karur-vysya-bank-ltd) | Financial | Equity | 1.13% |
-| [ICICI Lombard General Insurance Company Ltd](/stocks/icici-lombard-general-insurance-co-ltd) | Financial | Equity | 1.12% |
-| [Interglobe Aviation Ltd](/stocks/interglobe-aviation-ltd) | Industrials | Equity | 1.10% |
-| [Cipla Ltd](/stocks/cipla-ltd) | Healthcare | Equity | 1.04% |
-| [Escorts Kubota Ltd](/stocks/escorts-ltd) | Industrials | Equity | 1.04% |
-| [Mphasis Ltd](/stocks/mphasis-ltd) | Technology | Equity | 1.02% |
-| [Star Health & Allied Insurance Co. Ltd](/stocks/star-health-and-allied-insurance-company-ltd) | Financial | Equity | 1.01% |
-| [Dr. Lal Pathlabs Ltd](/stocks/dr-lal-pathlabs-ltd) | Healthcare | Equity | 1.00% |
-| [Metropolis Healthcare Ltd](/stocks/metropolis-healthcare-ltd) | Healthcare | Equity | 0.98% |
-| [Tech Mahindra Ltd](/stocks/tech-mahindra-ltd) | Technology | Equity | 0.95% |
-| [Alkem Laboratories Ltd](/stocks/alkem-laboratories-ltd) | Healthcare | Equity | 0.95% |
-| [Godrej Consumer Products Ltd](/stocks/godrej-consumer-products-ltd) | Consumer Staples | Equity | 0.90% |
-| [Lupin Ltd](/stocks/lupin-ltd) | Healthcare | Equity | 0.89% |
-| [United Spirits Ltd](/stocks/united-spirits-ltd) | Consumer Staples | Equity | 0.85% |
-| [PB Fintech Ltd](/stocks/pb-fintech-ltd) | Financial | Equity | 0.84% |
-| [Eicher Motors Ltd](/stocks/eicher-motors-ltd) | Consumer Discretionary | Equity | 0.82% |
-| [Havells India Ltd](/stocks/havells-india-ltd) | Consumer Discretionary | Equity | 0.72% |
-| [Mahindra & Mahindra Ltd](/stocks/mahindra-mahindra-ltd) | Consumer Discretionary | Equity | 0.70% |
-| [ICICI Prudential Asset Management Company Ltd.](/stocks/icici-prudential-asset-management-company-ltd) | Financial | Equity | 0.70% |
-| [Hindustan Unilever Ltd](/stocks/hindustan-unilever-ltd) | Consumer Staples | Equity | 0.61% |
-| [Crompton Greaves Consumer Electricals Ltd](/stocks/crompton-greaves-consumer-electricals-ltd) | Consumer Discretionary | Equity | 0.61% |
-| [Birla Corporation Ltd](/stocks/birla-corporation-ltd) | Materials | Equity | 0.58% |
-| [The Ramco Cements Ltd](/stocks/the-ramco-cements-ltd) | Materials | Equity | 0.48% |
-| [Westlife Development Ltd](/stocks/westlife-development-ltd) | Consumer Discretionary | Equity | 0.46% |
-| [Suven Pharmaceuticals Ltd](/stocks/suven-pharmaceuticals-ltd) | Healthcare | Equity | 0.44% |
-| [Cyient Ltd](/stocks/cyient-ltd) | Technology | Equity | 0.38% |
-| [TeamLease Services Ltd](/stocks/teamlease-services-ltd) | Industrials | Equity | 0.36% |
+| [Cipla Ltd](/stocks/cipla-ltd) | Healthcare | Equity | 1.12% |
+| [Alkem Laboratories Ltd](/stocks/alkem-laboratories-ltd) | Healthcare | Equity | 1.11% |
+| [Jubilant FoodWorks Ltd](/stocks/jubilant-foodworks-ltd) | Consumer Discretionary | Equity | 1.10% |
+| [Mphasis Ltd](/stocks/mphasis-ltd) | Technology | Equity | 1.03% |
+| [Lupin Ltd](/stocks/lupin-ltd) | Healthcare | Equity | 1.03% |
+| [Star Health & Allied Insurance Co. Ltd](/stocks/star-health-and-allied-insurance-company-ltd) | Financial | Equity | 1.03% |
+| [Tech Mahindra Ltd](/stocks/tech-mahindra-ltd) | Technology | Equity | 0.97% |
+| [Escorts Kubota Ltd](/stocks/escorts-ltd) | Industrials | Equity | 0.93% |
+| [United Spirits Ltd](/stocks/united-spirits-ltd) | Consumer Staples | Equity | 0.88% |
+| [Godrej Consumer Products Ltd](/stocks/godrej-consumer-products-ltd) | Consumer Staples | Equity | 0.87% |
+| [PB Fintech Ltd](/stocks/pb-fintech-ltd) | Financial | Equity | 0.87% |
+| [Eicher Motors Ltd](/stocks/eicher-motors-ltd) | Consumer Discretionary | Equity | 0.84% |
+| [Havells India Ltd](/stocks/havells-india-ltd) | Consumer Discretionary | Equity | 0.82% |
+| [Hindustan Unilever Ltd](/stocks/hindustan-unilever-ltd) | Consumer Staples | Equity | 0.77% |
+| [ICICI Prudential Asset Management Company Ltd.](/stocks/icici-prudential-asset-management-company-ltd) | Financial | Equity | 0.76% |
+| [Mahindra & Mahindra Ltd](/stocks/mahindra-mahindra-ltd) | Consumer Discretionary | Equity | 0.69% |
+| [Birla Corporation Ltd](/stocks/birla-corporation-ltd) | Materials | Equity | 0.65% |
+| [Crompton Greaves Consumer Electricals Ltd](/stocks/crompton-greaves-consumer-electricals-ltd) | Consumer Discretionary | Equity | 0.64% |
+| [The Ramco Cements Ltd](/stocks/the-ramco-cements-ltd) | Materials | Equity | 0.45% |
+| [Westlife Development Ltd](/stocks/westlife-development-ltd) | Consumer Discretionary | Equity | 0.44% |
+| [Cyient Ltd](/stocks/cyient-ltd) | Technology | Equity | 0.40% |
+| [TeamLease Services Ltd](/stocks/teamlease-services-ltd) | Industrials | Equity | 0.40% |
+| [Suven Pharmaceuticals Ltd](/stocks/suven-pharmaceuticals-ltd) | Healthcare | Equity | 0.40% |
 | [GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100](/stocks/goi-351) | Entities | GOI Securities | 0.33% |
-| [Popular Vehicles And Services Ltd.](/stocks/popular-vehicles-services-ltd) | Consumer Discretionary | Equity | 0.32% |
-| [Medi Assist Healthcare Services Ltd.](/stocks/medi-assist-healthcare-services-ltd) | Industrials | Equity | 0.31% |
-| [Delhivery Ltd](/stocks/delhivery-ltd) | Industrials | Equity | 0.30% |
+| [Popular Vehicles And Services Ltd.](/stocks/popular-vehicles-services-ltd) | Consumer Discretionary | Equity | 0.31% |
+| [Delhivery Ltd](/stocks/delhivery-ltd) | Industrials | Equity | 0.29% |
 | [Anthem Biosciences Ltd.](/stocks/anthem-biosciences-ltd) | Healthcare | Equity | 0.24% |
-| [Bajaj Electricals Ltd](/stocks/bajaj-electricals-ltd) | Consumer Discretionary | Equity | 0.23% |
-| [JK Lakshmi Cement Ltd](/stocks/jk-lakshmi-cement-ltd) | Materials | Equity | 0.16% |
-| Net Payables | Unspecified | Net Payables | -0.02% |
+| [Medi Assist Healthcare Services Ltd.](/stocks/medi-assist-healthcare-services-ltd) | Industrials | Equity | 0.22% |
+| [Bajaj Electricals Ltd](/stocks/bajaj-electricals-ltd) | Consumer Discretionary | Equity | 0.19% |
+| [JK Lakshmi Cement Ltd](/stocks/jk-lakshmi-cement-ltd) | Materials | Equity | 0.15% |
+| [Tata Motors Ltd](/stocks/tata-motors-ltd-22) | Industrials | Equity | 0.15% |
+| Net Payables | Unspecified | Net Payables | -0.10% |
 
 See All
 ### Minimum investments

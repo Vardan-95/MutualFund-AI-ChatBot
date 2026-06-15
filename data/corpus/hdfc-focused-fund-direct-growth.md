@@ -1,7 +1,7 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-06-14'
-content_hash: 0f28e573605c4d5f99783fbd1948ab7809c4048ce691f17d75dc69a05cd17a85
+content_captured_at: '2026-06-15'
+content_hash: bad18df59f84c8c2b14b1bb101af6368d613c3d78eada2ad06d76b00063d2d88
 document_type: groww_scheme_page
 expense_ratio_display: 0.78%
 facts_extraction_status: complete
@@ -14,7 +14,7 @@ rating_display: '5'
 scheme_category: focused
 scheme_id: hdfc_focused_direct_growth
 scheme_name: HDFC Focused Fund Direct Growth
-scrape_run_id: '27492721193'
+scrape_run_id: '27537904688'
 source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 ---
 
@@ -57,39 +57,39 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| [ICICI Bank Ltd](/stocks/icici-bank-ltd) | Financial | Equity | 9.02% |
-| [HDFC Bank Ltd](/stocks/hdfc-bank-ltd) | Financial | Equity | 8.41% |
-| Repo | Unspecified | Repo | 7.31% |
-| [Axis Bank Ltd](/stocks/axis-bank-ltd) | Financial | Equity | 7.27% |
-| [State Bank of India](/stocks/state-bank-of-india) | Financial | Equity | 5.76% |
-| [Kotak Mahindra Bank Ltd](/stocks/kotak-mahindra-bank-ltd) | Financial | Equity | 5.53% |
-| [HCL Technologies Ltd](/stocks/hcl-technologies-ltd) | Technology | Equity | 3.89% |
-| [Bharti Airtel Ltd](/stocks/bharti-airtel-ltd) | Technology | Equity | 3.69% |
-| [SBI Life Insurance Company Ltd](/stocks/sbi-life-insurance-company-ltd) | Financial | Equity | 3.58% |
-| [Maruti Suzuki India Ltd](/stocks/maruti-suzuki-india-ltd) | Consumer Discretionary | Equity | 3.58% |
-| [Zomato Ltd](/stocks/zomato-ltd) | Technology | Equity | 3.53% |
-| [Cipla Ltd](/stocks/cipla-ltd) | Healthcare | Equity | 3.49% |
-| [Power Grid Corporation of India Ltd](/stocks/power-grid-corporation-of-india-ltd) | Energy & Utilities | Equity | 3.28% |
-| [Eicher Motors Ltd](/stocks/eicher-motors-ltd) | Consumer Discretionary | Equity | 3.24% |
-| [Interglobe Aviation Ltd](/stocks/interglobe-aviation-ltd) | Industrials | Equity | 3.05% |
-| [Tata Steel Ltd](/stocks/tata-steel-ltd) | Materials | Equity | 2.58% |
-| [Havells India Ltd](/stocks/havells-india-ltd) | Consumer Discretionary | Equity | 2.54% |
-| [Karur Vysya Bank Ltd](/stocks/karur-vysya-bank-ltd) | Financial | Equity | 2.11% |
-| [FSN E-Commerce Ventures Ltd](/stocks/fsn-ecommerce-ventures-ltd) | Consumer Discretionary | Equity | 2.02% |
-| [Nexus Select Trust](/stocks/nexus-select-trust) | Industrials | Real Estate Investment Trusts | 1.78% |
-| [Bosch Ltd](/stocks/bosch-ltd) | Consumer Discretionary | Equity | 1.73% |
-| [Escorts Kubota Ltd](/stocks/escorts-ltd) | Industrials | Equity | 1.67% |
-| [Piramal Pharma Ltd](/stocks/piramal-pharma-ltd) | Healthcare | Equity | 1.60% |
-| [Hyundai Motor India Ltd.](/stocks/hyundai-motor-india-ltd) | Consumer Discretionary | Equity | 1.60% |
-| [Chalet Hotels Ltd](/stocks/chalet-hotels-ltd) | Consumer Discretionary | Equity | 1.58% |
-| [Amber Enterprises India Ltd](/stocks/amber-enterprises-india-ltd) | Consumer Discretionary | Equity | 1.58% |
-| [Mahindra CIE Automotive Ltd](/stocks/mahindra-cie-automotive-ltd) | Consumer Discretionary | Equity | 1.28% |
-| [Metropolis Healthcare Ltd](/stocks/metropolis-healthcare-ltd) | Healthcare | Equity | 1.24% |
-| [Sapphire Foods India Ltd](/stocks/sapphire-foods-india-ltd) | Consumer Discretionary | Equity | 0.72% |
-| [CG Power & Industrial Solutions Ltd](/stocks/cg-power-industrial-solutions-ltd) | Industrials | Equity | 0.59% |
-| [Restaurant Brands Asia Ltd](/stocks/burger-king-india-ltd) | Consumer Discretionary | Equity | 0.56% |
+| [ICICI Bank Ltd](/stocks/icici-bank-ltd) | Financial | Equity | 9.01% |
+| [HDFC Bank Ltd](/stocks/hdfc-bank-ltd) | Financial | Equity | 8.14% |
+| Repo | Unspecified | Repo | 7.60% |
+| [Axis Bank Ltd](/stocks/axis-bank-ltd) | Financial | Equity | 7.40% |
+| [Kotak Mahindra Bank Ltd](/stocks/kotak-mahindra-bank-ltd) | Financial | Equity | 5.56% |
+| [State Bank of India](/stocks/state-bank-of-india) | Financial | Equity | 5.22% |
+| [HCL Technologies Ltd](/stocks/hcl-technologies-ltd) | Technology | Equity | 3.86% |
+| [Cipla Ltd](/stocks/cipla-ltd) | Healthcare | Equity | 3.75% |
+| [Maruti Suzuki India Ltd](/stocks/maruti-suzuki-india-ltd) | Consumer Discretionary | Equity | 3.70% |
+| [Zomato Ltd](/stocks/zomato-ltd) | Technology | Equity | 3.67% |
+| [SBI Life Insurance Company Ltd](/stocks/sbi-life-insurance-company-ltd) | Financial | Equity | 3.62% |
+| [Interglobe Aviation Ltd](/stocks/interglobe-aviation-ltd) | Industrials | Equity | 3.40% |
+| [Bharti Airtel Ltd](/stocks/bharti-airtel-ltd) | Technology | Equity | 3.39% |
+| [Eicher Motors Ltd](/stocks/eicher-motors-ltd) | Consumer Discretionary | Equity | 3.29% |
+| [Power Grid Corporation of India Ltd](/stocks/power-grid-corporation-of-india-ltd) | Energy & Utilities | Equity | 3.01% |
+| [Tata Steel Ltd](/stocks/tata-steel-ltd) | Materials | Equity | 2.55% |
+| [Havells India Ltd](/stocks/havells-india-ltd) | Consumer Discretionary | Equity | 2.42% |
+| [Karur Vysya Bank Ltd](/stocks/karur-vysya-bank-ltd) | Financial | Equity | 2.08% |
+| [FSN E-Commerce Ventures Ltd](/stocks/fsn-ecommerce-ventures-ltd) | Consumer Discretionary | Equity | 2.01% |
+| [Bosch Ltd](/stocks/bosch-ltd) | Consumer Discretionary | Equity | 1.90% |
+| [Hyundai Motor India Ltd.](/stocks/hyundai-motor-india-ltd) | Consumer Discretionary | Equity | 1.88% |
+| [Nexus Select Trust](/stocks/nexus-select-trust) | Industrials | Real Estate Investment Trusts | 1.79% |
+| [Chalet Hotels Ltd](/stocks/chalet-hotels-ltd) | Consumer Discretionary | Equity | 1.67% |
+| [Amber Enterprises India Ltd](/stocks/amber-enterprises-india-ltd) | Consumer Discretionary | Equity | 1.51% |
+| [Escorts Kubota Ltd](/stocks/escorts-ltd) | Industrials | Equity | 1.48% |
+| [Metropolis Healthcare Ltd](/stocks/metropolis-healthcare-ltd) | Healthcare | Equity | 1.45% |
+| [Piramal Pharma Ltd](/stocks/piramal-pharma-ltd) | Healthcare | Equity | 1.42% |
+| [Mahindra CIE Automotive Ltd](/stocks/mahindra-cie-automotive-ltd) | Consumer Discretionary | Equity | 1.22% |
+| [CG Power & Industrial Solutions Ltd](/stocks/cg-power-industrial-solutions-ltd) | Industrials | Equity | 0.80% |
+| [Sapphire Foods India Ltd](/stocks/sapphire-foods-india-ltd) | Consumer Discretionary | Equity | 0.64% |
+| [Restaurant Brands Asia Ltd](/stocks/burger-king-india-ltd) | Consumer Discretionary | Equity | 0.59% |
 | [GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100](/stocks/goi-351) | Entities | GOI Securities | 0.19% |
-| Net Payables | Unspecified | Net Payables | -0.01% |
+| Net Payables | Unspecified | Net Payables | -0.22% |
 
 See All
 ### Minimum investments
@@ -113,7 +113,7 @@ Annualised returnsAbsolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +17.6% | +19.3% | +15.2% | +14.7% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
-| Rank (Equity Flexi Cap) | 13 | 2 | 10 | -- |
+| Rank (Equity Flexi Cap) | 14 | 2 | 10 | -- |
 
 ## Understand terms
 

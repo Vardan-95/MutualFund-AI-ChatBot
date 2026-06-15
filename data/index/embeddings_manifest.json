@@ -4,6 +4,6 @@
   "embedding_dimensions": 384,
   "vector_store": "chroma_cloud",
   "collection_name": "mutual_fund_chunks",
-  "chunk_count": 48,
-  "corpus_version": 25
+  "chunk_count": 49,
+  "corpus_version": 26
 }
