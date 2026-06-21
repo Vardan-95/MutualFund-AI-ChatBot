@@ -1,7 +1,7 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-06-20'
-content_hash: d3b5709a96b5c7c15f6bc8a063c4c98b98efb2745e60ff3fbbfc260f8afe2496
+content_captured_at: '2026-06-21'
+content_hash: 6e93e7399c4e017e65572e8793cfd49eb3366e190cf7d6bda10f3c9774099e16
 document_type: groww_scheme_page
 expense_ratio_display: 0.76%
 facts_extraction_status: complete
@@ -14,7 +14,7 @@ rating_display: '5'
 scheme_category: mid_cap
 scheme_id: hdfc_mid_cap_direct_growth
 scheme_name: HDFC Mid Cap Fund Direct Growth
-scrape_run_id: '27864502379'
+scrape_run_id: '27898402423'
 source_url: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
 ---
 
@@ -158,7 +158,7 @@ Annualised returnsAbsolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +21.1% | +21.1% | +18.9% | +20.3% |
 | Category average (Equity Mid Cap) | +21.6% | +21.5% | +16.0% | -- |
-| Rank (Equity Mid Cap) | 14 | 5 | 6 | -- |
+| Rank (Equity Mid Cap) | 15 | 5 | 6 | -- |
 
 ## Understand terms
 
