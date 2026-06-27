@@ -1,6 +1,6 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-06-26'
+content_captured_at: '2026-06-27'
 content_hash: 723d3f6091fd099e42182ff30c34f2cae79c95f5b67cc3e073f30804589d64df
 document_type: groww_scheme_page
 expense_ratio_display: 1.04%
@@ -14,7 +14,7 @@ rating_display: '4'
 scheme_category: large_cap
 scheme_id: hdfc_large_cap_direct_growth
 scheme_name: HDFC Large Cap Fund Direct Growth
-scrape_run_id: '28224273209'
+scrape_run_id: '28281531896'
 source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 ---
 
