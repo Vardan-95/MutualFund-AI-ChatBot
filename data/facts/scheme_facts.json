@@ -5,13 +5,13 @@
       "scheme_id": "hdfc_large_cap_direct_growth",
       "scheme_name": "HDFC Large Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "content_captured_at": "2026-07-08",
-      "scrape_run_id": "28921820557",
+      "content_captured_at": "2026-07-09",
+      "scrape_run_id": "29000416185",
       "nav": {
-        "display": "₹1,242.74",
-        "amount_inr": 1242.74,
-        "as_of_display": "07 Jul '26",
-        "as_of_iso": "07 Jul '26"
+        "display": "₹1,218.47",
+        "amount_inr": 1218.47,
+        "as_of_display": "08 Jul '26",
+        "as_of_iso": "08 Jul '26"
       },
       "minimum_sip": {
         "display": "₹100",
@@ -31,19 +31,19 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "b5bd65ac8d5d87b766b719e9624d11cc068bd9164396cf13ef8d053e183543ec"
+      "facts_hash": "6f8c31a5241fd8aed76e4e37bb96a86fdca29c9f3392d27b749779d72bec4dcd"
     },
     "hdfc_mid_cap_direct_growth": {
       "scheme_id": "hdfc_mid_cap_direct_growth",
       "scheme_name": "HDFC Mid Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "content_captured_at": "2026-07-08",
-      "scrape_run_id": "28921820557",
+      "content_captured_at": "2026-07-09",
+      "scrape_run_id": "29000416185",
       "nav": {
-        "display": "₹231.09",
-        "amount_inr": 231.09,
-        "as_of_display": "07 Jul '26",
-        "as_of_iso": "07 Jul '26"
+        "display": "₹226.56",
+        "amount_inr": 226.56,
+        "as_of_display": "08 Jul '26",
+        "as_of_iso": "08 Jul '26"
       },
       "minimum_sip": {
         "display": "₹100",
@@ -63,19 +63,19 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "17c0a0e9b54dea388945b4636fac0a8385bae95c75bcfc71daf4dff1675df4cb"
+      "facts_hash": "a3eeb8236be0f87911a47bbad9377e345834b9ded5daa73504a2ffcac02530e2"
     },
     "hdfc_equity_direct_growth": {
       "scheme_id": "hdfc_equity_direct_growth",
       "scheme_name": "HDFC Equity Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-      "content_captured_at": "2026-07-08",
-      "scrape_run_id": "28921820557",
+      "content_captured_at": "2026-07-09",
+      "scrape_run_id": "29000416185",
       "nav": {
-        "display": "₹2,248.49",
-        "amount_inr": 2248.49,
-        "as_of_display": "07 Jul '26",
-        "as_of_iso": "07 Jul '26"
+        "display": "₹2,203.23",
+        "amount_inr": 2203.23,
+        "as_of_display": "08 Jul '26",
+        "as_of_iso": "08 Jul '26"
       },
       "minimum_sip": {
         "display": "₹100",
@@ -95,19 +95,19 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "7b1db2e669458c4d13c1f64172c80bf134a0a6587bf94310a69f5a7c4546c168"
+      "facts_hash": "422286ad063989720278eca6b5c437bae695e258393e55138971cd1d79cee1f6"
     },
     "hdfc_focused_direct_growth": {
       "scheme_id": "hdfc_focused_direct_growth",
       "scheme_name": "HDFC Focused Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-      "content_captured_at": "2026-07-08",
-      "scrape_run_id": "28921820557",
+      "content_captured_at": "2026-07-09",
+      "scrape_run_id": "29000416185",
       "nav": {
-        "display": "₹268.32",
-        "amount_inr": 268.32,
-        "as_of_display": "07 Jul '26",
-        "as_of_iso": "07 Jul '26"
+        "display": "₹262.86",
+        "amount_inr": 262.86,
+        "as_of_display": "08 Jul '26",
+        "as_of_iso": "08 Jul '26"
       },
       "minimum_sip": {
         "display": "₹100",
@@ -127,19 +127,19 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "7d4d986791eac676bd2fb2f5d741af2d59d011f668980de5a57ee66ad39b5cb5"
+      "facts_hash": "0f2bfec3bcf0793d58e40a6cbc1be29fea6ac25591c1a8e27bab6838957aa6d7"
     },
     "hdfc_elss_direct_growth": {
       "scheme_id": "hdfc_elss_direct_growth",
       "scheme_name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-      "content_captured_at": "2026-07-08",
-      "scrape_run_id": "28921820557",
+      "content_captured_at": "2026-07-09",
+      "scrape_run_id": "29000416185",
       "nav": {
-        "display": "₹1,503.71",
-        "amount_inr": 1503.71,
-        "as_of_display": "07 Jul '26",
-        "as_of_iso": "07 Jul '26"
+        "display": "₹1,470.85",
+        "amount_inr": 1470.85,
+        "as_of_display": "08 Jul '26",
+        "as_of_iso": "08 Jul '26"
       },
       "minimum_sip": {
         "display": "₹500",
@@ -159,10 +159,10 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "5db75c8f6db7741dba492143107d424f12b64eddcc5550003cea3020c0355738"
+      "facts_hash": "fc6a5b64b11eaccc8d2c5bed8563ff5a1dcf56de8a9b009cb6bb3a8fa8baf98e"
     }
   },
-  "scrape_run_id": "28921820557",
-  "content_captured_at": "2026-07-08",
-  "updated_at": "2026-07-08T06:15:32.123804+00:00"
+  "scrape_run_id": "29000416185",
+  "content_captured_at": "2026-07-09",
+  "updated_at": "2026-07-09T07:04:41.475414+00:00"
 }
