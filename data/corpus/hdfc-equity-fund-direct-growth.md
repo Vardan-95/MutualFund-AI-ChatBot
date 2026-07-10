@@ -1,20 +1,20 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-07-09'
-content_hash: bfa02ca616b28395f7266adfe6cd2cea4f846bf176b65031f730f636d5056c62
+content_captured_at: '2026-07-10'
+content_hash: 4d3490ef4d3fb08dc7465dffd8c7273e75fc6bd6eee1c9c819e334300c63abfd
 document_type: groww_scheme_page
 expense_ratio_display: 0.78%
 facts_extraction_status: complete
-facts_hash: 422286ad063989720278eca6b5c437bae695e258393e55138971cd1d79cee1f6
-fund_size_aum_display: ₹1,01,821.82 Cr
+facts_hash: ae1ce669277e559c8a682da83b5b0314ed657d84d06f89276b067fd6f12162a4
+fund_size_aum_display: ₹1,06,495.63 Cr
 minimum_sip_display: ₹100
-nav_as_of: 08 Jul '26
-nav_display: ₹2,203.23
+nav_as_of: 09 Jul '26
+nav_display: ₹2,218.45
 rating_display: '5'
 scheme_category: equity
 scheme_id: hdfc_equity_direct_growth
 scheme_name: HDFC Equity Fund Direct Growth
-scrape_run_id: '29000416185'
+scrape_run_id: '29075515227'
 source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
 ---
 
@@ -22,9 +22,9 @@ source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
 
 | Metric | Value |
 |--------|-------|
-| NAV (as of 08 Jul '26) | ₹2,203.23 |
+| NAV (as of 09 Jul '26) | ₹2,218.45 |
 | Minimum SIP | ₹100 |
-| Fund size (AUM) | ₹1,01,821.82 Cr |
+| Fund size (AUM) | ₹1,06,495.63 Cr |
 | Expense ratio | 0.78% |
 | Rating | 5 |
 
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹60,321 |  | +0.53% |
-| 3 years | ₹1,80,000 | ₹2,06,319 |  | +14.62% |
-| 5 years | ₹3,00,000 | ₹4,39,791 |  | +46.60% |
-| 10 years | ₹6,00,000 | ₹14,77,217 |  | +146.20% |
+| 1 year | ₹60,000 | ₹60,719 |  | +1.20% |
+| 3 years | ₹1,80,000 | ₹2,07,675 |  | +15.38% |
+| 5 years | ₹3,00,000 | ₹4,42,630 |  | +47.54% |
+| 10 years | ₹6,00,000 | ₹14,86,732 |  | +147.79% |
 
 ## Holdings (74)
 
@@ -152,9 +152,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.3% | +18.5% | +16.5% | +16.0% |
+| Fund returns | +17.5% | +18.7% | +16.6% | +16.0% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
-| Rank (Equity Flexi Cap) | 8 | 2 | 2 | -- |
+| Rank (Equity Flexi Cap) | 9 | 2 | 2 | -- |
 
 ## Understand terms
 
@@ -185,11 +185,11 @@ from July 1st 2020
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | [Bank of India Flexi Cap Fund Direct GrowthBank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +7.48% | +21.22% | 2,459.86 |
-|  | [ITI Flexi Cap Fund Direct GrowthITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +7.06% | +19.78% | 1,314.38 |
-|  | [HDFC Flexi Cap Direct Plan GrowthHDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +1.14% | +17.25% | 1,01,821.82 |
+|  | [Bank of India Flexi Cap Fund Direct GrowthBank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +8.82% | +21.65% | 2,459.86 |
+|  | [ITI Flexi Cap Fund Direct GrowthITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +8.22% | +20.30% | 1,314.38 |
+|  | [HDFC Flexi Cap Direct Plan GrowthHDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +1.76% | +17.50% | 1,06,495.63 |
+|  | [Franklin India Flexi Cap Fund Direct GrowthFranklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -3.30% | +14.52% | 18,796.71 |
 |  | [Parag Parikh Flexi Cap Fund Direct GrowthParag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth) | -2.65% | +14.42% | 1,41,446.73 |
-|  | [Franklin India Flexi Cap Fund Direct GrowthFranklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -4.39% | +14.19% | 18,796.71 |
 | [Compare](/mutual-funds/compare/hdfc-equity-fund-direct-growth) | | | | |
 | --- | --- | --- | --- | --- |
 
