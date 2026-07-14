@@ -5,5 +5,5 @@
   "vector_store": "chroma_cloud",
   "collection_name": "mutual_fund_chunks",
   "chunk_count": 49,
-  "corpus_version": 53
+  "corpus_version": 54
 }
