@@ -1,7 +1,7 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-07-25'
-content_hash: cf94c3b226a9a5de70589bb26f37296519e0db1c13072c7e1ef2ce980c474f82
+content_captured_at: '2026-07-26'
+content_hash: 1cdc3a415bd64876fbb85e96c569d4a737f0b4148c2ca75982253816df3618e7
 document_type: groww_scheme_page
 expense_ratio_display: 1.03%
 facts_extraction_status: complete
@@ -14,7 +14,7 @@ rating_display: '4'
 scheme_category: large_cap
 scheme_id: hdfc_large_cap_direct_growth
 scheme_name: HDFC Large Cap Fund Direct Growth
-scrape_run_id: '30146897320'
+scrape_run_id: '30190969744'
 source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 ---
 
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹60,060 |  | +0.10% |
-| 3 years | ₹1,80,000 | ₹1,91,936 |  | +6.63% |
-| 5 years | ₹3,00,000 | ₹3,84,010 |  | +28.00% |
-| 10 years | ₹6,00,000 | ₹11,65,892 |  | +94.32% |
+| 1 year | ₹60,000 | ₹59,849 |  | -0.25% |
+| 3 years | ₹1,80,000 | ₹1,91,170 |  | +6.21% |
+| 5 years | ₹3,00,000 | ₹3,82,437 |  | +27.48% |
+| 10 years | ₹6,00,000 | ₹11,60,991 |  | +93.50% |
 
 ## Holdings (47)
 
@@ -125,9 +125,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +10.6% | +12.9% | +12.9% | +13.1% |
+| Fund returns | +10.5% | +12.8% | +12.9% | +13.1% |
 | Category average (Equity Large Cap) | +15.1% | +15.0% | +13.2% | -- |
-| Rank (Equity Large Cap) | 40 | 16 | 12 | -- |
+| Rank (Equity Large Cap) | 41 | 16 | 12 | -- |
 
 ## Understand terms
 
