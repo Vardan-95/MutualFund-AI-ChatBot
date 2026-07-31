@@ -1,20 +1,20 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-07-30'
-content_hash: ef78b50ce6320a18cc051f7ea6327102ce8a6f71f848d5ad34cddc04abd62e3b
+content_captured_at: '2026-07-31'
+content_hash: a07d9cc78cc10345998d008e810a2751c32e735f6e29b2d22eabeef3c399aa2f
 document_type: groww_scheme_page
 expense_ratio_display: 0.74%
 facts_extraction_status: complete
-facts_hash: b9030766a672147422fb981ec8257cecf7de66cbdd5e0fb677bdf62d39cefff2
+facts_hash: 4d68d1e929b28019280acfffaa71e973d55ae9cf8d9d70f9faa418f5a913b7ba
 fund_size_aum_display: ₹1,06,495.63 Cr
 minimum_sip_display: ₹100
-nav_as_of: 29 Jul '26
-nav_display: ₹2,262.89
+nav_as_of: 30 Jul '26
+nav_display: ₹2,265.52
 rating_display: '5'
 scheme_category: equity
 scheme_id: hdfc_equity_direct_growth
 scheme_name: HDFC Equity Fund Direct Growth
-scrape_run_id: '30518866057'
+scrape_run_id: '30609957819'
 source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
 ---
 
@@ -22,7 +22,7 @@ source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
 
 | Metric | Value |
 |--------|-------|
-| NAV (as of 29 Jul '26) | ₹2,262.89 |
+| NAV (as of 30 Jul '26) | ₹2,265.52 |
 | Minimum SIP | ₹100 |
 | Fund size (AUM) | ₹1,06,495.63 Cr |
 | Expense ratio | 0.74% |
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹61,692 |  | +2.82% |
-| 3 years | ₹1,80,000 | ₹2,10,586 |  | +16.99% |
-| 5 years | ₹3,00,000 | ₹4,47,690 |  | +49.23% |
-| 10 years | ₹6,00,000 | ₹15,02,946 |  | +150.49% |
+| 1 year | ₹60,000 | ₹61,746 |  | +2.91% |
+| 3 years | ₹1,80,000 | ₹2,10,766 |  | +17.09% |
+| 5 years | ₹3,00,000 | ₹4,48,013 |  | +49.34% |
+| 10 years | ₹6,00,000 | ₹15,04,094 |  | +150.68% |
 
 ## Holdings (77)
 
@@ -155,7 +155,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.2% | +18.8% | +16.3% | +16.1% |
+| Fund returns | +17.3% | +18.8% | +16.3% | +16.1% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
 | Rank (Equity Flexi Cap) | 8 | 2 | 2 | -- |
 
@@ -188,11 +188,11 @@ from July 1st 2020
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | [Bank of India Flexi Cap Fund Direct GrowthBank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +11.38% | +20.83% | 2,615.05 |
-|  | [ITI Flexi Cap Fund Direct GrowthITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +10.36% | +18.88% | 1,412.22 |
-|  | [HDFC Flexi Cap Direct Plan GrowthHDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +4.93% | +17.22% | 1,06,495.63 |
-|  | [Parag Parikh Flexi Cap Fund Direct GrowthParag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth) | -1.32% | +13.79% | 1,43,388.43 |
-|  | [Franklin India Flexi Cap Fund Direct GrowthFranklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -0.83% | +13.34% | 19,274.14 |
+|  | [Bank of India Flexi Cap Fund Direct GrowthBank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +10.87% | +20.72% | 2,615.05 |
+|  | [ITI Flexi Cap Fund Direct GrowthITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +9.64% | +18.79% | 1,412.22 |
+|  | [HDFC Flexi Cap Direct Plan GrowthHDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +5.02% | +17.25% | 1,06,495.63 |
+|  | [Parag Parikh Flexi Cap Fund Direct GrowthParag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth) | -0.96% | +14.04% | 1,43,388.43 |
+|  | [Franklin India Flexi Cap Fund Direct GrowthFranklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -1.05% | +13.32% | 19,274.14 |
 | [Compare](/mutual-funds/compare/hdfc-equity-fund-direct-growth) | | | | |
 | --- | --- | --- | --- | --- |
 
