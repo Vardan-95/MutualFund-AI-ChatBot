@@ -5,8 +5,8 @@
       "scheme_id": "hdfc_large_cap_direct_growth",
       "scheme_name": "HDFC Large Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "content_captured_at": "2026-08-08",
-      "scrape_run_id": "31239917421",
+      "content_captured_at": "2026-08-10",
+      "scrape_run_id": "31357684881",
       "nav": {
         "display": "₹1,251.73",
         "amount_inr": 1251.73,
@@ -37,8 +37,8 @@
       "scheme_id": "hdfc_mid_cap_direct_growth",
       "scheme_name": "HDFC Mid Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "content_captured_at": "2026-08-08",
-      "scrape_run_id": "31239917421",
+      "content_captured_at": "2026-08-10",
+      "scrape_run_id": "31357684881",
       "nav": {
         "display": "₹236.72",
         "amount_inr": 236.72,
@@ -69,8 +69,8 @@
       "scheme_id": "hdfc_equity_direct_growth",
       "scheme_name": "HDFC Equity Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-      "content_captured_at": "2026-08-08",
-      "scrape_run_id": "31239917421",
+      "content_captured_at": "2026-08-10",
+      "scrape_run_id": "31357684881",
       "nav": {
         "display": "₹2,296.80",
         "amount_inr": 2296.8,
@@ -101,8 +101,8 @@
       "scheme_id": "hdfc_focused_direct_growth",
       "scheme_name": "HDFC Focused Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-      "content_captured_at": "2026-08-08",
-      "scrape_run_id": "31239917421",
+      "content_captured_at": "2026-08-10",
+      "scrape_run_id": "31357684881",
       "nav": {
         "display": "₹271.46",
         "amount_inr": 271.46,
@@ -133,8 +133,8 @@
       "scheme_id": "hdfc_elss_direct_growth",
       "scheme_name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-      "content_captured_at": "2026-08-08",
-      "scrape_run_id": "31239917421",
+      "content_captured_at": "2026-08-10",
+      "scrape_run_id": "31357684881",
       "nav": {
         "display": "₹1,521.79",
         "amount_inr": 1521.79,
@@ -162,7 +162,7 @@
       "facts_hash": "276f5bafbb89fcb1db5ea32927cf971daa89d2aa2a45b1f52b02d44a372db017"
     }
   },
-  "scrape_run_id": "31239917421",
-  "content_captured_at": "2026-08-08",
-  "updated_at": "2026-08-08T04:39:08.550311+00:00"
+  "scrape_run_id": "31357684881",
+  "content_captured_at": "2026-08-10",
+  "updated_at": "2026-08-10T05:09:43.625417+00:00"
 }
