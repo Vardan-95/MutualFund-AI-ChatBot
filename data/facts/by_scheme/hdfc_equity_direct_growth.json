@@ -2,13 +2,13 @@
   "scheme_id": "hdfc_equity_direct_growth",
   "scheme_name": "HDFC Equity Fund Direct Growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-  "content_captured_at": "2026-08-14",
-  "scrape_run_id": "31772621387",
+  "content_captured_at": "2026-08-15",
+  "scrape_run_id": "31863875365",
   "nav": {
-    "display": "₹2,295.28",
-    "amount_inr": 2295.28,
-    "as_of_display": "13 Aug '26",
-    "as_of_iso": "13 Aug '26"
+    "display": "₹2,291.32",
+    "amount_inr": 2291.32,
+    "as_of_display": "14 Aug '26",
+    "as_of_iso": "14 Aug '26"
   },
   "minimum_sip": {
     "display": "₹100",
@@ -28,5 +28,5 @@
   },
   "extraction_status": "complete",
   "missing_fields": [],
-  "facts_hash": "9985d4d2f998f3fd06383317af1d7db345b94e16286147de90d77afdd83b44a1"
+  "facts_hash": "310e571f2c1f836a87ddef8d91a5108a336244ed993f1cf682d136b8919cb967"
 }
