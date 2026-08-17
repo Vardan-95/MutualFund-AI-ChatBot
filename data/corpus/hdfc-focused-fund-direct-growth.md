@@ -1,6 +1,6 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-08-16'
+content_captured_at: '2026-08-17'
 content_hash: f8066ab76333549fe35b4b25e8b12e312df4e858ae2a512b1864e0b55e00880f
 document_type: groww_scheme_page
 expense_ratio_display: 0.79%
@@ -14,7 +14,7 @@ rating_display: '5'
 scheme_category: focused
 scheme_id: hdfc_focused_direct_growth
 scheme_name: HDFC Focused Fund Direct Growth
-scrape_run_id: '31926370372'
+scrape_run_id: '31994408865'
 source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 ---
 
