@@ -2,13 +2,13 @@
   "scheme_id": "hdfc_large_cap_direct_growth",
   "scheme_name": "HDFC Large Cap Fund Direct Growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-  "content_captured_at": "2026-08-19",
-  "scrape_run_id": "32215434354",
+  "content_captured_at": "2026-08-20",
+  "scrape_run_id": "32331537150",
   "nav": {
-    "display": "₹1,239.61",
-    "amount_inr": 1239.61,
-    "as_of_display": "18 Aug '26",
-    "as_of_iso": "18 Aug '26"
+    "display": "₹1,237.98",
+    "amount_inr": 1237.98,
+    "as_of_display": "19 Aug '26",
+    "as_of_iso": "19 Aug '26"
   },
   "minimum_sip": {
     "display": "₹100",
@@ -28,5 +28,5 @@
   },
   "extraction_status": "complete",
   "missing_fields": [],
-  "facts_hash": "6f17ee8fae981b88e04e74f4baba4cac75da2a8099f22244acc84c73c2e9e31a"
+  "facts_hash": "e8c05b2020d9f899e95c06d342ef2ac806572d31b1de8f547d5d1a4ff2ea14ef"
 }
