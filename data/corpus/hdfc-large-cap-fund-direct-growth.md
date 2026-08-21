@@ -1,20 +1,20 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-08-20'
-content_hash: b5f6c5ff6712db9babd8f72b44a4fd8f614360a13f6179c2bdb5f72126b318bb
+content_captured_at: '2026-08-21'
+content_hash: d9de96c4bfc0b4f9ee304c9dbe73844855af1b327f044c07d6c84effebff2c3c
 document_type: groww_scheme_page
-expense_ratio_display: 1.02%
+expense_ratio_display: 1.03%
 facts_extraction_status: complete
-facts_hash: e8c05b2020d9f899e95c06d342ef2ac806572d31b1de8f547d5d1a4ff2ea14ef
+facts_hash: e68b51922ef97c63d427458aa195fcd2685d3c6746588264e9b68701425465b8
 fund_size_aum_display: ₹40,197.89 Cr
 minimum_sip_display: ₹100
-nav_as_of: 19 Aug '26
-nav_display: ₹1,237.98
+nav_as_of: 20 Aug '26
+nav_display: ₹1,244.63
 rating_display: '4'
 scheme_category: large_cap
 scheme_id: hdfc_large_cap_direct_growth
 scheme_name: HDFC Large Cap Fund Direct Growth
-scrape_run_id: '32331537150'
+scrape_run_id: '32446728521'
 source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 ---
 
@@ -22,10 +22,10 @@ source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 
 | Metric | Value |
 |--------|-------|
-| NAV (as of 19 Aug '26) | ₹1,237.98 |
+| NAV (as of 20 Aug '26) | ₹1,244.63 |
 | Minimum SIP | ₹100 |
 | Fund size (AUM) | ₹40,197.89 Cr |
-| Expense ratio | 1.02% |
+| Expense ratio | 1.03% |
 | Rating | 4 |
 
 HDFC Large Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹60,629 |  | +1.05% |
-| 3 years | ₹1,80,000 | ₹1,92,800 |  | +7.11% |
-| 5 years | ₹3,00,000 | ₹3,85,384 |  | +28.46% |
-| 10 years | ₹6,00,000 | ₹11,71,776 |  | +95.30% |
+| 1 year | ₹60,000 | ₹60,919 |  | +1.53% |
+| 3 years | ₹1,80,000 | ₹1,93,778 |  | +7.65% |
+| 5 years | ₹3,00,000 | ₹3,87,313 |  | +29.10% |
+| 10 years | ₹6,00,000 | ₹11,77,625 |  | +96.27% |
 
 ## Holdings (47)
 
@@ -125,7 +125,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +11.2% | +12.7% | +12.7% | +13.2% |
+| Fund returns | +11.4% | +13.2% | +12.8% | +13.2% |
 | Category average (Equity Large Cap) | +15.1% | +15.0% | +13.2% | -- |
 | Rank (Equity Large Cap) | 43 | 16 | 14 | -- |
 
@@ -157,11 +157,11 @@ from July 1st 2020
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | [Invesco India Largecap Fund Direct GrowthInvesco India Largecap Fund Direct Growth](/mutual-funds/invesco-india-business-leaders-fund-direct-growth) | +6.55% | +15.94% | 1,931.40 |
-|  | [Bandhan Large Cap Fund Direct GrowthBandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | +3.15% | +14.60% | 2,144.56 |
-|  | [Nippon India Large Cap Fund Direct GrowthNippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -1.28% | +12.99% | 54,224.57 |
-|  | [ICICI Prudential Large Cap Fund Direct GrowthICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -1.77% | +12.94% | 80,960.34 |
-|  | [Edelweiss Large Cap Fund Direct GrowthEdelweiss Large Cap Fund Direct Growth](/mutual-funds/edelweiss-large-cap-fund-direct-growth) | +1.58% | +12.04% | 1,443.24 |
+|  | [Invesco India Largecap Fund Direct GrowthInvesco India Largecap Fund Direct Growth](/mutual-funds/invesco-india-business-leaders-fund-direct-growth) | +6.85% | +16.18% | 1,931.40 |
+|  | [Bandhan Large Cap Fund Direct GrowthBandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | +3.52% | +14.89% | 2,144.56 |
+|  | [Nippon India Large Cap Fund Direct GrowthNippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -1.01% | +13.23% | 54,224.57 |
+|  | [ICICI Prudential Large Cap Fund Direct GrowthICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -1.32% | +13.16% | 80,960.34 |
+|  | [Edelweiss Large Cap Fund Direct GrowthEdelweiss Large Cap Fund Direct Growth](/mutual-funds/edelweiss-large-cap-fund-direct-growth) | +1.90% | +12.20% | 1,443.24 |
 | [Compare](/mutual-funds/compare/hdfc-large-cap-fund-direct-growth) | | | | |
 | --- | --- | --- | --- | --- |
 
