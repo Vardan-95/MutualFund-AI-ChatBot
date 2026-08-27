@@ -1,20 +1,20 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-08-26'
-content_hash: 58ef32d81a24191373e25c6d8875bd9dc7b32e9bbaafb5d8c6814026755c92ff
+content_captured_at: '2026-08-27'
+content_hash: 5c6983f0d75535666bb3aa0844e79d30a0387002fe2c60d1a7abb4c473985d24
 document_type: groww_scheme_page
 expense_ratio_display: 0.80%
 facts_extraction_status: complete
-facts_hash: b0a3fccaa889d97b4cb671f2119d3d298e9e6fd0b48713f45605b0df15673cdf
+facts_hash: ed797b0a9c85d750f97b8839740ac84bf0fc6eb35634036cd201b51fe3eb1fd9
 fund_size_aum_display: ₹27,924.78 Cr
 minimum_sip_display: ₹100
-nav_as_of: 25 Aug '26
-nav_display: ₹271.29
+nav_as_of: 26 Aug '26
+nav_display: ₹271.74
 rating_display: '5'
 scheme_category: focused
 scheme_id: hdfc_focused_direct_growth
 scheme_name: HDFC Focused Fund Direct Growth
-scrape_run_id: '32930058425'
+scrape_run_id: '33084071102'
 source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 ---
 
@@ -22,7 +22,7 @@ source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 
 | Metric | Value |
 |--------|-------|
-| NAV (as of 25 Aug '26) | ₹271.29 |
+| NAV (as of 26 Aug '26) | ₹271.74 |
 | Minimum SIP | ₹100 |
 | Fund size (AUM) | ₹27,924.78 Cr |
 | Expense ratio | 0.80% |
@@ -48,48 +48,48 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹61,620 |  | +2.70% |
-| 3 years | ₹1,80,000 | ₹2,08,689 |  | +15.94% |
-| 5 years | ₹3,00,000 | ₹4,47,093 |  | +49.03% |
-| 10 years | ₹6,00,000 | ₹14,76,143 |  | +146.02% |
+| 1 year | ₹60,000 | ₹61,700 |  | +2.83% |
+| 3 years | ₹1,80,000 | ₹2,08,961 |  | +16.09% |
+| 5 years | ₹3,00,000 | ₹4,47,623 |  | +49.21% |
+| 10 years | ₹6,00,000 | ₹14,77,884 |  | +146.31% |
 
 ## Holdings (33)
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| [ICICI Bank Ltd](/stocks/icici-bank-ltd) | Financial | Equity | 9.17% |
-| [HDFC Bank Ltd](/stocks/hdfc-bank-ltd) | Financial | Equity | 8.34% |
-| [Axis Bank Ltd](/stocks/axis-bank-ltd) | Financial | Equity | 7.39% |
-| Repo | Unspecified | Repo | 7.32% |
-| [Kotak Mahindra Bank Ltd](/stocks/kotak-mahindra-bank-ltd) | Financial | Equity | 5.43% |
-| [State Bank of India](/stocks/state-bank-of-india) | Financial | Equity | 5.31% |
-| [Zomato Ltd](/stocks/zomato-ltd) | Technology | Equity | 4.19% |
-| [Interglobe Aviation Ltd](/stocks/interglobe-aviation-ltd) | Industrials | Equity | 4.15% |
-| [Maruti Suzuki India Ltd](/stocks/maruti-suzuki-india-ltd) | Consumer Discretionary | Equity | 3.80% |
-| [Cipla Ltd](/stocks/cipla-ltd) | Healthcare | Equity | 3.73% |
-| [HCL Technologies Ltd](/stocks/hcl-technologies-ltd) | Technology | Equity | 3.34% |
-| [SBI Life Insurance Company Ltd](/stocks/sbi-life-insurance-company-ltd) | Financial | Equity | 3.33% |
-| [Bharti Airtel Ltd](/stocks/bharti-airtel-ltd) | Technology | Equity | 3.28% |
-| [Eicher Motors Ltd](/stocks/eicher-motors-ltd) | Consumer Discretionary | Equity | 3.10% |
-| [Power Grid Corporation of India Ltd](/stocks/power-grid-corporation-of-india-ltd) | Energy & Utilities | Equity | 2.83% |
-| [Havells India Ltd](/stocks/havells-india-ltd) | Consumer Discretionary | Equity | 2.27% |
-| [Tata Steel Ltd](/stocks/tata-steel-ltd) | Materials | Equity | 2.20% |
-| [FSN E-Commerce Ventures Ltd](/stocks/fsn-ecommerce-ventures-ltd) | Consumer Discretionary | Equity | 2.11% |
-| [Bosch Ltd](/stocks/bosch-ltd) | Consumer Discretionary | Equity | 2.07% |
-| [Karur Vysya Bank Ltd](/stocks/karur-vysya-bank-ltd) | Financial | Equity | 2.06% |
+| [ICICI Bank Ltd](/stocks/icici-bank-ltd) | Financial | Equity | 9.36% |
+| [HDFC Bank Ltd](/stocks/hdfc-bank-ltd) | Financial | Equity | 7.64% |
+| [Axis Bank Ltd](/stocks/axis-bank-ltd) | Financial | Equity | 6.60% |
+| [Kotak Mahindra Bank Ltd](/stocks/kotak-mahindra-bank-ltd) | Financial | Equity | 5.28% |
+| [State Bank of India](/stocks/state-bank-of-india) | Financial | Equity | 5.20% |
+| [Zomato Ltd](/stocks/zomato-ltd) | Technology | Equity | 4.68% |
+| Repo | Unspecified | Repo | 4.45% |
+| [HCL Technologies Ltd](/stocks/hcl-technologies-ltd) | Technology | Equity | 4.10% |
+| [Interglobe Aviation Ltd](/stocks/interglobe-aviation-ltd) | Industrials | Equity | 3.90% |
+| [Maruti Suzuki India Ltd](/stocks/maruti-suzuki-india-ltd) | Consumer Discretionary | Equity | 3.75% |
+| [Sun Pharmaceutical Industries Ltd](/stocks/sun-pharmaceutical-industries-ltd) | Healthcare | Equity | 3.70% |
+| [SBI Life Insurance Company Ltd](/stocks/sbi-life-insurance-company-ltd) | Financial | Equity | 3.47% |
+| [Bharti Airtel Ltd](/stocks/bharti-airtel-ltd) | Technology | Equity | 3.42% |
+| [Eicher Motors Ltd](/stocks/eicher-motors-ltd) | Consumer Discretionary | Equity | 3.35% |
+| [Havells India Ltd](/stocks/havells-india-ltd) | Consumer Discretionary | Equity | 2.74% |
+| [Cipla Ltd](/stocks/cipla-ltd) | Healthcare | Equity | 2.69% |
+| [Karur Vysya Bank Ltd](/stocks/karur-vysya-bank-ltd) | Financial | Equity | 2.33% |
+| [FSN E-Commerce Ventures Ltd](/stocks/fsn-ecommerce-ventures-ltd) | Consumer Discretionary | Equity | 2.21% |
+| [Tata Steel Ltd](/stocks/tata-steel-ltd) | Materials | Equity | 2.17% |
+| [Bosch Ltd](/stocks/bosch-ltd) | Consumer Discretionary | Equity | 2.08% |
+| [Hyundai Motor India Ltd.](/stocks/hyundai-motor-india-ltd) | Consumer Discretionary | Equity | 1.99% |
+| [Adani Green Energy Ltd](/stocks/adani-green-energy-ltd) | Energy & Utilities | Equity | 1.96% |
 | [Nexus Select Trust](/stocks/nexus-select-trust) | Industrials | Real Estate Investment Trusts | 1.79% |
-| [Hyundai Motor India Ltd.](/stocks/hyundai-motor-india-ltd) | Consumer Discretionary | Equity | 1.78% |
-| [JSW Infrastructure Ltd](/stocks/jsw-infrastructure-ltd) | Industrials | Equity | 1.70% |
-| [Chalet Hotels Ltd](/stocks/chalet-hotels-ltd) | Consumer Discretionary | Equity | 1.65% |
-| [Escorts Kubota Ltd](/stocks/escorts-ltd) | Industrials | Equity | 1.45% |
-| [Amber Enterprises India Ltd](/stocks/amber-enterprises-india-ltd) | Consumer Discretionary | Equity | 1.42% |
-| [Metropolis Healthcare Ltd](/stocks/metropolis-healthcare-ltd) | Healthcare | Equity | 1.35% |
-| [Mahindra CIE Automotive Ltd](/stocks/mahindra-cie-automotive-ltd) | Consumer Discretionary | Equity | 1.19% |
-| [CG Power & Industrial Solutions Ltd](/stocks/cg-power-industrial-solutions-ltd) | Industrials | Equity | 0.79% |
-| [Restaurant Brands Asia Ltd](/stocks/burger-king-india-ltd) | Consumer Discretionary | Equity | 0.65% |
-| [Piramal Pharma Ltd](/stocks/piramal-pharma-ltd) | Healthcare | Equity | 0.53% |
-| [GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100](/stocks/goi-351) | Entities | GOI Securities | 0.19% |
-| Net Current Assets | Unspecified | Net Current Assets | 0.09% |
+| [Chalet Hotels Ltd](/stocks/chalet-hotels-ltd) | Consumer Discretionary | Equity | 1.61% |
+| [JSW Infrastructure Ltd](/stocks/jsw-infrastructure-ltd) | Industrials | Equity | 1.61% |
+| [Power Grid Corporation of India Ltd](/stocks/power-grid-corporation-of-india-ltd) | Energy & Utilities | Equity | 1.56% |
+| [Escorts Kubota Ltd](/stocks/escorts-ltd) | Industrials | Equity | 1.49% |
+| [Metropolis Healthcare Ltd](/stocks/metropolis-healthcare-ltd) | Healthcare | Equity | 1.42% |
+| [Amber Enterprises India Ltd](/stocks/amber-enterprises-india-ltd) | Consumer Discretionary | Equity | 1.37% |
+| [CG Power & Industrial Solutions Ltd](/stocks/cg-power-industrial-solutions-ltd) | Industrials | Equity | 1.10% |
+| [Restaurant Brands Asia Ltd](/stocks/burger-king-india-ltd) | Consumer Discretionary | Equity | 0.53% |
+| Net Current Assets | Unspecified | Net Current Assets | 0.27% |
+| [GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100](/stocks/goi-351) | Entities | GOI Securities | 0.18% |
 
 See All
 ### Minimum investments
@@ -111,7 +111,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.5% | +19.9% | +15.2% | +15.0% |
+| Fund returns | +17.6% | +20.0% | +15.3% | +15.0% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | -- | -- |
 | Rank (Equity Flexi Cap) | 4 | 1 | 3 | -- |
 
@@ -143,11 +143,11 @@ from July 1st 2020
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | [Bank of India Flexi Cap Fund Direct GrowthBank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +14.63% | +22.19% | 2,786.40 |
-|  | [ITI Flexi Cap Fund Direct GrowthITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +14.62% | +20.09% | 1,467.30 |
-|  | [HDFC Flexi Cap Direct Plan GrowthHDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +4.81% | +17.77% | 1,10,736.41 |
-|  | [Parag Parikh Flexi Cap Fund Direct GrowthParag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth) | -1.26% | +14.40% | 1,48,429.00 |
-|  | [Franklin India Flexi Cap Fund Direct GrowthFranklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -0.19% | +13.54% | 19,509.44 |
+|  | [Bank of India Flexi Cap Fund Direct GrowthBank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +16.68% | +22.20% | 2,786.40 |
+|  | [ITI Flexi Cap Fund Direct GrowthITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +16.36% | +20.15% | 1,467.30 |
+|  | [HDFC Flexi Cap Direct Plan GrowthHDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +5.84% | +17.81% | 1,10,736.41 |
+|  | [Parag Parikh Flexi Cap Fund Direct GrowthParag Parikh Flexi Cap Fund Direct Growth](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth) | -0.59% | +14.56% | 1,48,429.00 |
+|  | [Franklin India Flexi Cap Fund Direct GrowthFranklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | +0.92% | +13.44% | 19,509.44 |
 | [Compare](/mutual-funds/compare/hdfc-focused-fund-direct-growth) | | | | |
 | --- | --- | --- | --- | --- |
 
