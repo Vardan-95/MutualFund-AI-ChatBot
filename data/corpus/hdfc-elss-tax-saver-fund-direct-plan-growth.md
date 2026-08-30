@@ -1,6 +1,6 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-08-29'
+content_captured_at: '2026-08-30'
 content_hash: 5984dc2a3f6f19da4f9a2c0eb41bfdabc38c6f9e0aa77365eafd98c23e019887
 document_type: groww_scheme_page
 expense_ratio_display: 1.19%
@@ -14,7 +14,7 @@ rating_display: '5'
 scheme_category: elss
 scheme_id: hdfc_elss_direct_growth
 scheme_name: HDFC ELSS Tax Saver Fund Direct Plan Growth
-scrape_run_id: '33247793295'
+scrape_run_id: '33304129870'
 source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
 ---
 
