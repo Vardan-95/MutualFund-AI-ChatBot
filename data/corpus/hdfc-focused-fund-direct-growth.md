@@ -1,7 +1,7 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-09-05'
-content_hash: 07ef43b284c642916b41636b3360b7ba5dd1f7c3a067d710c9d53770b839b258
+content_captured_at: '2026-09-06'
+content_hash: f12224711e9b2013bafcbfd0e65eccf1d21a665895b5e44b56a09a6573ed7dbb
 document_type: groww_scheme_page
 expense_ratio_display: 0.80%
 facts_extraction_status: complete
@@ -14,7 +14,7 @@ rating_display: '5'
 scheme_category: focused
 scheme_id: hdfc_focused_direct_growth
 scheme_name: HDFC Focused Fund Direct Growth
-scrape_run_id: '33953688891'
+scrape_run_id: '34020964138'
 source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 ---
 
@@ -113,7 +113,7 @@ Annualised returnsAbsolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +16.2% | +18.7% | +14.8% | +14.8% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | -- | -- |
-| Rank (Equity Flexi Cap) | 4 | 1 | 3 | -- |
+| Rank (Equity Flexi Cap) | 4 | 1 | 4 | -- |
 
 ## Understand terms
 
