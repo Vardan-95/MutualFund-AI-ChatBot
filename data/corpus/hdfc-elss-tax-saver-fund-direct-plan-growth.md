@@ -1,20 +1,20 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-09-07'
-content_hash: bec56404cf707d4fd032f29852fad41dd59c5ad3b2d9df29fd4b78164fe392a2
+content_captured_at: '2026-09-08'
+content_hash: 44e3d6e1a948ab2ac69c04e2dbd17f2ccaaf85b0e9c251d85549b5f7176a6428
 document_type: groww_scheme_page
 expense_ratio_display: 1.19%
 facts_extraction_status: complete
-facts_hash: b60b21b39995421301a77af600cbc0e39e9f8b00e9a7678d99612551ba6485ef
+facts_hash: 33269a668dc72625d1a43a00470c312710b67feec5d8fa7b43d216318cc219c3
 fund_size_aum_display: ₹16,095.45 Cr
 minimum_sip_display: ₹500
-nav_as_of: 04 Sep '26
-nav_display: ₹1,491.78
+nav_as_of: 07 Sep '26
+nav_display: ₹1,485.59
 rating_display: '5'
 scheme_category: elss
 scheme_id: hdfc_elss_direct_growth
 scheme_name: HDFC ELSS Tax Saver Fund Direct Plan Growth
-scrape_run_id: '34101623197'
+scrape_run_id: '34203911248'
 source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
 ---
 
@@ -22,7 +22,7 @@ source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-g
 
 | Metric | Value |
 |--------|-------|
-| NAV (as of 04 Sep '26) | ₹1,491.78 |
+| NAV (as of 07 Sep '26) | ₹1,485.59 |
 | Minimum SIP | ₹500 |
 | Fund size (AUM) | ₹16,095.45 Cr |
 | Expense ratio | 1.19% |
@@ -143,7 +143,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +13.8% | +14.7% | +13.3% | +14.1% |
+| Fund returns | +13.3% | +14.5% | +13.0% | +14.0% |
 | Category average (Equity ELSS) | +16.4% | +16.5% | +14.0% | -- |
 | Rank (Equity ELSS) | 11 | 5 | 17 | -- |
 
