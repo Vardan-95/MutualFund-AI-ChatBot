@@ -5,13 +5,13 @@
       "scheme_id": "hdfc_large_cap_direct_growth",
       "scheme_name": "HDFC Large Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "content_captured_at": "2026-09-16",
-      "scrape_run_id": "35076018447",
+      "content_captured_at": "2026-09-17",
+      "scrape_run_id": "35202220970",
       "nav": {
-        "display": "₹1,190.12",
-        "amount_inr": 1190.12,
-        "as_of_display": "15 Sep '26",
-        "as_of_iso": "15 Sep '26"
+        "display": "₹1,192.40",
+        "amount_inr": 1192.4,
+        "as_of_display": "16 Sep '26",
+        "as_of_iso": "16 Sep '26"
       },
       "minimum_sip": {
         "display": "₹100",
@@ -31,19 +31,19 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "be392878f052c12695d4985805267d8a765ef9fa4725916aa5807963874a3027"
+      "facts_hash": "6120a7760b362a044b57ad942abac832929b8e42016ae07e0f0386c16e0e5e37"
     },
     "hdfc_mid_cap_direct_growth": {
       "scheme_id": "hdfc_mid_cap_direct_growth",
       "scheme_name": "HDFC Mid Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "content_captured_at": "2026-09-16",
-      "scrape_run_id": "35076018447",
+      "content_captured_at": "2026-09-17",
+      "scrape_run_id": "35202220970",
       "nav": {
-        "display": "₹226.60",
-        "amount_inr": 226.6,
-        "as_of_display": "15 Sep '26",
-        "as_of_iso": "15 Sep '26"
+        "display": "₹227.70",
+        "amount_inr": 227.7,
+        "as_of_display": "16 Sep '26",
+        "as_of_iso": "16 Sep '26"
       },
       "minimum_sip": {
         "display": "₹100",
@@ -54,8 +54,8 @@
         "amount_cr": 108324.55
       },
       "expense_ratio": {
-        "display": "0.75%",
-        "percent": 0.75
+        "display": "0.76%",
+        "percent": 0.76
       },
       "rating": {
         "display": "5",
@@ -63,19 +63,19 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "e31577cbb68eb9c849c5782c6e33256a1f68ce0926f89b2e5ebf0805803f4eeb"
+      "facts_hash": "570bed621ed4eee1a90c490c82176f33f3488ac48d032f8f3d32258b759c1fd8"
     },
     "hdfc_equity_direct_growth": {
       "scheme_id": "hdfc_equity_direct_growth",
       "scheme_name": "HDFC Equity Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-      "content_captured_at": "2026-09-16",
-      "scrape_run_id": "35076018447",
+      "content_captured_at": "2026-09-17",
+      "scrape_run_id": "35202220970",
       "nav": {
-        "display": "₹2,207.73",
-        "amount_inr": 2207.73,
-        "as_of_display": "15 Sep '26",
-        "as_of_iso": "15 Sep '26"
+        "display": "₹2,216.85",
+        "amount_inr": 2216.85,
+        "as_of_display": "16 Sep '26",
+        "as_of_iso": "16 Sep '26"
       },
       "minimum_sip": {
         "display": "₹100",
@@ -95,19 +95,19 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "e1a661091269f6fdcbc15f025f6c8a5d221c598ae3139567d802d0020253201e"
+      "facts_hash": "432d3fb2977f9a0e5f9f8d6bbda7321fd92c0dd9d602a88072780c6e7caa816e"
     },
     "hdfc_focused_direct_growth": {
       "scheme_id": "hdfc_focused_direct_growth",
       "scheme_name": "HDFC Focused Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-      "content_captured_at": "2026-09-16",
-      "scrape_run_id": "35076018447",
+      "content_captured_at": "2026-09-17",
+      "scrape_run_id": "35202220970",
       "nav": {
-        "display": "₹259.14",
-        "amount_inr": 259.14,
-        "as_of_display": "15 Sep '26",
-        "as_of_iso": "15 Sep '26"
+        "display": "₹260.69",
+        "amount_inr": 260.69,
+        "as_of_display": "16 Sep '26",
+        "as_of_iso": "16 Sep '26"
       },
       "minimum_sip": {
         "display": "₹100",
@@ -118,8 +118,8 @@
         "amount_cr": 28200.67
       },
       "expense_ratio": {
-        "display": "0.81%",
-        "percent": 0.81
+        "display": "0.82%",
+        "percent": 0.82
       },
       "rating": {
         "display": "5",
@@ -127,19 +127,19 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "97a4c9c159b4ac17c3bf045419f960d95ce618f8985c46b0b92ce693a82a83cf"
+      "facts_hash": "43e0c86ef6c008bba259c9831b9633a09bbafbc2ff43ca948193e26e8380297a"
     },
     "hdfc_elss_direct_growth": {
       "scheme_id": "hdfc_elss_direct_growth",
       "scheme_name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-      "content_captured_at": "2026-09-16",
-      "scrape_run_id": "35076018447",
+      "content_captured_at": "2026-09-17",
+      "scrape_run_id": "35202220970",
       "nav": {
-        "display": "₹1,442.78",
-        "amount_inr": 1442.78,
-        "as_of_display": "15 Sep '26",
-        "as_of_iso": "15 Sep '26"
+        "display": "₹1,452.28",
+        "amount_inr": 1452.28,
+        "as_of_display": "16 Sep '26",
+        "as_of_iso": "16 Sep '26"
       },
       "minimum_sip": {
         "display": "₹500",
@@ -150,8 +150,8 @@
         "amount_cr": 15991.78
       },
       "expense_ratio": {
-        "display": "1.20%",
-        "percent": 1.2
+        "display": "1.21%",
+        "percent": 1.21
       },
       "rating": {
         "display": "5",
@@ -159,10 +159,10 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "3646f62ae72c5f23d900ef584a26a3d5133ee9440ea5d7d29036132481a304a8"
+      "facts_hash": "8a86cb229b053d96a3d585b3931daa82dab2b07a481a4c2e18e59dc4eac4fbd0"
     }
   },
-  "scrape_run_id": "35076018447",
-  "content_captured_at": "2026-09-16",
-  "updated_at": "2026-09-16T08:50:58.762672+00:00"
+  "scrape_run_id": "35202220970",
+  "content_captured_at": "2026-09-17",
+  "updated_at": "2026-09-17T08:54:51.600997+00:00"
 }
