@@ -1,7 +1,7 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-09-19'
-content_hash: 55a6892646e69ec46ec01bbd33e6167c5407ff6c69618eff27bc9f242790e54f
+content_captured_at: '2026-09-20'
+content_hash: c36b34681f843e5bca2854a5f6f9543ce3cacf77f2452c23bac8848a486ea5b1
 document_type: groww_scheme_page
 expense_ratio_display: 1.21%
 facts_extraction_status: complete
@@ -14,7 +14,7 @@ rating_display: '5'
 scheme_category: elss
 scheme_id: hdfc_elss_direct_growth
 scheme_name: HDFC ELSS Tax Saver Fund Direct Plan Growth
-scrape_run_id: '35431594436'
+scrape_run_id: '35500600734'
 source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
 ---
 
@@ -145,7 +145,7 @@ Annualised returnsAbsolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +12.0% | +13.8% | +13.1% | +13.9% |
 | Category average (Equity ELSS) | +16.4% | +16.5% | +14.0% | -- |
-| Rank (Equity ELSS) | 12 | 5 | 17 | -- |
+| Rank (Equity ELSS) | 13 | 5 | 17 | -- |
 
 ## Understand terms
 
