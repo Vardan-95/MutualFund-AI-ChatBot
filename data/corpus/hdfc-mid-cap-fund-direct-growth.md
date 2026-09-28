@@ -1,7 +1,7 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-09-26'
-content_hash: dccf7d012b74f5a5aee14b7ea7ed1b5dd3774f52d14ac4ff8aca01ff7e6c66fb
+content_captured_at: '2026-09-28'
+content_hash: 52f699db2e0c93e8e01bd274c51d6d0fa6e04c75e6e3214c0d46339e382c8ed8
 document_type: groww_scheme_page
 expense_ratio_display: 0.76%
 facts_extraction_status: complete
@@ -14,7 +14,7 @@ rating_display: '5'
 scheme_category: mid_cap
 scheme_id: hdfc_mid_cap_direct_growth
 scheme_name: HDFC Mid Cap Fund Direct Growth
-scrape_run_id: '36230942054'
+scrape_run_id: '36408053922'
 source_url: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
 ---
 
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹61,198 |  | +2.00% |
-| 3 years | ₹1,80,000 | ₹2,06,595 |  | +14.77% |
-| 5 years | ₹3,00,000 | ₹4,58,901 |  | +52.97% |
-| 10 years | ₹6,00,000 | ₹16,31,746 |  | +171.96% |
+| 1 year | ₹60,000 | ₹61,084 |  | +1.81% |
+| 3 years | ₹1,80,000 | ₹2,06,164 |  | +14.54% |
+| 5 years | ₹3,00,000 | ₹4,57,812 |  | +52.60% |
+| 10 years | ₹6,00,000 | ₹16,28,272 |  | +171.38% |
 
 ## Holdings (81)
 
@@ -159,9 +159,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +16.9% | +18.4% | +17.1% | +19.9% |
-| Category average (Equity Mid Cap) | +16.1% | +15.3% | +16.3% | +18.6% |
-| Rank (Equity Mid Cap) | 16 | 3 | 8 | -- |
+| Fund returns | +16.8% | +18.3% | +17.0% | +19.9% |
+| Category average (Equity Mid Cap) | +15.9% | +15.2% | +16.3% | +18.5% |
+| Rank (Equity Mid Cap) | 16 | 3 | 7 | -- |
 
 ## Understand terms
 

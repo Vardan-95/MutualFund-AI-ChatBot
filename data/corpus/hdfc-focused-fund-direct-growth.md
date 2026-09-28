@@ -1,7 +1,7 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-09-26'
-content_hash: 89b390f4eab2da69ce28a91ed8b39579614f65dbd17b2bce29b0b1a560347ff6
+content_captured_at: '2026-09-28'
+content_hash: f93cc2a56fc524d093a82eee44523651f5da8b40698cc779e61d02f37829c33b
 document_type: groww_scheme_page
 expense_ratio_display: 0.82%
 facts_extraction_status: complete
@@ -14,7 +14,7 @@ rating_display: '5'
 scheme_category: focused
 scheme_id: hdfc_focused_direct_growth
 scheme_name: HDFC Focused Fund Direct Growth
-scrape_run_id: '36230942054'
+scrape_run_id: '36408053922'
 source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 ---
 
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹59,418 |  | -0.97% |
-| 3 years | ₹1,80,000 | ₹1,98,334 |  | +10.19% |
-| 5 years | ₹3,00,000 | ₹4,23,881 |  | +41.29% |
-| 10 years | ₹6,00,000 | ₹14,06,690 |  | +134.45% |
+| 1 year | ₹60,000 | ₹59,586 |  | -0.69% |
+| 3 years | ₹1,80,000 | ₹1,98,923 |  | +10.51% |
+| 5 years | ₹3,00,000 | ₹4,25,100 |  | +41.70% |
+| 10 years | ₹6,00,000 | ₹14,10,428 |  | +135.07% |
 
 ## Holdings (33)
 
@@ -111,7 +111,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +15.1% | +17.7% | +14.4% | +14.6% |
+| Fund returns | +15.2% | +17.8% | +14.4% | +14.6% |
 | Category average (Equity Flexi Cap) | +12.9% | +11.0% | +13.6% | +14.8% |
 | Rank (Equity Flexi Cap) | 6 | 1 | 4 | -- |
 
