@@ -1,20 +1,20 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-10-05'
-content_hash: 1ff258729669bfbee28bbeb8a83f22730ff26d67345ea3a1ed5347b4bb83a8b5
+content_captured_at: '2026-10-06'
+content_hash: b2f466c70e41118188890a8a31082e4cc51464b46d6f9546e66c902acf1e2bf8
 document_type: groww_scheme_page
 expense_ratio_display: 1.04%
 facts_extraction_status: complete
-facts_hash: b6dc9777f42d1b5124620c800282df4b519ebfaca7663916fb7db40b492dfff3
+facts_hash: 27792066eeb45117bd3917b9b8e0b5bd3dc395643ac9fd9176745779c471c761
 fund_size_aum_display: ₹39,933.36 Cr
 minimum_sip_display: ₹100
-nav_as_of: 01 Oct '26
-nav_display: ₹1,151.92
+nav_as_of: 05 Oct '26
+nav_display: ₹1,157.04
 rating_display: '4'
 scheme_category: large_cap
 scheme_id: hdfc_large_cap_direct_growth
 scheme_name: HDFC Large Cap Fund Direct Growth
-scrape_run_id: '37299198947'
+scrape_run_id: '37452061087'
 source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 ---
 
@@ -22,7 +22,7 @@ source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 
 | Metric | Value |
 |--------|-------|
-| NAV (as of 01 Oct '26) | ₹1,151.92 |
+| NAV (as of 05 Oct '26) | ₹1,157.04 |
 | Minimum SIP | ₹100 |
 | Fund size (AUM) | ₹39,933.36 Cr |
 | Expense ratio | 1.04% |
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹56,684 |  | -5.53% |
-| 3 years | ₹1,80,000 | ₹1,76,894 |  | -1.73% |
-| 5 years | ₹3,00,000 | ₹3,53,824 |  | +17.94% |
-| 10 years | ₹6,00,000 | ₹10,76,382 |  | +79.40% |
+| 1 year | ₹60,000 | ₹57,009 |  | -4.98% |
+| 3 years | ₹1,80,000 | ₹1,77,700 |  | -1.28% |
+| 5 years | ₹3,00,000 | ₹3,55,116 |  | +18.37% |
+| 10 years | ₹6,00,000 | ₹10,79,774 |  | +79.96% |
 
 ## Holdings (50)
 
@@ -128,9 +128,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +7.3% | +9.6% | +11.9% | +12.5% |
+| Fund returns | +7.9% | +9.2% | +11.7% | +12.5% |
 | Category average (Equity Large Cap) | +9.1% | +8.4% | +11.8% | +12.4% |
-| Rank (Equity Large Cap) | 45 | 20 | 14 | -- |
+| Rank (Equity Large Cap) | 44 | 21 | 14 | -- |
 
 ## Understand terms
 
@@ -160,11 +160,11 @@ from July 1st 2020
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | [Invesco India Large Cap Fund Direct GrowthInvesco India Large Cap Fund Direct Growth](/mutual-funds/invesco-india-large-cap-fund-direct-growth) | -0.05% | +12.60% | 2,020.76 |
-|  | [Bandhan Large Cap Fund Direct GrowthBandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | -2.46% | +11.45% | 2,179.99 |
-|  | [Nippon India Large Cap Fund Direct GrowthNippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -7.02% | +9.48% | 54,133.66 |
-|  | [ICICI Prudential Large Cap Fund Direct GrowthICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -7.52% | +9.20% | 80,206.20 |
-|  | [HDFC Large Cap Fund Direct GrowthHDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth) | -6.15% | +7.33% | 39,933.36 |
+|  | [Invesco India Large Cap Fund Direct GrowthInvesco India Large Cap Fund Direct Growth](/mutual-funds/invesco-india-large-cap-fund-direct-growth) | -0.08% | +12.98% | 2,020.76 |
+|  | [Bandhan Large Cap Fund Direct GrowthBandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | -2.10% | +11.97% | 2,179.99 |
+|  | [Nippon India Large Cap Fund Direct GrowthNippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -7.16% | +9.74% | 54,133.66 |
+|  | [ICICI Prudential Large Cap Fund Direct GrowthICICI Prudential Large Cap Fund Direct Growth](/mutual-funds/icici-prudential-large-cap-fund-direct-growth) | -7.47% | +9.66% | 80,206.20 |
+|  | [HDFC Large Cap Fund Direct GrowthHDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth) | -5.87% | +7.87% | 39,933.36 |
 | [Compare](/mutual-funds/compare/hdfc-large-cap-fund-direct-growth) | | | | |
 | --- | --- | --- | --- | --- |
 
