@@ -2,13 +2,13 @@
   "scheme_id": "hdfc_mid_cap_direct_growth",
   "scheme_name": "HDFC Mid Cap Fund Direct Growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-  "content_captured_at": "2026-10-07",
-  "scrape_run_id": "37608320074",
+  "content_captured_at": "2026-10-08",
+  "scrape_run_id": "37766724336",
   "nav": {
-    "display": "₹222.03",
-    "amount_inr": 222.03,
-    "as_of_display": "06 Oct '26",
-    "as_of_iso": "06 Oct '26"
+    "display": "₹220.87",
+    "amount_inr": 220.87,
+    "as_of_display": "07 Oct '26",
+    "as_of_iso": "07 Oct '26"
   },
   "minimum_sip": {
     "display": "₹100",
@@ -28,5 +28,5 @@
   },
   "extraction_status": "complete",
   "missing_fields": [],
-  "facts_hash": "ef2584f20e1b3144bd236bc840a7d05bb9ffbf8897a372e71f18d34fd078e872"
+  "facts_hash": "9652e98122054ce6a74678a7e93631b65761ba85bf868cec0db1c1b6dec70e0e"
 }
