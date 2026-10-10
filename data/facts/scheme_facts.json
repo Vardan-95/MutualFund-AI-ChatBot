@@ -5,21 +5,21 @@
       "scheme_id": "hdfc_large_cap_direct_growth",
       "scheme_name": "HDFC Large Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "content_captured_at": "2026-10-09",
-      "scrape_run_id": "37920492543",
+      "content_captured_at": "2026-10-10",
+      "scrape_run_id": "38043823938",
       "nav": {
-        "display": "₹1,140.67",
-        "amount_inr": 1140.67,
-        "as_of_display": "08 Oct '26",
-        "as_of_iso": "08 Oct '26"
+        "display": "₹1,152.95",
+        "amount_inr": 1152.95,
+        "as_of_display": "09 Oct '26",
+        "as_of_iso": "09 Oct '26"
       },
       "minimum_sip": {
         "display": "₹100",
         "amount_inr": 100.0
       },
       "fund_size_aum": {
-        "display": "₹39,933.36 Cr",
-        "amount_cr": 39933.36
+        "display": "₹37,293.95 Cr",
+        "amount_cr": 37293.95
       },
       "expense_ratio": {
         "display": "1.04%",
@@ -31,27 +31,27 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "ec6ef2ebe8b4384b199d7e5c34b5ec091110453cded0ea5585f73ae5ba48281d"
+      "facts_hash": "233e0798b686848797e098bf840290f982a1a28eb5fc4f80a0fbbf1b36dc81a0"
     },
     "hdfc_mid_cap_direct_growth": {
       "scheme_id": "hdfc_mid_cap_direct_growth",
       "scheme_name": "HDFC Mid Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "content_captured_at": "2026-10-09",
-      "scrape_run_id": "37920492543",
+      "content_captured_at": "2026-10-10",
+      "scrape_run_id": "38043823938",
       "nav": {
-        "display": "₹217.08",
-        "amount_inr": 217.08,
-        "as_of_display": "08 Oct '26",
-        "as_of_iso": "08 Oct '26"
+        "display": "₹219.82",
+        "amount_inr": 219.82,
+        "as_of_display": "09 Oct '26",
+        "as_of_iso": "09 Oct '26"
       },
       "minimum_sip": {
         "display": "₹100",
         "amount_inr": 100.0
       },
       "fund_size_aum": {
-        "display": "₹1,08,324.54 Cr",
-        "amount_cr": 108324.54
+        "display": "₹1,01,856.06 Cr",
+        "amount_cr": 101856.06
       },
       "expense_ratio": {
         "display": "0.76%",
@@ -63,27 +63,27 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "04471363ead3212f03e446a6925bf8b348d62d546cbc04cc658d35298b6ac46e"
+      "facts_hash": "8171a1bbea55abf184c6cd4841a5b57e5e71fb86769ffaf97eb5ba13da25d646"
     },
     "hdfc_equity_direct_growth": {
       "scheme_id": "hdfc_equity_direct_growth",
       "scheme_name": "HDFC Equity Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-      "content_captured_at": "2026-10-09",
-      "scrape_run_id": "37920492543",
+      "content_captured_at": "2026-10-10",
+      "scrape_run_id": "38043823938",
       "nav": {
-        "display": "₹2,128.25",
-        "amount_inr": 2128.25,
-        "as_of_display": "08 Oct '26",
-        "as_of_iso": "08 Oct '26"
+        "display": "₹2,152.47",
+        "amount_inr": 2152.47,
+        "as_of_display": "09 Oct '26",
+        "as_of_iso": "09 Oct '26"
       },
       "minimum_sip": {
         "display": "₹100",
         "amount_inr": 100.0
       },
       "fund_size_aum": {
-        "display": "₹1,13,606.46 Cr",
-        "amount_cr": 113606.46
+        "display": "₹1,08,546.97 Cr",
+        "amount_cr": 108546.97
       },
       "expense_ratio": {
         "display": "0.77%",
@@ -95,27 +95,27 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "b3d87b38c6fb984532c138382500545a08bad0a16498cba13b29755477659346"
+      "facts_hash": "cff436fc9e9082ee8cd951a7f07a8ac07528e08f7d6807af312cb11f2d26cab2"
     },
     "hdfc_focused_direct_growth": {
       "scheme_id": "hdfc_focused_direct_growth",
       "scheme_name": "HDFC Focused Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-      "content_captured_at": "2026-10-09",
-      "scrape_run_id": "37920492543",
+      "content_captured_at": "2026-10-10",
+      "scrape_run_id": "38043823938",
       "nav": {
-        "display": "₹252.89",
-        "amount_inr": 252.89,
-        "as_of_display": "08 Oct '26",
-        "as_of_iso": "08 Oct '26"
+        "display": "₹256.10",
+        "amount_inr": 256.1,
+        "as_of_display": "09 Oct '26",
+        "as_of_iso": "09 Oct '26"
       },
       "minimum_sip": {
         "display": "₹100",
         "amount_inr": 100.0
       },
       "fund_size_aum": {
-        "display": "₹28,200.66 Cr",
-        "amount_cr": 28200.66
+        "display": "₹26,552.91 Cr",
+        "amount_cr": 26552.91
       },
       "expense_ratio": {
         "display": "0.82%",
@@ -127,27 +127,27 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "cd5a85e6a2d9e3a3fc2697d2ac946ef11acaab8fd185b0353b38be06840660f1"
+      "facts_hash": "5db5bd37faaaacaed1d4770d8b5ad72285453da088f8bdd6187443bb909bbe57"
     },
     "hdfc_elss_direct_growth": {
       "scheme_id": "hdfc_elss_direct_growth",
       "scheme_name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-      "content_captured_at": "2026-10-09",
-      "scrape_run_id": "37920492543",
+      "content_captured_at": "2026-10-10",
+      "scrape_run_id": "38043823938",
       "nav": {
-        "display": "₹1,392.88",
-        "amount_inr": 1392.88,
-        "as_of_display": "08 Oct '26",
-        "as_of_iso": "08 Oct '26"
+        "display": "₹1,410.20",
+        "amount_inr": 1410.2,
+        "as_of_display": "09 Oct '26",
+        "as_of_iso": "09 Oct '26"
       },
       "minimum_sip": {
         "display": "₹500",
         "amount_inr": 500.0
       },
       "fund_size_aum": {
-        "display": "₹15,991.78 Cr",
-        "amount_cr": 15991.78
+        "display": "₹14,948.73 Cr",
+        "amount_cr": 14948.73
       },
       "expense_ratio": {
         "display": "1.21%",
@@ -159,10 +159,10 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "5d39c5a2fc68fe35b4b3b612a501b12e40a78ab8cb64db3ec96b5306e8f3f1b1"
+      "facts_hash": "d53a9e7229286cceff5e9eecd810acf923a94b5787a983cd3f6456e08c84518b"
     }
   },
-  "scrape_run_id": "37920492543",
-  "content_captured_at": "2026-10-09",
-  "updated_at": "2026-10-09T10:55:10.626173+00:00"
+  "scrape_run_id": "38043823938",
+  "content_captured_at": "2026-10-10",
+  "updated_at": "2026-10-10T10:08:07.486234+00:00"
 }
