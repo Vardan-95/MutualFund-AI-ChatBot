@@ -1,7 +1,7 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-10-11'
-content_hash: bcf4481fb48f5e1b50f8fe3911afef5dda58d652335d5f685699cf07df81e5da
+content_captured_at: '2026-10-12'
+content_hash: ad0439f206320da716c3bcea3daeda8f2526911a6c5087c7a899bd28f3f34d32
 document_type: groww_scheme_page
 expense_ratio_display: 0.75%
 facts_extraction_status: complete
@@ -14,7 +14,7 @@ rating_display: '5'
 scheme_category: equity
 scheme_id: hdfc_equity_direct_growth
 scheme_name: HDFC Equity Fund Direct Growth
-scrape_run_id: '38131517094'
+scrape_run_id: '38241953554'
 source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
 ---
 
@@ -198,10 +198,10 @@ from July 1st 2020
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
 |  | [Bank of India Flexi Cap Fund Direct GrowthBank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +8.24% | +18.64% | 2,952.99 |
-|  | [ITI Flexi Cap Fund Direct GrowthITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +9.81% | +18.47% | 1,588.12 |
+|  | [ITI Flexi Cap Fund Direct GrowthITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +9.81% | +18.47% | 1,588.27 |
 |  | [HSBC Flexi Cap Fund Direct GrowthHSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | +3.07% | +15.20% | 5,748.73 |
 |  | [HDFC Flexi Cap Direct Plan GrowthHDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | -3.52% | +14.68% | 1,08,546.97 |
-|  | [Franklin India Flexi Cap Fund Direct GrowthFranklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -7.29% | +9.63% | 19,384.81 |
+|  | [Franklin India Flexi Cap Fund Direct GrowthFranklin India Flexi Cap Fund Direct Growth](/mutual-funds/franklin-india-prima-plus-direct-growth) | -7.29% | +9.63% | 18,188.24 |
 | [Compare](/mutual-funds/compare/hdfc-equity-fund-direct-growth) | | | | |
 | --- | --- | --- | --- | --- |
 
