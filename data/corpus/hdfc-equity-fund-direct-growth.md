@@ -1,6 +1,6 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-10-18'
+content_captured_at: '2026-10-19'
 content_hash: 224a0b0298d4d17c67d906e6eabcae7b44abd5fa081a26fcc34910ec8d4fd8da
 document_type: groww_scheme_page
 expense_ratio_display: 0.75%
@@ -14,7 +14,7 @@ rating_display: '5'
 scheme_category: equity
 scheme_id: hdfc_equity_direct_growth
 scheme_name: HDFC Equity Fund Direct Growth
-scrape_run_id: '39111012784'
+scrape_run_id: '39229055874'
 source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
 ---
 
