@@ -5,8 +5,8 @@
       "scheme_id": "hdfc_large_cap_direct_growth",
       "scheme_name": "HDFC Large Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "content_captured_at": "2026-10-20",
-      "scrape_run_id": "39396553737",
+      "content_captured_at": "2026-10-21",
+      "scrape_run_id": "39572601587",
       "nav": {
         "display": "₹1,158.61",
         "amount_inr": 1158.61,
@@ -37,8 +37,8 @@
       "scheme_id": "hdfc_mid_cap_direct_growth",
       "scheme_name": "HDFC Mid Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "content_captured_at": "2026-10-20",
-      "scrape_run_id": "39396553737",
+      "content_captured_at": "2026-10-21",
+      "scrape_run_id": "39572601587",
       "nav": {
         "display": "₹219.78",
         "amount_inr": 219.78,
@@ -69,8 +69,8 @@
       "scheme_id": "hdfc_equity_direct_growth",
       "scheme_name": "HDFC Equity Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-      "content_captured_at": "2026-10-20",
-      "scrape_run_id": "39396553737",
+      "content_captured_at": "2026-10-21",
+      "scrape_run_id": "39572601587",
       "nav": {
         "display": "₹2,162.16",
         "amount_inr": 2162.16,
@@ -82,8 +82,8 @@
         "amount_inr": 100.0
       },
       "fund_size_aum": {
-        "display": "₹1,08,546.97 Cr",
-        "amount_cr": 108546.97
+        "display": "₹1,08,546.98 Cr",
+        "amount_cr": 108546.98
       },
       "expense_ratio": {
         "display": "0.75%",
@@ -95,14 +95,14 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "889c6882b558dae48125ea47a1fa1cd7196d0d2a3bcb675f003c12c84944f445"
+      "facts_hash": "5f0949455477ee46a4623371a52708e76216cc53bfcb6adb84aa63edebf7052f"
     },
     "hdfc_focused_direct_growth": {
       "scheme_id": "hdfc_focused_direct_growth",
       "scheme_name": "HDFC Focused Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-      "content_captured_at": "2026-10-20",
-      "scrape_run_id": "39396553737",
+      "content_captured_at": "2026-10-21",
+      "scrape_run_id": "39572601587",
       "nav": {
         "display": "₹258.57",
         "amount_inr": 258.57,
@@ -114,8 +114,8 @@
         "amount_inr": 100.0
       },
       "fund_size_aum": {
-        "display": "₹26,552.91 Cr",
-        "amount_cr": 26552.91
+        "display": "₹26,552.92 Cr",
+        "amount_cr": 26552.92
       },
       "expense_ratio": {
         "display": "0.83%",
@@ -127,14 +127,14 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "0f7a64229ad0587a84ffb75b541a3834f2d7524f8817f66602db19e001d60014"
+      "facts_hash": "206cad4e73a0154b04e6a5d1bc876ae5c40304e3970102e966bee0fae3cf386d"
     },
     "hdfc_elss_direct_growth": {
       "scheme_id": "hdfc_elss_direct_growth",
       "scheme_name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-      "content_captured_at": "2026-10-20",
-      "scrape_run_id": "39396553737",
+      "content_captured_at": "2026-10-21",
+      "scrape_run_id": "39572601587",
       "nav": {
         "display": "₹1,427.85",
         "amount_inr": 1427.85,
@@ -146,8 +146,8 @@
         "amount_inr": 500.0
       },
       "fund_size_aum": {
-        "display": "₹14,948.73 Cr",
-        "amount_cr": 14948.73
+        "display": "₹14,948.74 Cr",
+        "amount_cr": 14948.74
       },
       "expense_ratio": {
         "display": "1.20%",
@@ -159,10 +159,10 @@
       },
       "extraction_status": "complete",
       "missing_fields": [],
-      "facts_hash": "1f9272c2a7c9e6070ca0a8ba65cbc573126698a544da236e5ce2a42f85b8e551"
+      "facts_hash": "af7a0b07245bf2f40a694704e47f9c31d1ca40d347191cea590147b00b01ecda"
     }
   },
-  "scrape_run_id": "39396553737",
-  "content_captured_at": "2026-10-20",
-  "updated_at": "2026-10-20T08:52:55.085294+00:00"
+  "scrape_run_id": "39572601587",
+  "content_captured_at": "2026-10-21",
+  "updated_at": "2026-10-21T08:53:04.083352+00:00"
 }
