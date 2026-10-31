@@ -1,20 +1,20 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-10-30'
-content_hash: 4aa1d8780a17de6984df139a238beabd81a7dc74f5e82f8cc4e3fcbc6cec5a4c
+content_captured_at: '2026-10-31'
+content_hash: dad88bb4ee50cb099092cbcb26eb9f02c4ca5ac57f120000b6cefb0fd2b55b1a
 document_type: groww_scheme_page
 expense_ratio_display: 0.83%
 facts_extraction_status: complete
-facts_hash: 360dec3c30704e08446ea899592c63aed67ff144d90cb1d3477e41ae4d104a38
+facts_hash: 00518347174ceb8046c6b95e40014b820ee77db1df2d31dc556cf894326cb65a
 fund_size_aum_display: ₹26,552.92 Cr
 minimum_sip_display: ₹100
-nav_as_of: 29 Oct '26
-nav_display: ₹259.11
+nav_as_of: 30 Oct '26
+nav_display: ₹259.60
 rating_display: '5'
 scheme_category: focused
 scheme_id: hdfc_focused_direct_growth
 scheme_name: HDFC Focused Fund Direct Growth
-scrape_run_id: '41040929890'
+scrape_run_id: '41190769045'
 source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 ---
 
@@ -22,7 +22,7 @@ source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 
 | Metric | Value |
 |--------|-------|
-| NAV (as of 29 Oct '26) | ₹259.11 |
+| NAV (as of 30 Oct '26) | ₹259.60 |
 | Minimum SIP | ₹100 |
 | Fund size (AUM) | ₹26,552.92 Cr |
 | Expense ratio | 0.83% |
@@ -112,8 +112,8 @@ Annualised returnsAbsolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +15.4% | +15.8% | +14.3% | +14.4% |
-| Category average (Equity Flexi Cap) | +11.4% | +9.4% | +12.9% | +14.3% |
-| Rank (Equity Flexi Cap) | 4 | 1 | 3 | -- |
+| Category average (Equity Flexi Cap) | +12.7% | +10.3% | +13.3% | +14.5% |
+| Rank (Equity Flexi Cap) | 4 | 1 | 4 | -- |
 
 ## Understand terms
 
