@@ -1,7 +1,7 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-10-31'
-content_hash: 10249e9ba75c3c31d53bc7d83a1f8b912c29c63692bba5a75d6d5f2f1614c10f
+content_captured_at: '2026-11-01'
+content_hash: e750d68b7bdc0fbf761cd9067336683516c59da20726d06c50d1c9c1d314e2e8
 document_type: groww_scheme_page
 expense_ratio_display: 1.20%
 facts_extraction_status: complete
@@ -14,7 +14,7 @@ rating_display: '5'
 scheme_category: elss
 scheme_id: hdfc_elss_direct_growth
 scheme_name: HDFC ELSS Tax Saver Fund Direct Plan Growth
-scrape_run_id: '41190769045'
+scrape_run_id: '41299059259'
 source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
 ---
 
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹57,832 |  | -3.61% |
-| 3 years | ₹1,80,000 | ₹1,84,126 |  | +2.29% |
-| 5 years | ₹3,00,000 | ₹3,85,588 |  | +28.53% |
-| 10 years | ₹6,00,000 | ₹12,02,084 |  | +100.35% |
+| 1 year | ₹60,000 | ₹57,934 |  | -3.44% |
+| 3 years | ₹1,80,000 | ₹1,84,446 |  | +2.47% |
+| 5 years | ₹3,00,000 | ₹3,86,240 |  | +28.75% |
+| 10 years | ₹6,00,000 | ₹12,03,988 |  | +100.66% |
 
 ## Holdings (64)
 
@@ -142,9 +142,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +12.7% | +12.9% | +12.6% | +13.6% |
-| Category average (Equity ELSS) | +11.2% | +9.7% | +12.8% | +16.8% |
-| Rank (Equity ELSS) | 11 | 4 | 17 | -- |
+| Fund returns | +12.8% | +12.9% | +12.6% | +13.6% |
+| Category average (Equity ELSS) | +11.0% | +9.6% | +12.8% | +16.8% |
+| Rank (Equity ELSS) | 11 | 4 | 16 | -- |
 
 ## Understand terms
 
