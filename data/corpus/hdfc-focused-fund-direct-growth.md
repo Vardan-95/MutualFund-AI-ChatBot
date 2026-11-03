@@ -1,20 +1,20 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-11-02'
-content_hash: b1579a5109937311a6404a0d32a72ecbf22c792b8bf41368177b48baffa762bf
+content_captured_at: '2026-11-03'
+content_hash: e444ead63740d2b90102b8cac81cb560f80c6b5f5d7f099aff0e89858d806305
 document_type: groww_scheme_page
 expense_ratio_display: 0.83%
 facts_extraction_status: complete
-facts_hash: 00518347174ceb8046c6b95e40014b820ee77db1df2d31dc556cf894326cb65a
+facts_hash: 58225bc6cf8c5b44271441ba33bb094820d7b1756c45b25818a86013719fd0ea
 fund_size_aum_display: ₹26,552.92 Cr
 minimum_sip_display: ₹100
-nav_as_of: 30 Oct '26
-nav_display: ₹259.60
+nav_as_of: 02 Nov '26
+nav_display: ₹260.84
 rating_display: '5'
 scheme_category: focused
 scheme_id: hdfc_focused_direct_growth
 scheme_name: HDFC Focused Fund Direct Growth
-scrape_run_id: '41438738497'
+scrape_run_id: '41626750463'
 source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 ---
 
@@ -22,7 +22,7 @@ source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 
 | Metric | Value |
 |--------|-------|
-| NAV (as of 30 Oct '26) | ₹259.60 |
+| NAV (as of 02 Nov '26) | ₹260.84 |
 | Minimum SIP | ₹100 |
 | Fund size (AUM) | ₹26,552.92 Cr |
 | Expense ratio | 0.83% |
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹59,340 |  | -1.10% |
-| 3 years | ₹1,80,000 | ₹1,94,799 |  | +8.22% |
-| 5 years | ₹3,00,000 | ₹4,15,239 |  | +38.41% |
-| 10 years | ₹6,00,000 | ₹13,82,271 |  | +130.38% |
+| 1 year | ₹60,000 | ₹59,716 |  | -0.47% |
+| 3 years | ₹1,80,000 | ₹1,93,750 |  | +7.64% |
+| 5 years | ₹3,00,000 | ₹4,15,737 |  | +38.58% |
+| 10 years | ₹6,00,000 | ₹13,90,361 |  | +131.73% |
 
 ## Holdings (33)
 
@@ -111,9 +111,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +15.4% | +15.9% | +14.3% | +14.4% |
+| Fund returns | +15.5% | +15.9% | +14.6% | +14.4% |
 | Category average (Equity Focused) | +12.5% | +10.2% | +13.3% | +14.5% |
-| Rank (Equity Focused) | 4 | 1 | 4 | -- |
+| Rank (Equity Focused) | 4 | 1 | 3 | -- |
 
 ## Understand terms
 
@@ -143,11 +143,11 @@ from July 1st 2020
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | [Invesco India Focused Fund Direct GrowthInvesco India Focused Fund Direct Growth](/mutual-funds/invesco-india-focused-fund-direct-growth) | +4.57% | +21.31% | 6,228.51 |
-|  | [ICICI Prudential Focused Fund Direct GrowthICICI Prudential Focused Fund Direct Growth](/mutual-funds/icici-prudential-focused-fund-direct-growth) | -4.16% | +16.60% | 17,167.65 |
-|  | [ITI Focused Fund Direct GrowthITI Focused Fund Direct Growth](/mutual-funds/iti-focused-fund-direct-growth) | -0.20% | +15.80% | 607.36 |
-|  | [HDFC Focused Fund Direct GrowthHDFC Focused Fund Direct Growth](/mutual-funds/hdfc-focused-fund-direct-growth) | -4.25% | +15.41% | 26,552.92 |
-|  | [SBI Focused Fund Direct Plan GrowthSBI Focused Fund Direct Plan Growth](/mutual-funds/sbi-focused-fund-direct-plan-growth) | +4.54% | +14.91% | 50,180.32 |
+|  | [Invesco India Focused Fund Direct GrowthInvesco India Focused Fund Direct Growth](/mutual-funds/invesco-india-focused-fund-direct-growth) | +6.28% | +21.51% | 6,228.51 |
+|  | [ICICI Prudential Focused Fund Direct GrowthICICI Prudential Focused Fund Direct Growth](/mutual-funds/icici-prudential-focused-fund-direct-growth) | -3.29% | +16.58% | 17,167.65 |
+|  | [ITI Focused Fund Direct GrowthITI Focused Fund Direct Growth](/mutual-funds/iti-focused-fund-direct-growth) | +0.89% | +15.88% | 607.36 |
+|  | [HDFC Focused Fund Direct GrowthHDFC Focused Fund Direct Growth](/mutual-funds/hdfc-focused-fund-direct-growth) | -3.78% | +15.51% | 26,552.92 |
+|  | [SBI Focused Fund Direct Plan GrowthSBI Focused Fund Direct Plan Growth](/mutual-funds/sbi-focused-fund-direct-plan-growth) | +4.54% | +14.90% | 50,180.32 |
 | [Compare](/mutual-funds/compare/hdfc-focused-fund-direct-growth) | | | | |
 | --- | --- | --- | --- | --- |
 
