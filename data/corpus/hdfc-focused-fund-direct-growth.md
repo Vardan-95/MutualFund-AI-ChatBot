@@ -1,20 +1,20 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-11-05'
-content_hash: 2d50e5bdf7b281afdb60349407169e3c1936296091f57c0dc40bcd23bfa08cfc
+content_captured_at: '2026-11-06'
+content_hash: c9e1da90a2047517df3d677660c0810d92c2890defa7792f4475917be6caf983
 document_type: groww_scheme_page
-expense_ratio_display: 0.83%
+expense_ratio_display: 0.84%
 facts_extraction_status: complete
-facts_hash: 3a4ef688c96825df108210b87555b0b918060964f3f44e4c03e27522ba8760d3
+facts_hash: e2f021bbae9cda5fcd630816dbe2cbcb54a33de02f0ef2401351fa3af7f49c27
 fund_size_aum_display: ₹26,552.92 Cr
 minimum_sip_display: ₹100
-nav_as_of: 04 Nov '26
-nav_display: ₹267.11
+nav_as_of: 05 Nov '26
+nav_display: ₹273.52
 rating_display: '5'
 scheme_category: focused
 scheme_id: hdfc_focused_direct_growth
 scheme_name: HDFC Focused Fund Direct Growth
-scrape_run_id: '42019504285'
+scrape_run_id: '42210783708'
 source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 ---
 
@@ -22,10 +22,10 @@ source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 
 | Metric | Value |
 |--------|-------|
-| NAV (as of 04 Nov '26) | ₹267.11 |
+| NAV (as of 05 Nov '26) | ₹273.52 |
 | Minimum SIP | ₹100 |
 | Fund size (AUM) | ₹26,552.92 Cr |
-| Expense ratio | 0.83% |
+| Expense ratio | 0.84% |
 | Rating | 5 |
 
 HDFC Focused Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
@@ -112,8 +112,8 @@ Annualised returnsAbsolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +16.1% | +16.4% | +15.1% | +14.6% |
-| Category average (Equity Focused) | +12.8% | +10.1% | +13.6% | +14.6% |
-| Rank (Equity Focused) | 3 | 1 | 3 | -- |
+| Category average (Equity Focused) | +13.4% | +10.6% | +14.1% | +14.7% |
+| Rank (Equity Focused) | 3 | 1 | 4 | -- |
 
 ## Understand terms
 
@@ -146,8 +146,8 @@ from July 1st 2020
 |  | [Invesco India Focused Fund Direct GrowthInvesco India Focused Fund Direct Growth](/mutual-funds/invesco-india-focused-fund-direct-growth) | +8.90% | +22.22% | 6,228.51 |
 |  | [ICICI Prudential Focused Fund Direct GrowthICICI Prudential Focused Fund Direct Growth](/mutual-funds/icici-prudential-focused-fund-direct-growth) | -0.86% | +17.37% | 17,167.65 |
 |  | [HDFC Focused Fund Direct GrowthHDFC Focused Fund Direct Growth](/mutual-funds/hdfc-focused-fund-direct-growth) | -1.34% | +16.10% | 26,552.92 |
+|  | [SBI Focused Fund Direct Plan GrowthSBI Focused Fund Direct Plan Growth](/mutual-funds/sbi-focused-fund-direct-plan-growth) | +8.19% | +15.77% | 50,180.32 |
 |  | [ITI Focused Fund Direct GrowthITI Focused Fund Direct Growth](/mutual-funds/iti-focused-fund-direct-growth) | +0.96% | +15.67% | 607.36 |
-|  | [SBI Focused Fund Direct Plan GrowthSBI Focused Fund Direct Plan Growth](/mutual-funds/sbi-focused-fund-direct-plan-growth) | +6.20% | +15.29% | 50,180.32 |
 | [Compare](/mutual-funds/compare/hdfc-focused-fund-direct-growth) | | | | |
 | --- | --- | --- | --- | --- |
 
