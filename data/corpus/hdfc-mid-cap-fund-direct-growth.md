@@ -1,7 +1,7 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-11-07'
-content_hash: 841dcf29ae35b8503b7dbd2b55d9533852c56ae59f2e4dffe3d6eac5c3b8d2c9
+content_captured_at: '2026-11-08'
+content_hash: e8454399a6eb60e028162ff9aa78d79d0ec09e68d1f0974e263cdf15fc7465bd
 document_type: groww_scheme_page
 expense_ratio_display: 0.74%
 facts_extraction_status: complete
@@ -14,7 +14,7 @@ rating_display: '4'
 scheme_category: mid_cap
 scheme_id: hdfc_mid_cap_direct_growth
 scheme_name: HDFC Mid Cap Fund Direct Growth
-scrape_run_id: '42364984545'
+scrape_run_id: '42472807650'
 source_url: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
 ---
 
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹61,098 |  | +1.83% |
-| 3 years | ₹1,80,000 | ₹2,01,459 |  | +11.92% |
-| 5 years | ₹3,00,000 | ₹4,48,760 |  | +49.59% |
-| 10 years | ₹6,00,000 | ₹16,05,015 |  | +167.50% |
+| 1 year | ₹60,000 | ₹61,065 |  | +1.77% |
+| 3 years | ₹1,80,000 | ₹2,01,317 |  | +11.84% |
+| 5 years | ₹3,00,000 | ₹4,48,440 |  | +49.48% |
+| 10 years | ₹6,00,000 | ₹16,03,306 |  | +167.22% |
 
 ## Holdings (81)
 
@@ -159,9 +159,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +16.6% | +17.9% | +17.3% | +19.7% |
-| Category average (Equity Mid Cap) | +15.9% | +14.4% | +16.4% | +18.3% |
-| Rank (Equity Mid Cap) | 16 | 4 | 7 | -- |
+| Fund returns | +16.4% | +17.8% | +17.3% | +19.7% |
+| Category average (Equity Mid Cap) | +15.5% | +14.4% | +16.4% | +18.3% |
+| Rank (Equity Mid Cap) | 16 | 3 | 7 | -- |
 
 ## Understand terms
 
@@ -192,11 +192,11 @@ from July 1st 2020
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | [Invesco India Mid Cap Fund Direct GrowthInvesco India Mid Cap Fund Direct Growth](/mutual-funds/invesco-india-mid-cap-fund-direct-growth) | +6.93% | +23.72% | 15,831.89 |
-|  | [HSBC Midcap Fund Direct GrowthHSBC Midcap Fund Direct Growth](/mutual-funds/hsbc-midcap-fund-direct-growth) | +15.34% | +22.39% | 16,799.59 |
-|  | [WhiteOak Capital Mid Cap Fund Direct GrowthWhiteOak Capital Mid Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-mid-cap-fund-direct-growth) | +7.88% | +21.31% | 8,399.71 |
-|  | [Edelweiss Mid Cap Direct Plan GrowthEdelweiss Mid Cap Direct Plan Growth](/mutual-funds/edelweiss-mid-and-small-cap-fund-direct-growth) | +3.13% | +20.17% | 19,230.16 |
-|  | [Nippon India Growth Mid Cap Fund Direct GrowthNippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth) | +3.69% | +17.60% | 50,176.01 |
+|  | [Invesco India Mid Cap Fund Direct GrowthInvesco India Mid Cap Fund Direct Growth](/mutual-funds/invesco-india-mid-cap-fund-direct-growth) | +8.03% | +23.50% | 15,831.89 |
+|  | [HSBC Midcap Fund Direct GrowthHSBC Midcap Fund Direct Growth](/mutual-funds/hsbc-midcap-fund-direct-growth) | +15.85% | +21.85% | 16,799.59 |
+|  | [WhiteOak Capital Mid Cap Fund Direct GrowthWhiteOak Capital Mid Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-mid-cap-fund-direct-growth) | +8.62% | +20.89% | 8,399.71 |
+|  | [Edelweiss Mid Cap Direct Plan GrowthEdelweiss Mid Cap Direct Plan Growth](/mutual-funds/edelweiss-mid-and-small-cap-fund-direct-growth) | +4.10% | +19.73% | 19,230.16 |
+|  | [Nippon India Growth Mid Cap Fund Direct GrowthNippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth) | +4.57% | +17.26% | 50,176.01 |
 | [Compare](/mutual-funds/compare/hdfc-mid-cap-fund-direct-growth) | | | | |
 | --- | --- | --- | --- | --- |
 
