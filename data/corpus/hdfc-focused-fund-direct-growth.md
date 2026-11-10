@@ -1,20 +1,20 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-11-09'
-content_hash: 7572e247f8d06b40b5dd46734c50812df875e1315f67131a73ae37cb6731b211
+content_captured_at: '2026-11-10'
+content_hash: 06ac5a2101d6e6f7937fe5681558389077ec1f83b97572ff22e2359be5bd3dde
 document_type: groww_scheme_page
-expense_ratio_display: 0.84%
+expense_ratio_display: 0.83%
 facts_extraction_status: complete
-facts_hash: 03b0edc47989e98790d79078d6673349f7cdbecb7ce2cb33625bd02ac9479f85
+facts_hash: 2c396c24bf5f1db181dc69030b0c6cafe004b2d35f5d53ce5b643e643dc09d1e
 fund_size_aum_display: ₹26,552.92 Cr
 minimum_sip_display: ₹100
-nav_as_of: 06 Nov '26
-nav_display: ₹277.68
+nav_as_of: 09 Nov '26
+nav_display: ₹278.94
 rating_display: '5'
 scheme_category: focused
 scheme_id: hdfc_focused_direct_growth
 scheme_name: HDFC Focused Fund Direct Growth
-scrape_run_id: '42614505173'
+scrape_run_id: '42810313600'
 source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 ---
 
@@ -22,10 +22,10 @@ source_url: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 
 | Metric | Value |
 |--------|-------|
-| NAV (as of 06 Nov '26) | ₹277.68 |
+| NAV (as of 09 Nov '26) | ₹278.94 |
 | Minimum SIP | ₹100 |
 | Fund size (AUM) | ₹26,552.92 Cr |
-| Expense ratio | 0.84% |
+| Expense ratio | 0.83% |
 | Rating | 5 |
 
 HDFC Focused Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹63,465 |  | +5.78% |
-| 3 years | ₹1,80,000 | ₹2,06,020 |  | +14.46% |
-| 5 years | ₹3,00,000 | ₹4,41,866 |  | +47.29% |
-| 10 years | ₹6,00,000 | ₹14,77,145 |  | +146.19% |
+| 1 year | ₹60,000 | ₹63,680 |  | +6.13% |
+| 3 years | ₹1,80,000 | ₹2,06,796 |  | +14.89% |
+| 5 years | ₹3,00,000 | ₹4,43,343 |  | +47.78% |
+| 10 years | ₹6,00,000 | ₹14,81,865 |  | +146.98% |
 
 ## Holdings (33)
 
@@ -111,9 +111,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.4% | +17.3% | +15.5% | +14.9% |
+| Fund returns | +17.2% | +17.0% | +15.6% | +15.0% |
 | Category average (Equity Focused) | +14.2% | +11.3% | +14.4% | +15.0% |
-| Rank (Equity Focused) | 3 | 1 | 4 | -- |
+| Rank (Equity Focused) | 3 | 1 | 3 | -- |
 
 ## Understand terms
 
@@ -143,11 +143,11 @@ from July 1st 2020
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | [Invesco India Focused Fund Direct GrowthInvesco India Focused Fund Direct Growth](/mutual-funds/invesco-india-focused-fund-direct-growth) | +13.65% | +22.98% | 6,486.50 |
-|  | [ICICI Prudential Focused Fund Direct GrowthICICI Prudential Focused Fund Direct Growth](/mutual-funds/icici-prudential-focused-fund-direct-growth) | +4.12% | +18.82% | 17,167.65 |
-|  | [HDFC Focused Fund Direct GrowthHDFC Focused Fund Direct Growth](/mutual-funds/hdfc-focused-fund-direct-growth) | +3.27% | +17.39% | 26,552.92 |
+|  | [Invesco India Focused Fund Direct GrowthInvesco India Focused Fund Direct Growth](/mutual-funds/invesco-india-focused-fund-direct-growth) | +14.57% | +22.58% | 6,486.50 |
+|  | [ICICI Prudential Focused Fund Direct GrowthICICI Prudential Focused Fund Direct Growth](/mutual-funds/icici-prudential-focused-fund-direct-growth) | +3.50% | +18.66% | 17,167.65 |
+|  | [HDFC Focused Fund Direct GrowthHDFC Focused Fund Direct Growth](/mutual-funds/hdfc-focused-fund-direct-growth) | +3.80% | +17.21% | 26,552.92 |
 |  | [SBI Focused Fund Direct Plan GrowthSBI Focused Fund Direct Plan Growth](/mutual-funds/sbi-focused-fund-direct-plan-growth) | +11.94% | +16.66% | 50,180.32 |
-|  | [ITI Focused Fund Direct GrowthITI Focused Fund Direct Growth](/mutual-funds/iti-focused-fund-direct-growth) | +3.20% | +15.97% | 607.36 |
+|  | [ITI Focused Fund Direct GrowthITI Focused Fund Direct Growth](/mutual-funds/iti-focused-fund-direct-growth) | +4.54% | +16.15% | 607.36 |
 | [Compare](/mutual-funds/compare/hdfc-focused-fund-direct-growth) | | | | |
 | --- | --- | --- | --- | --- |
 
