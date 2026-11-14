@@ -1,20 +1,20 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-11-13'
-content_hash: b202d44f65a50123a83c0ee063a5b4f965c95b01927e3b89ad0f32dd794c738d
+content_captured_at: '2026-11-14'
+content_hash: 848ef512832c8f29c22b489edbcea133da409c64010f9c9f8f8bbd5225fa9b60
 document_type: groww_scheme_page
-expense_ratio_display: 0.74%
+expense_ratio_display: 0.73%
 facts_extraction_status: complete
-facts_hash: 3224b7f1a1549177b12c7754cc63acc8fd28a1cb0d6704edb6d09a0ba6512dd3
+facts_hash: 0f459c9d13d94bc199855b8aa8473b5362839449f6fd31d59d7924018a2ee6c7
 fund_size_aum_display: ₹1,00,687.07 Cr
 minimum_sip_display: ₹100
-nav_as_of: 12 Nov '26
-nav_display: ₹230.66
+nav_as_of: 13 Nov '26
+nav_display: ₹229.70
 rating_display: '4'
 scheme_category: mid_cap
 scheme_id: hdfc_mid_cap_direct_growth
 scheme_name: HDFC Mid Cap Fund Direct Growth
-scrape_run_id: '43418237869'
+scrape_run_id: '43587640507'
 source_url: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
 ---
 
@@ -22,10 +22,10 @@ source_url: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
 
 | Metric | Value |
 |--------|-------|
-| NAV (as of 12 Nov '26) | ₹230.66 |
+| NAV (as of 13 Nov '26) | ₹229.70 |
 | Minimum SIP | ₹100 |
 | Fund size (AUM) | ₹1,00,687.07 Cr |
-| Expense ratio | 0.74% |
+| Expense ratio | 0.73% |
 | Rating | 4 |
 
 HDFC Mid Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
@@ -160,7 +160,7 @@ Annualised returnsAbsolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +16.4% | +17.6% | +17.6% | +19.8% |
-| Category average (Equity Mid Cap) | +15.3% | +13.9% | +16.5% | +18.3% |
+| Category average (Equity Mid Cap) | +15.8% | +14.4% | +16.9% | +18.5% |
 | Rank (Equity Mid Cap) | 17 | 4 | 8 | -- |
 
 ## Understand terms
