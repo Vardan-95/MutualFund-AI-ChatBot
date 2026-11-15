@@ -1,7 +1,7 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-11-14'
-content_hash: 358c5916778cbb1f23fc4499eaa53df92ea0e51e31ceef6442c9649089b98b7d
+content_captured_at: '2026-11-15'
+content_hash: 27c71e39906b063bc54997c38a9482cb16dbd183654f9dc57747fcd38b2eaac1
 document_type: groww_scheme_page
 expense_ratio_display: 0.74%
 facts_extraction_status: complete
@@ -14,7 +14,7 @@ rating_display: '5'
 scheme_category: equity
 scheme_id: hdfc_equity_direct_growth
 scheme_name: HDFC Equity Fund Direct Growth
-scrape_run_id: '43587640507'
+scrape_run_id: '43709209948'
 source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
 ---
 
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹64,347 |  | +7.25% |
-| 3 years | ₹1,80,000 | ₹2,09,834 |  | +16.57% |
-| 5 years | ₹3,00,000 | ₹4,47,480 |  | +49.16% |
-| 10 years | ₹6,00,000 | ₹15,16,950 |  | +152.83% |
+| 1 year | ₹60,000 | ₹64,060 |  | +6.77% |
+| 3 years | ₹1,80,000 | ₹2,08,876 |  | +16.04% |
+| 5 years | ₹3,00,000 | ₹4,45,354 |  | +48.45% |
+| 10 years | ₹6,00,000 | ₹15,09,705 |  | +151.62% |
 
 ## Holdings (90)
 
@@ -168,9 +168,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.8% | +16.8% | +16.6% | +16.2% |
-| Category average (Equity Flexi Cap) | +13.6% | +10.9% | +14.4% | +14.4% |
-| Rank (Equity Flexi Cap) | 9 | 2 | 3 | -- |
+| Fund returns | +17.7% | +16.7% | +16.5% | +16.1% |
+| Category average (Equity Flexi Cap) | +13.3% | +10.8% | +14.3% | +14.3% |
+| Rank (Equity Flexi Cap) | 8 | 2 | 3 | -- |
 
 ## Understand terms
 
@@ -201,11 +201,11 @@ from July 1st 2020
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | [ITI Flexi Cap Fund Direct GrowthITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +16.46% | +20.37% | 1,620.64 |
-|  | [Bank of India Flexi Cap Fund Direct GrowthBank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +11.23% | +19.35% | 3,137.40 |
-|  | [360 ONE Flexicap Fund Direct Growth360 ONE Flexicap Fund Direct Growth](/mutual-funds/360-one-flexicap-fund-direct-growth) | +10.70% | +18.75% | 2,200.58 |
-|  | [HDFC Flexi Cap Direct Plan GrowthHDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +4.97% | +17.84% | 1,10,441.27 |
-|  | [HSBC Flexi Cap Fund Direct GrowthHSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | +8.01% | +17.10% | 5,610.75 |
+|  | [ITI Flexi Cap Fund Direct GrowthITI Flexi Cap Fund Direct Growth](/mutual-funds/iti-flexi-cap-fund-direct-growth) | +15.91% | +19.80% | 1,620.64 |
+|  | [Bank of India Flexi Cap Fund Direct GrowthBank of India Flexi Cap Fund Direct Growth](/mutual-funds/bank-of-india-flexi-cap-fund-direct-growth) | +11.34% | +18.68% | 3,137.40 |
+|  | [360 ONE Flexicap Fund Direct Growth360 ONE Flexicap Fund Direct Growth](/mutual-funds/360-one-flexicap-fund-direct-growth) | +10.50% | +18.59% | 2,200.58 |
+|  | [HDFC Flexi Cap Direct Plan GrowthHDFC Flexi Cap Direct Plan Growth](/mutual-funds/hdfc-equity-fund-direct-growth) | +4.38% | +17.70% | 1,10,441.27 |
+|  | [HSBC Flexi Cap Fund Direct GrowthHSBC Flexi Cap Fund Direct Growth](/mutual-funds/hsbc-india-opportunities-fund-direct-growth) | +8.19% | +16.83% | 5,610.75 |
 | [Compare](/mutual-funds/compare/hdfc-equity-fund-direct-growth) | | | | |
 | --- | --- | --- | --- | --- |
 
