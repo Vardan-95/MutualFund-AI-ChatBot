@@ -1,20 +1,20 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-11-18'
-content_hash: fbf73d990b207571d58c7aabf7a843c19416c8fc7f0a9ecd3b5fa5b80341debb
+content_captured_at: '2026-11-19'
+content_hash: 4e39b2db9772c67477ea5890f73e75b54ea1878fcd4794cccbfa01f97bc7768c
 document_type: groww_scheme_page
 expense_ratio_display: 0.99%
 facts_extraction_status: complete
-facts_hash: 59a69ad11863e0fb7e281e8d50cf592a6a5445e3f67f35ae78255717951b1e49
+facts_hash: 344c6ef295ed42bbb3236cda12a80d867480d807721c6f8b224699b98bb122f3
 fund_size_aum_display: ₹37,466.30 Cr
 minimum_sip_display: ₹100
-nav_as_of: 17 Nov '26
-nav_display: ₹1,278.83
+nav_as_of: 18 Nov '26
+nav_display: ₹1,267.49
 rating_display: '4'
 scheme_category: large_cap
 scheme_id: hdfc_large_cap_direct_growth
 scheme_name: HDFC Large Cap Fund Direct Growth
-scrape_run_id: '44302203621'
+scrape_run_id: '44521313197'
 source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 ---
 
@@ -22,7 +22,7 @@ source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 
 | Metric | Value |
 |--------|-------|
-| NAV (as of 17 Nov '26) | ₹1,278.83 |
+| NAV (as of 18 Nov '26) | ₹1,267.49 |
 | Minimum SIP | ₹100 |
 | Fund size (AUM) | ₹37,466.30 Cr |
 | Expense ratio | 0.99% |
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹63,021 |  | +5.04% |
-| 3 years | ₹1,80,000 | ₹1,94,274 |  | +7.93% |
-| 5 years | ₹3,00,000 | ₹3,87,921 |  | +29.31% |
-| 10 years | ₹6,00,000 | ₹11,77,000 |  | +96.17% |
+| 1 year | ₹60,000 | ₹62,498 |  | +4.16% |
+| 3 years | ₹1,80,000 | ₹1,92,594 |  | +7.00% |
+| 5 years | ₹3,00,000 | ₹3,84,473 |  | +28.16% |
+| 10 years | ₹6,00,000 | ₹11,65,892 |  | +94.32% |
 
 ## Holdings (48)
 
@@ -126,7 +126,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +10.6% | +11.4% | +13.4% | +13.2% |
+| Fund returns | +10.2% | +11.4% | +13.3% | +13.1% |
 | Category average (Equity Large Cap) | +12.5% | +9.6% | +13.3% | +13.1% |
 | Rank (Equity Large Cap) | 50 | 8 | 17 | -- |
 
@@ -158,11 +158,11 @@ from July 1st 2020
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | [Invesco India Large Cap Fund Direct GrowthInvesco India Large Cap Fund Direct Growth](/mutual-funds/invesco-india-large-cap-fund-direct-growth) | +6.67% | +15.98% | 1,994.91 |
-|  | [Bandhan Large Cap Fund Direct GrowthBandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | +4.18% | +15.05% | 2,134.77 |
-|  | [Nippon India Large Cap Fund Direct GrowthNippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -0.23% | +13.05% | 52,108.86 |
-|  | [DSP Large Cap Fund Direct GrowthDSP Large Cap Fund Direct Growth](/mutual-funds/dsp-large-cap-fund-direct-growth) | -0.16% | +13.01% | 6,792.75 |
-|  | [HDFC Large Cap Fund Direct GrowthHDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth) | +0.39% | +10.57% | 37,466.30 |
+|  | [Invesco India Large Cap Fund Direct GrowthInvesco India Large Cap Fund Direct Growth](/mutual-funds/invesco-india-large-cap-fund-direct-growth) | +6.19% | +15.53% | 1,994.91 |
+|  | [Bandhan Large Cap Fund Direct GrowthBandhan Large Cap Fund Direct Growth](/mutual-funds/idfc-equity-fund-direct-growth) | +4.25% | +14.83% | 2,134.77 |
+|  | [DSP Large Cap Fund Direct GrowthDSP Large Cap Fund Direct Growth](/mutual-funds/dsp-large-cap-fund-direct-growth) | -0.03% | +12.82% | 6,792.75 |
+|  | [Nippon India Large Cap Fund Direct GrowthNippon India Large Cap Fund Direct Growth](/mutual-funds/nippon-india-large-cap-fund-direct-growth) | -0.39% | +12.80% | 52,108.86 |
+|  | [HDFC Large Cap Fund Direct GrowthHDFC Large Cap Fund Direct Growth](/mutual-funds/hdfc-large-cap-fund-direct-growth) | -0.22% | +10.23% | 37,466.30 |
 | [Compare](/mutual-funds/compare/hdfc-large-cap-fund-direct-growth) | | | | |
 | --- | --- | --- | --- | --- |
 
