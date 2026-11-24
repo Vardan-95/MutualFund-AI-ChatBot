@@ -1,20 +1,20 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-11-23'
-content_hash: 43bf15d7881a2080028aa3d054141a4af768cbfab0b49b3fb6faf8e13d8e6946
+content_captured_at: '2026-11-24'
+content_hash: bd04b11b02e7f426e243df3f8f471662935f18d4ca4ff43b98eced4793ecf2b0
 document_type: groww_scheme_page
 expense_ratio_display: 0.73%
 facts_extraction_status: complete
-facts_hash: edec9f6b793ca230801ce7af5217b6c533a47faf0db91b2b3e44ea41b7f516c1
+facts_hash: 5ebd7d0e011f4107768525306c45682b39f5e654c6db2217c812f3fc411f8c0e
 fund_size_aum_display: ₹1,00,687.07 Cr
 minimum_sip_display: ₹100
-nav_as_of: 20 Nov '26
-nav_display: ₹232.52
+nav_as_of: 23 Nov '26
+nav_display: ₹231.35
 rating_display: '4'
 scheme_category: mid_cap
 scheme_id: hdfc_mid_cap_direct_growth
 scheme_name: HDFC Mid Cap Fund Direct Growth
-scrape_run_id: '45186237548'
+scrape_run_id: '45412381268'
 source_url: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
 ---
 
@@ -22,7 +22,7 @@ source_url: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
 
 | Metric | Value |
 |--------|-------|
-| NAV (as of 20 Nov '26) | ₹232.52 |
+| NAV (as of 23 Nov '26) | ₹231.35 |
 | Minimum SIP | ₹100 |
 | Fund size (AUM) | ₹1,00,687.07 Cr |
 | Expense ratio | 0.73% |
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹62,554 |  | +4.26% |
-| 3 years | ₹1,80,000 | ₹2,06,307 |  | +14.62% |
-| 5 years | ₹3,00,000 | ₹4,58,356 |  | +52.79% |
-| 10 years | ₹6,00,000 | ₹16,37,845 |  | +172.97% |
+| 1 year | ₹60,000 | ₹62,234 |  | +3.72% |
+| 3 years | ₹1,80,000 | ₹2,05,188 |  | +13.99% |
+| 5 years | ₹3,00,000 | ₹4,55,534 |  | +51.84% |
+| 10 years | ₹6,00,000 | ₹16,27,404 |  | +171.23% |
 
 ## Holdings (81)
 
@@ -159,9 +159,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +15.9% | +18.5% | +18.0% | +19.9% |
+| Fund returns | +15.7% | +18.6% | +18.1% | +19.8% |
 | Category average (Equity Mid Cap) | +14.9% | +14.8% | +17.4% | +18.4% |
-| Rank (Equity Mid Cap) | 15 | 3 | 8 | -- |
+| Rank (Equity Mid Cap) | 13 | 4 | 6 | -- |
 
 ## Understand terms
 
@@ -192,11 +192,11 @@ from July 1st 2020
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | [Invesco India Mid Cap Fund Direct GrowthInvesco India Mid Cap Fund Direct Growth](/mutual-funds/invesco-india-mid-cap-fund-direct-growth) | +11.85% | +23.93% | 15,831.37 |
-|  | [HSBC Midcap Fund Direct GrowthHSBC Midcap Fund Direct Growth](/mutual-funds/hsbc-midcap-fund-direct-growth) | +15.40% | +21.50% | 16,771.54 |
-|  | [WhiteOak Capital Mid Cap Fund Direct GrowthWhiteOak Capital Mid Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-mid-cap-fund-direct-growth) | +8.94% | +20.10% | 7,785.51 |
+|  | [Invesco India Mid Cap Fund Direct GrowthInvesco India Mid Cap Fund Direct Growth](/mutual-funds/invesco-india-mid-cap-fund-direct-growth) | +12.34% | +23.56% | 15,831.37 |
+|  | [HSBC Midcap Fund Direct GrowthHSBC Midcap Fund Direct Growth](/mutual-funds/hsbc-midcap-fund-direct-growth) | +16.06% | +21.08% | 16,771.54 |
+|  | [WhiteOak Capital Mid Cap Fund Direct GrowthWhiteOak Capital Mid Cap Fund Direct Growth](/mutual-funds/whiteoak-capital-mid-cap-fund-direct-growth) | +10.00% | +19.86% | 7,785.51 |
 |  | [Edelweiss Mid Cap Direct Plan GrowthEdelweiss Mid Cap Direct Plan Growth](/mutual-funds/edelweiss-mid-and-small-cap-fund-direct-growth) | +4.37% | +18.69% | 18,724.52 |
-|  | [Nippon India Growth Mid Cap Fund Direct GrowthNippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth) | +5.19% | +16.47% | 48,905.07 |
+|  | [Nippon India Growth Mid Cap Fund Direct GrowthNippon India Growth Mid Cap Fund Direct Growth](/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth) | +5.00% | +15.97% | 48,905.07 |
 | [Compare](/mutual-funds/compare/hdfc-mid-cap-fund-direct-growth) | | | | |
 | --- | --- | --- | --- | --- |
 

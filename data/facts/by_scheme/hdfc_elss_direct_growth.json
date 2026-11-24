@@ -2,13 +2,13 @@
   "scheme_id": "hdfc_elss_direct_growth",
   "scheme_name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-  "content_captured_at": "2026-11-23",
-  "scrape_run_id": "45186237548",
+  "content_captured_at": "2026-11-24",
+  "scrape_run_id": "45412381268",
   "nav": {
-    "display": "₹1,592.37",
-    "amount_inr": 1592.37,
-    "as_of_display": "20 Nov '26",
-    "as_of_iso": "20 Nov '26"
+    "display": "₹1,566.73",
+    "amount_inr": 1566.73,
+    "as_of_display": "23 Nov '26",
+    "as_of_iso": "23 Nov '26"
   },
   "minimum_sip": {
     "display": "₹500",
@@ -28,5 +28,5 @@
   },
   "extraction_status": "complete",
   "missing_fields": [],
-  "facts_hash": "bc69cca4df9fcabaf2377903390cf0944dec076b1cff72b385d8b3335e923520"
+  "facts_hash": "11f10ab865b05bca88d6e474da374c36fa48c894e43525b671fc4aa75b371ad5"
 }
