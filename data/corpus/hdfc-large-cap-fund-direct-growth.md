@@ -1,11 +1,11 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-11-24'
-content_hash: 95b1060d30f61ea000d33b4ada57549e7e35e2bf3449818ecb37eb850bd6b948
+content_captured_at: '2026-11-25'
+content_hash: 5690718aa0a251c761c05e6a8bab5d5915777e3504857d67c970331a121eb77f
 document_type: groww_scheme_page
-expense_ratio_display: 0.99%
+expense_ratio_display: 0.98%
 facts_extraction_status: complete
-facts_hash: e7f93e4666c40ede469d991a0f02beefe29da7937ca1598815cb5fa77f1c0886
+facts_hash: 31146c9bb55a65538c0c47a94749a8c4980b42d899a1dde23f7ab0faeb73c849
 fund_size_aum_display: ₹37,466.30 Cr
 minimum_sip_display: ₹100
 nav_as_of: 23 Nov '26
@@ -14,7 +14,7 @@ rating_display: '4'
 scheme_category: large_cap
 scheme_id: hdfc_large_cap_direct_growth
 scheme_name: HDFC Large Cap Fund Direct Growth
-scrape_run_id: '45412381268'
+scrape_run_id: '45624315882'
 source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 ---
 
@@ -25,7 +25,7 @@ source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 | NAV (as of 23 Nov '26) | ₹1,277.91 |
 | Minimum SIP | ₹100 |
 | Fund size (AUM) | ₹37,466.30 Cr |
-| Expense ratio | 0.99% |
+| Expense ratio | 0.98% |
 | Rating | 4 |
 
 HDFC Large Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
@@ -127,8 +127,8 @@ Annualised returnsAbsolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +10.4% | +11.9% | +13.6% | +13.2% |
-| Category average (Equity Large Cap) | +12.7% | +10.5% | +13.9% | +13.2% |
-| Rank (Equity Large Cap) | 46 | 8 | 12 | -- |
+| Category average (Equity Large Cap) | +12.0% | +10.4% | +13.8% | +13.1% |
+| Rank (Equity Large Cap) | 50 | 8 | 13 | -- |
 
 ## Understand terms
 
