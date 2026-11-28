@@ -1,20 +1,20 @@
 ---
 amc_name: HDFC Mutual Fund
-content_captured_at: '2026-11-26'
-content_hash: 87dd28c113cd01b1ac27e2934a4b1e97a529824ad45b75bee5ff3ca346bef612
+content_captured_at: '2026-11-28'
+content_hash: 46a0f7058f05bdfe4413d20bce043fe30bf5e8200b08690e9550b6959f58e7e7
 document_type: groww_scheme_page
 expense_ratio_display: 1.18%
 facts_extraction_status: complete
-facts_hash: 9a626d7b35d556bf404a5069fc42ba4f58f2d947d5faf41abafd230b2089c1ca
+facts_hash: 8c70d08c97011605c8f1fb118a6fbf14cff6a1490131d1e7b412e4c4f02de3fe
 fund_size_aum_display: ₹15,108.43 Cr
 minimum_sip_display: ₹500
-nav_as_of: 25 Nov '26
-nav_display: ₹1,590.43
+nav_as_of: 27 Nov '26
+nav_display: ₹1,576.72
 rating_display: '5'
 scheme_category: elss
 scheme_id: hdfc_elss_direct_growth
 scheme_name: HDFC ELSS Tax Saver Fund Direct Plan Growth
-scrape_run_id: '45826615445'
+scrape_run_id: '46144358570'
 source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
 ---
 
@@ -22,7 +22,7 @@ source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-g
 
 | Metric | Value |
 |--------|-------|
-| NAV (as of 25 Nov '26) | ₹1,590.43 |
+| NAV (as of 27 Nov '26) | ₹1,576.72 |
 | Minimum SIP | ₹500 |
 | Fund size (AUM) | ₹15,108.43 Cr |
 | Expense ratio | 1.18% |
@@ -48,10 +48,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹63,741 |  | +6.24% |
-| 3 years | ₹1,80,000 | ₹2,01,204 |  | +11.78% |
-| 5 years | ₹3,00,000 | ₹4,23,070 |  | +41.02% |
-| 10 years | ₹6,00,000 | ₹13,22,774 |  | +120.46% |
+| 1 year | ₹60,000 | ₹63,811 |  | +6.35% |
+| 3 years | ₹1,80,000 | ₹2,01,459 |  | +11.92% |
+| 5 years | ₹3,00,000 | ₹4,23,577 |  | +41.19% |
+| 10 years | ₹6,00,000 | ₹13,24,176 |  | +120.70% |
 
 ## Holdings (64)
 
@@ -142,9 +142,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +14.6% | +15.0% | +14.3% | +14.3% |
-| Category average (Equity ELSS) | +12.1% | +11.4% | +14.7% | +17.3% |
-| Rank (Equity ELSS) | 8 | 3 | 16 | -- |
+| Fund returns | +14.6% | +15.7% | +14.3% | +14.4% |
+| Category average (Equity ELSS) | +12.5% | +12.3% | +14.7% | +17.4% |
+| Rank (Equity ELSS) | 8 | 2 | 17 | -- |
 
 ## Understand terms
 
